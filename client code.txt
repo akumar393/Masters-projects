@@ -1,0 +1,75 @@
+int main(int arc, char*arv[])
+{
+   int sockd, n,x,portno;
+   char buffer[256];
+   struct sockaddr_in servaddr;
+   hostent *server;
+
+   if(argc<3)
+  {
+    printf(stderr,"usage is %d ,hostname,port", argv[0])    //    ./client.c abhinav 45
+   }
+
+  portno= atoi(argv[2]);
+  server= gethostbyname(argv[1]);   //pointer function   struct *hostent gethostname(char *hname. char *haddr)
+  
+  sockd= socket(AF_INET, SOCK_STREAM,0);
+   IF(SOCKD<0)
+  {
+         printf("error creating socket");
+          exit(1);
+  }
+
+bzero((char*)&servaddr, sizeof(servaddr));
+servadrr.sin_family=AF_INET;
+bzcopy((char*)server->h_addr, (char* )&servaddr.sin_addr.s_addr, server->hlength));
+servaddr.sin_port= htonl(port);
+
+if(connect(sockd, (struct sockaddr_in*)&servaddr, sizeof(servaddr))<0)
+{
+  printf("cannot connect");
+  exit(1);
+}
+else  printf("connected");
+
+printf("Enter ur message");
+bzero(buffer,256);
+fgets(buffer,255,stdin);
+
+n= write(sockd,buffer,strlen(buffer));   //write request to server
+
+if(n<0)
+{
+  printf("cannot write");
+  exit(1);
+}
+
+if(x<0)
+{
+  printf("cannot  read");
+  exit(1);
+}
+bzero(buffer,256);
+x= read(sockd,buffer,255)               //read response from server
+
+printf("The reponse is %d", buffer);
+
+}
+}
+
+
+
+
+Output:
+
+gcc client.c www.google.com 45
+ connected
+enter your message
+hey man
+i got your message                     //prints server response
+
+gcc server.c 
+
+hey man                                //prints client message
+
+
