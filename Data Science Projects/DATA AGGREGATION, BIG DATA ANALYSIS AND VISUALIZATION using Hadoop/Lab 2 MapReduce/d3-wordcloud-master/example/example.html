@@ -1,0 +1,45 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Word Cloud</title>
+    <script src="../lib/d3/d3.js" charset="utf-8"></script>
+    <script src="../lib/d3/d3.layout.cloud.js"></script>
+    <script src="../d3.wordcloud.js"></script>
+    <script src="tweets.words.js"></script>
+    <script src="news.words.js"></script>
+  </head>
+  <body style="text-align: center">
+    <h1>Word Cloud</h1>
+    
+    <h2>Tweets</h2>
+    <div id='wordcloud_tweets'></div>
+    
+    <h2>News</h2>
+    <div id='wordcloud_news'></div>
+    
+    <div id='co_cloud'></div>
+    
+    <script>
+      d3.wordcloud()
+        .size([1000, 500])
+        .selector('#wordcloud_tweets')
+        .fill(d3.scale.ordinal().range(["#884400", "#448800", "#888800", "#444400"]))
+        .words(words_tweets)
+        .onwordclick(function(d, i) {
+          if (d.href) { window.location = d.href; }
+        })
+        .start();
+        
+		d3.wordcloud()
+        .size([1000, 500])
+        .selector('#wordcloud_news')
+        .fill(d3.scale.ordinal().range(["#884400", "#448800", "#888800", "#444400"]))
+        .words(words_news)
+        .onwordclick(function(d, i) {
+          if (d.href) { window.location = d.href; }
+        })
+        .start();
+    </script>
+  </body>
+</html>
+

@@ -1,0 +1,421 @@
+Age Group,Number of Records,InfluenzaDisease,InfluenzaDiseaseCount,Week,Year
+0-4 yr,1,A (H1N1)pdm09,2,40,2017
+0-4 yr,1,A (H1N1)pdm09,4,41,2017
+0-4 yr,1,A (H1N1)pdm09,4,42,2017
+0-4 yr,1,A (H1N1)pdm09,7,43,2017
+0-4 yr,1,A (H1N1)pdm09,5,44,2017
+0-4 yr,1,A (H1N1)pdm09,3,45,2017
+0-4 yr,1,A (H1N1)pdm09,12,46,2017
+0-4 yr,1,A (H1N1)pdm09,10,47,2017
+0-4 yr,1,A (H1N1)pdm09,5,48,2017
+0-4 yr,1,A (H1N1)pdm09,9,49,2017
+0-4 yr,1,A (H1N1)pdm09,18,50,2017
+0-4 yr,1,A (H1N1)pdm09,22,51,2017
+0-4 yr,1,A (H1N1)pdm09,23,52,2017
+0-4 yr,1,A (H1N1)pdm09,42,1,2018
+0-4 yr,1,A (H1N1)pdm09,36,2,2018
+0-4 yr,1,A (H1N1)pdm09,58,3,2018
+0-4 yr,1,A (H1N1)pdm09,61,4,2018
+0-4 yr,1,A (H1N1)pdm09,68,5,2018
+0-4 yr,1,A (H1N1)pdm09,58,6,2018
+0-4 yr,1,A (H1N1)pdm09,39,7,2018
+0-4 yr,1,A (H1N1)pdm09,14,8,2018
+5-24 yr,1,A (H1N1)pdm09,3,40,2017
+5-24 yr,1,A (H1N1)pdm09,3,41,2017
+5-24 yr,1,A (H1N1)pdm09,4,42,2017
+5-24 yr,1,A (H1N1)pdm09,12,43,2017
+5-24 yr,1,A (H1N1)pdm09,10,44,2017
+5-24 yr,1,A (H1N1)pdm09,6,45,2017
+5-24 yr,1,A (H1N1)pdm09,27,46,2017
+5-24 yr,1,A (H1N1)pdm09,8,47,2017
+5-24 yr,1,A (H1N1)pdm09,13,48,2017
+5-24 yr,1,A (H1N1)pdm09,19,49,2017
+5-24 yr,1,A (H1N1)pdm09,43,50,2017
+5-24 yr,1,A (H1N1)pdm09,45,51,2017
+5-24 yr,1,A (H1N1)pdm09,55,52,2017
+5-24 yr,1,A (H1N1)pdm09,39,1,2018
+5-24 yr,1,A (H1N1)pdm09,71,2,2018
+5-24 yr,1,A (H1N1)pdm09,73,3,2018
+5-24 yr,1,A (H1N1)pdm09,139,4,2018
+5-24 yr,1,A (H1N1)pdm09,151,5,2018
+5-24 yr,1,A (H1N1)pdm09,125,6,2018
+5-24 yr,1,A (H1N1)pdm09,84,7,2018
+5-24 yr,1,A (H1N1)pdm09,21,8,2018
+25-64 yr,1,A (H1N1)pdm09,6,40,2017
+25-64 yr,1,A (H1N1)pdm09,5,41,2017
+25-64 yr,1,A (H1N1)pdm09,3,42,2017
+25-64 yr,1,A (H1N1)pdm09,5,43,2017
+25-64 yr,1,A (H1N1)pdm09,2,44,2017
+25-64 yr,1,A (H1N1)pdm09,10,45,2017
+25-64 yr,1,A (H1N1)pdm09,10,46,2017
+25-64 yr,1,A (H1N1)pdm09,17,47,2017
+25-64 yr,1,A (H1N1)pdm09,21,48,2017
+25-64 yr,1,A (H1N1)pdm09,26,49,2017
+25-64 yr,1,A (H1N1)pdm09,44,50,2017
+25-64 yr,1,A (H1N1)pdm09,115,51,2017
+25-64 yr,1,A (H1N1)pdm09,120,52,2017
+25-64 yr,1,A (H1N1)pdm09,133,1,2018
+25-64 yr,1,A (H1N1)pdm09,157,2,2018
+25-64 yr,1,A (H1N1)pdm09,148,3,2018
+25-64 yr,1,A (H1N1)pdm09,188,4,2018
+25-64 yr,1,A (H1N1)pdm09,163,5,2018
+25-64 yr,1,A (H1N1)pdm09,156,6,2018
+25-64 yr,1,A (H1N1)pdm09,125,7,2018
+25-64 yr,1,A (H1N1)pdm09,39,8,2018
+65+ yr,1,A (H1N1)pdm09,2,40,2017
+65+ yr,1,A (H1N1)pdm09,0,41,2017
+65+ yr,1,A (H1N1)pdm09,1,42,2017
+65+ yr,1,A (H1N1)pdm09,0,43,2017
+65+ yr,1,A (H1N1)pdm09,2,44,2017
+65+ yr,1,A (H1N1)pdm09,0,45,2017
+65+ yr,1,A (H1N1)pdm09,3,46,2017
+65+ yr,1,A (H1N1)pdm09,1,47,2017
+65+ yr,1,A (H1N1)pdm09,20,48,2017
+65+ yr,1,A (H1N1)pdm09,9,49,2017
+65+ yr,1,A (H1N1)pdm09,13,50,2017
+65+ yr,1,A (H1N1)pdm09,32,51,2017
+65+ yr,1,A (H1N1)pdm09,47,52,2017
+65+ yr,1,A (H1N1)pdm09,56,1,2018
+65+ yr,1,A (H1N1)pdm09,60,2,2018
+65+ yr,1,A (H1N1)pdm09,47,3,2018
+65+ yr,1,A (H1N1)pdm09,68,4,2018
+65+ yr,1,A (H1N1)pdm09,60,5,2018
+65+ yr,1,A (H1N1)pdm09,44,6,2018
+65+ yr,1,A (H1N1)pdm09,37,7,2018
+65+ yr,1,A (H1N1)pdm09,13,8,2018
+0-4 yr,1,B (Lineage Unspecified),0,40,2017
+0-4 yr,1,B (Lineage Unspecified),2,41,2017
+0-4 yr,1,B (Lineage Unspecified),1,42,2017
+0-4 yr,1,B (Lineage Unspecified),0,43,2017
+0-4 yr,1,B (Lineage Unspecified),0,44,2017
+0-4 yr,1,B (Lineage Unspecified),0,45,2017
+0-4 yr,1,B (Lineage Unspecified),2,46,2017
+0-4 yr,1,B (Lineage Unspecified),2,47,2017
+0-4 yr,1,B (Lineage Unspecified),0,48,2017
+0-4 yr,1,B (Lineage Unspecified),2,49,2017
+0-4 yr,1,B (Lineage Unspecified),0,50,2017
+0-4 yr,1,B (Lineage Unspecified),5,51,2017
+0-4 yr,1,B (Lineage Unspecified),2,52,2017
+0-4 yr,1,B (Lineage Unspecified),2,1,2018
+0-4 yr,1,B (Lineage Unspecified),5,2,2018
+0-4 yr,1,B (Lineage Unspecified),6,3,2018
+0-4 yr,1,B (Lineage Unspecified),11,4,2018
+0-4 yr,1,B (Lineage Unspecified),16,5,2018
+0-4 yr,1,B (Lineage Unspecified),22,6,2018
+0-4 yr,1,B (Lineage Unspecified),10,7,2018
+0-4 yr,1,B (Lineage Unspecified),4,8,2018
+5-24 yr,1,B (Lineage Unspecified),0,40,2017
+5-24 yr,1,B (Lineage Unspecified),0,41,2017
+5-24 yr,1,B (Lineage Unspecified),0,42,2017
+5-24 yr,1,B (Lineage Unspecified),2,43,2017
+5-24 yr,1,B (Lineage Unspecified),8,44,2017
+5-24 yr,1,B (Lineage Unspecified),5,45,2017
+5-24 yr,1,B (Lineage Unspecified),11,46,2017
+5-24 yr,1,B (Lineage Unspecified),3,47,2017
+5-24 yr,1,B (Lineage Unspecified),5,48,2017
+5-24 yr,1,B (Lineage Unspecified),14,49,2017
+5-24 yr,1,B (Lineage Unspecified),17,50,2017
+5-24 yr,1,B (Lineage Unspecified),16,51,2017
+5-24 yr,1,B (Lineage Unspecified),16,52,2017
+5-24 yr,1,B (Lineage Unspecified),12,1,2018
+5-24 yr,1,B (Lineage Unspecified),51,2,2018
+5-24 yr,1,B (Lineage Unspecified),52,3,2018
+5-24 yr,1,B (Lineage Unspecified),84,4,2018
+5-24 yr,1,B (Lineage Unspecified),150,5,2018
+5-24 yr,1,B (Lineage Unspecified),121,6,2018
+5-24 yr,1,B (Lineage Unspecified),77,7,2018
+5-24 yr,1,B (Lineage Unspecified),54,8,2018
+25-64 yr,1,B (Lineage Unspecified),1,40,2017
+25-64 yr,1,B (Lineage Unspecified),1,41,2017
+25-64 yr,1,B (Lineage Unspecified),0,42,2017
+25-64 yr,1,B (Lineage Unspecified),1,43,2017
+25-64 yr,1,B (Lineage Unspecified),1,44,2017
+25-64 yr,1,B (Lineage Unspecified),1,45,2017
+25-64 yr,1,B (Lineage Unspecified),6,46,2017
+25-64 yr,1,B (Lineage Unspecified),3,47,2017
+25-64 yr,1,B (Lineage Unspecified),7,48,2017
+25-64 yr,1,B (Lineage Unspecified),10,49,2017
+25-64 yr,1,B (Lineage Unspecified),8,50,2017
+25-64 yr,1,B (Lineage Unspecified),23,51,2017
+25-64 yr,1,B (Lineage Unspecified),16,52,2017
+25-64 yr,1,B (Lineage Unspecified),32,1,2018
+25-64 yr,1,B (Lineage Unspecified),60,2,2018
+25-64 yr,1,B (Lineage Unspecified),47,3,2018
+25-64 yr,1,B (Lineage Unspecified),71,4,2018
+25-64 yr,1,B (Lineage Unspecified),76,5,2018
+25-64 yr,1,B (Lineage Unspecified),89,6,2018
+25-64 yr,1,B (Lineage Unspecified),71,7,2018
+25-64 yr,1,B (Lineage Unspecified),43,8,2018
+65+ yr,1,B (Lineage Unspecified),0,40,2017
+65+ yr,1,B (Lineage Unspecified),0,41,2017
+65+ yr,1,B (Lineage Unspecified),0,42,2017
+65+ yr,1,B (Lineage Unspecified),2,43,2017
+65+ yr,1,B (Lineage Unspecified),2,44,2017
+65+ yr,1,B (Lineage Unspecified),4,45,2017
+65+ yr,1,B (Lineage Unspecified),5,46,2017
+65+ yr,1,B (Lineage Unspecified),1,47,2017
+65+ yr,1,B (Lineage Unspecified),12,48,2017
+65+ yr,1,B (Lineage Unspecified),3,49,2017
+65+ yr,1,B (Lineage Unspecified),7,50,2017
+65+ yr,1,B (Lineage Unspecified),19,51,2017
+65+ yr,1,B (Lineage Unspecified),25,52,2017
+65+ yr,1,B (Lineage Unspecified),39,1,2018
+65+ yr,1,B (Lineage Unspecified),30,2,2018
+65+ yr,1,B (Lineage Unspecified),40,3,2018
+65+ yr,1,B (Lineage Unspecified),34,4,2018
+65+ yr,1,B (Lineage Unspecified),35,5,2018
+65+ yr,1,B (Lineage Unspecified),29,6,2018
+65+ yr,1,B (Lineage Unspecified),19,7,2018
+65+ yr,1,B (Lineage Unspecified),24,8,2018
+0-4 yr,1,B (Victoria Lineage),0,40,2017
+0-4 yr,1,B (Victoria Lineage),0,41,2017
+0-4 yr,1,B (Victoria Lineage),0,42,2017
+0-4 yr,1,B (Victoria Lineage),0,43,2017
+0-4 yr,1,B (Victoria Lineage),0,44,2017
+0-4 yr,1,B (Victoria Lineage),0,45,2017
+0-4 yr,1,B (Victoria Lineage),0,46,2017
+0-4 yr,1,B (Victoria Lineage),1,47,2017
+0-4 yr,1,B (Victoria Lineage),0,48,2017
+0-4 yr,1,B (Victoria Lineage),3,49,2017
+0-4 yr,1,B (Victoria Lineage),2,50,2017
+0-4 yr,1,B (Victoria Lineage),5,51,2017
+0-4 yr,1,B (Victoria Lineage),7,52,2017
+0-4 yr,1,B (Victoria Lineage),10,1,2018
+0-4 yr,1,B (Victoria Lineage),6,2,2018
+0-4 yr,1,B (Victoria Lineage),5,3,2018
+0-4 yr,1,B (Victoria Lineage),10,4,2018
+0-4 yr,1,B (Victoria Lineage),11,5,2018
+0-4 yr,1,B (Victoria Lineage),15,6,2018
+0-4 yr,1,B (Victoria Lineage),9,7,2018
+0-4 yr,1,B (Victoria Lineage),7,8,2018
+5-24 yr,1,B (Victoria Lineage),0,40,2017
+5-24 yr,1,B (Victoria Lineage),1,41,2017
+5-24 yr,1,B (Victoria Lineage),0,42,2017
+5-24 yr,1,B (Victoria Lineage),0,43,2017
+5-24 yr,1,B (Victoria Lineage),2,44,2017
+5-24 yr,1,B (Victoria Lineage),1,45,2017
+5-24 yr,1,B (Victoria Lineage),3,46,2017
+5-24 yr,1,B (Victoria Lineage),1,47,2017
+5-24 yr,1,B (Victoria Lineage),6,48,2017
+5-24 yr,1,B (Victoria Lineage),9,49,2017
+5-24 yr,1,B (Victoria Lineage),20,50,2017
+5-24 yr,1,B (Victoria Lineage),23,51,2017
+5-24 yr,1,B (Victoria Lineage),11,52,2017
+5-24 yr,1,B (Victoria Lineage),13,1,2018
+5-24 yr,1,B (Victoria Lineage),17,2,2018
+5-24 yr,1,B (Victoria Lineage),16,3,2018
+5-24 yr,1,B (Victoria Lineage),25,4,2018
+5-24 yr,1,B (Victoria Lineage),38,5,2018
+5-24 yr,1,B (Victoria Lineage),30,6,2018
+5-24 yr,1,B (Victoria Lineage),38,7,2018
+5-24 yr,1,B (Victoria Lineage),20,8,2018
+25-64 yr,1,B (Victoria Lineage),0,40,2017
+25-64 yr,1,B (Victoria Lineage),1,41,2017
+25-64 yr,1,B (Victoria Lineage),0,42,2017
+25-64 yr,1,B (Victoria Lineage),0,43,2017
+25-64 yr,1,B (Victoria Lineage),0,44,2017
+25-64 yr,1,B (Victoria Lineage),2,45,2017
+25-64 yr,1,B (Victoria Lineage),1,46,2017
+25-64 yr,1,B (Victoria Lineage),3,47,2017
+25-64 yr,1,B (Victoria Lineage),1,48,2017
+25-64 yr,1,B (Victoria Lineage),0,49,2017
+25-64 yr,1,B (Victoria Lineage),6,50,2017
+25-64 yr,1,B (Victoria Lineage),9,51,2017
+25-64 yr,1,B (Victoria Lineage),7,52,2017
+25-64 yr,1,B (Victoria Lineage),8,1,2018
+25-64 yr,1,B (Victoria Lineage),8,2,2018
+25-64 yr,1,B (Victoria Lineage),9,3,2018
+25-64 yr,1,B (Victoria Lineage),11,4,2018
+25-64 yr,1,B (Victoria Lineage),8,5,2018
+25-64 yr,1,B (Victoria Lineage),12,6,2018
+25-64 yr,1,B (Victoria Lineage),8,7,2018
+25-64 yr,1,B (Victoria Lineage),7,8,2018
+65+ yr,1,B (Victoria Lineage),0,40,2017
+65+ yr,1,B (Victoria Lineage),0,41,2017
+65+ yr,1,B (Victoria Lineage),0,42,2017
+65+ yr,1,B (Victoria Lineage),0,43,2017
+65+ yr,1,B (Victoria Lineage),0,44,2017
+65+ yr,1,B (Victoria Lineage),0,45,2017
+65+ yr,1,B (Victoria Lineage),1,46,2017
+65+ yr,1,B (Victoria Lineage),0,47,2017
+65+ yr,1,B (Victoria Lineage),0,48,2017
+65+ yr,1,B (Victoria Lineage),3,49,2017
+65+ yr,1,B (Victoria Lineage),1,50,2017
+65+ yr,1,B (Victoria Lineage),0,51,2017
+65+ yr,1,B (Victoria Lineage),2,52,2017
+65+ yr,1,B (Victoria Lineage),7,1,2018
+65+ yr,1,B (Victoria Lineage),6,2,2018
+65+ yr,1,B (Victoria Lineage),2,3,2018
+65+ yr,1,B (Victoria Lineage),2,4,2018
+65+ yr,1,B (Victoria Lineage),1,5,2018
+65+ yr,1,B (Victoria Lineage),6,6,2018
+65+ yr,1,B (Victoria Lineage),2,7,2018
+65+ yr,1,B (Victoria Lineage),2,8,2018
+0-4 yr,1,B (Yamagata Lineage),0,40,2017
+0-4 yr,1,B (Yamagata Lineage),1,41,2017
+0-4 yr,1,B (Yamagata Lineage),1,42,2017
+0-4 yr,1,B (Yamagata Lineage),0,43,2017
+0-4 yr,1,B (Yamagata Lineage),3,44,2017
+0-4 yr,1,B (Yamagata Lineage),1,45,2017
+0-4 yr,1,B (Yamagata Lineage),2,46,2017
+0-4 yr,1,B (Yamagata Lineage),4,47,2017
+0-4 yr,1,B (Yamagata Lineage),4,48,2017
+0-4 yr,1,B (Yamagata Lineage),3,49,2017
+0-4 yr,1,B (Yamagata Lineage),9,50,2017
+0-4 yr,1,B (Yamagata Lineage),16,51,2017
+0-4 yr,1,B (Yamagata Lineage),18,52,2017
+0-4 yr,1,B (Yamagata Lineage),26,1,2018
+0-4 yr,1,B (Yamagata Lineage),12,2,2018
+0-4 yr,1,B (Yamagata Lineage),30,3,2018
+0-4 yr,1,B (Yamagata Lineage),35,4,2018
+0-4 yr,1,B (Yamagata Lineage),39,5,2018
+0-4 yr,1,B (Yamagata Lineage),28,6,2018
+0-4 yr,1,B (Yamagata Lineage),26,7,2018
+0-4 yr,1,B (Yamagata Lineage),16,8,2018
+5-24 yr,1,B (Yamagata Lineage),3,40,2017
+5-24 yr,1,B (Yamagata Lineage),0,41,2017
+5-24 yr,1,B (Yamagata Lineage),2,42,2017
+5-24 yr,1,B (Yamagata Lineage),5,43,2017
+5-24 yr,1,B (Yamagata Lineage),9,44,2017
+5-24 yr,1,B (Yamagata Lineage),8,45,2017
+5-24 yr,1,B (Yamagata Lineage),25,46,2017
+5-24 yr,1,B (Yamagata Lineage),18,47,2017
+5-24 yr,1,B (Yamagata Lineage),22,48,2017
+5-24 yr,1,B (Yamagata Lineage),32,49,2017
+5-24 yr,1,B (Yamagata Lineage),62,50,2017
+5-24 yr,1,B (Yamagata Lineage),61,51,2017
+5-24 yr,1,B (Yamagata Lineage),61,52,2017
+5-24 yr,1,B (Yamagata Lineage),49,1,2018
+5-24 yr,1,B (Yamagata Lineage),99,2,2018
+5-24 yr,1,B (Yamagata Lineage),98,3,2018
+5-24 yr,1,B (Yamagata Lineage),184,4,2018
+5-24 yr,1,B (Yamagata Lineage),238,5,2018
+5-24 yr,1,B (Yamagata Lineage),246,6,2018
+5-24 yr,1,B (Yamagata Lineage),173,7,2018
+5-24 yr,1,B (Yamagata Lineage),109,8,2018
+25-64 yr,1,B (Yamagata Lineage),7,40,2017
+25-64 yr,1,B (Yamagata Lineage),8,41,2017
+25-64 yr,1,B (Yamagata Lineage),3,42,2017
+25-64 yr,1,B (Yamagata Lineage),7,43,2017
+25-64 yr,1,B (Yamagata Lineage),8,44,2017
+25-64 yr,1,B (Yamagata Lineage),14,45,2017
+25-64 yr,1,B (Yamagata Lineage),17,46,2017
+25-64 yr,1,B (Yamagata Lineage),15,47,2017
+25-64 yr,1,B (Yamagata Lineage),27,48,2017
+25-64 yr,1,B (Yamagata Lineage),32,49,2017
+25-64 yr,1,B (Yamagata Lineage),56,50,2017
+25-64 yr,1,B (Yamagata Lineage),73,51,2017
+25-64 yr,1,B (Yamagata Lineage),113,52,2017
+25-64 yr,1,B (Yamagata Lineage),151,1,2018
+25-64 yr,1,B (Yamagata Lineage),149,2,2018
+25-64 yr,1,B (Yamagata Lineage),166,3,2018
+25-64 yr,1,B (Yamagata Lineage),173,4,2018
+25-64 yr,1,B (Yamagata Lineage),187,5,2018
+25-64 yr,1,B (Yamagata Lineage),202,6,2018
+25-64 yr,1,B (Yamagata Lineage),162,7,2018
+25-64 yr,1,B (Yamagata Lineage),95,8,2018
+65+ yr,1,B (Yamagata Lineage),6,40,2017
+65+ yr,1,B (Yamagata Lineage),2,41,2017
+65+ yr,1,B (Yamagata Lineage),4,42,2017
+65+ yr,1,B (Yamagata Lineage),6,43,2017
+65+ yr,1,B (Yamagata Lineage),11,44,2017
+65+ yr,1,B (Yamagata Lineage),6,45,2017
+65+ yr,1,B (Yamagata Lineage),15,46,2017
+65+ yr,1,B (Yamagata Lineage),23,47,2017
+65+ yr,1,B (Yamagata Lineage),37,48,2017
+65+ yr,1,B (Yamagata Lineage),25,49,2017
+65+ yr,1,B (Yamagata Lineage),27,50,2017
+65+ yr,1,B (Yamagata Lineage),55,51,2017
+65+ yr,1,B (Yamagata Lineage),108,52,2017
+65+ yr,1,B (Yamagata Lineage),150,1,2018
+65+ yr,1,B (Yamagata Lineage),136,2,2018
+65+ yr,1,B (Yamagata Lineage),138,3,2018
+65+ yr,1,B (Yamagata Lineage),180,4,2018
+65+ yr,1,B (Yamagata Lineage),147,5,2018
+65+ yr,1,B (Yamagata Lineage),163,6,2018
+65+ yr,1,B (Yamagata Lineage),141,7,2018
+65+ yr,1,B (Yamagata Lineage),96,8,2018
+0-4 yr,1,A (Subtyping not Performed),0,40,2017
+0-4 yr,1,A (Subtyping not Performed),0,41,2017
+0-4 yr,1,A (Subtyping not Performed),0,42,2017
+0-4 yr,1,A (Subtyping not Performed),0,43,2017
+0-4 yr,1,A (Subtyping not Performed),0,44,2017
+0-4 yr,1,A (Subtyping not Performed),0,45,2017
+0-4 yr,1,A (Subtyping not Performed),0,46,2017
+0-4 yr,1,A (Subtyping not Performed),0,47,2017
+0-4 yr,1,A (Subtyping not Performed),1,48,2017
+0-4 yr,1,A (Subtyping not Performed),0,49,2017
+0-4 yr,1,A (Subtyping not Performed),0,50,2017
+0-4 yr,1,A (Subtyping not Performed),1,51,2017
+0-4 yr,1,A (Subtyping not Performed),1,52,2017
+0-4 yr,1,A (Subtyping not Performed),0,1,2018
+0-4 yr,1,A (Subtyping not Performed),1,2,2018
+0-4 yr,1,A (Subtyping not Performed),0,3,2018
+0-4 yr,1,A (Subtyping not Performed),0,4,2018
+0-4 yr,1,A (Subtyping not Performed),1,5,2018
+0-4 yr,1,A (Subtyping not Performed),1,6,2018
+0-4 yr,1,A (Subtyping not Performed),0,7,2018
+0-4 yr,1,A (Subtyping not Performed),0,8,2018
+5-24 yr,1,A (Subtyping not Performed),1,40,2017
+5-24 yr,1,A (Subtyping not Performed),0,41,2017
+5-24 yr,1,A (Subtyping not Performed),0,42,2017
+5-24 yr,1,A (Subtyping not Performed),1,43,2017
+5-24 yr,1,A (Subtyping not Performed),0,44,2017
+5-24 yr,1,A (Subtyping not Performed),0,45,2017
+5-24 yr,1,A (Subtyping not Performed),1,46,2017
+5-24 yr,1,A (Subtyping not Performed),0,47,2017
+5-24 yr,1,A (Subtyping not Performed),0,48,2017
+5-24 yr,1,A (Subtyping not Performed),0,49,2017
+5-24 yr,1,A (Subtyping not Performed),2,50,2017
+5-24 yr,1,A (Subtyping not Performed),2,51,2017
+5-24 yr,1,A (Subtyping not Performed),3,52,2017
+5-24 yr,1,A (Subtyping not Performed),0,1,2018
+5-24 yr,1,A (Subtyping not Performed),4,2,2018
+5-24 yr,1,A (Subtyping not Performed),2,3,2018
+5-24 yr,1,A (Subtyping not Performed),4,4,2018
+5-24 yr,1,A (Subtyping not Performed),11,5,2018
+5-24 yr,1,A (Subtyping not Performed),4,6,2018
+5-24 yr,1,A (Subtyping not Performed),2,7,2018
+5-24 yr,1,A (Subtyping not Performed),5,8,2018
+25-64 yr,1,A (Subtyping not Performed),1,40,2017
+25-64 yr,1,A (Subtyping not Performed),1,41,2017
+25-64 yr,1,A (Subtyping not Performed),0,42,2017
+25-64 yr,1,A (Subtyping not Performed),2,43,2017
+25-64 yr,1,A (Subtyping not Performed),2,44,2017
+25-64 yr,1,A (Subtyping not Performed),1,45,2017
+25-64 yr,1,A (Subtyping not Performed),1,46,2017
+25-64 yr,1,A (Subtyping not Performed),0,47,2017
+25-64 yr,1,A (Subtyping not Performed),5,48,2017
+25-64 yr,1,A (Subtyping not Performed),0,49,2017
+25-64 yr,1,A (Subtyping not Performed),6,50,2017
+25-64 yr,1,A (Subtyping not Performed),8,51,2017
+25-64 yr,1,A (Subtyping not Performed),4,52,2017
+25-64 yr,1,A (Subtyping not Performed),10,1,2018
+25-64 yr,1,A (Subtyping not Performed),12,2,2018
+25-64 yr,1,A (Subtyping not Performed),10,3,2018
+25-64 yr,1,A (Subtyping not Performed),7,4,2018
+25-64 yr,1,A (Subtyping not Performed),7,5,2018
+25-64 yr,1,A (Subtyping not Performed),8,6,2018
+25-64 yr,1,A (Subtyping not Performed),5,7,2018
+25-64 yr,1,A (Subtyping not Performed),2,8,2018
+65+ yr,1,A (Subtyping not Performed),1,40,2017
+65+ yr,1,A (Subtyping not Performed),0,41,2017
+65+ yr,1,A (Subtyping not Performed),0,42,2017
+65+ yr,1,A (Subtyping not Performed),1,43,2017
+65+ yr,1,A (Subtyping not Performed),0,44,2017
+65+ yr,1,A (Subtyping not Performed),0,45,2017
+65+ yr,1,A (Subtyping not Performed),0,46,2017
+65+ yr,1,A (Subtyping not Performed),0,47,2017
+65+ yr,1,A (Subtyping not Performed),1,48,2017
+65+ yr,1,A (Subtyping not Performed),0,49,2017
+65+ yr,1,A (Subtyping not Performed),2,50,2017
+65+ yr,1,A (Subtyping not Performed),3,51,2017
+65+ yr,1,A (Subtyping not Performed),11,52,2017
+65+ yr,1,A (Subtyping not Performed),8,1,2018
+65+ yr,1,A (Subtyping not Performed),12,2,2018
+65+ yr,1,A (Subtyping not Performed),8,3,2018
+65+ yr,1,A (Subtyping not Performed),15,4,2018
+65+ yr,1,A (Subtyping not Performed),13,5,2018
+65+ yr,1,A (Subtyping not Performed),10,6,2018
+65+ yr,1,A (Subtyping not Performed),6,7,2018
+65+ yr,1,A (Subtyping not Performed),3,8,2018

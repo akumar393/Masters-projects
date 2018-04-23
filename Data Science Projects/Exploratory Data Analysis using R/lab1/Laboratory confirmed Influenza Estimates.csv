@@ -1,0 +1,121 @@
+CATCHMENT,NETWORK,SEASON,MMWR-YEAR,MMWR-WEEK,AGE CATEGORY,CUMULATIVE RATE,WEEKLY RATE 
+Entire Network,FluSurv-NET,2017-18,2017,40,0-4 yr,0.1,0.1
+Entire Network,FluSurv-NET,2017-18,2017,41,0-4 yr,0.2,0.1
+Entire Network,FluSurv-NET,2017-18,2017,42,0-4 yr,0.2,0.1
+Entire Network,FluSurv-NET,2017-18,2017,43,0-4 yr,0.3,0.1
+Entire Network,FluSurv-NET,2017-18,2017,44,0-4 yr,0.6,0.2
+Entire Network,FluSurv-NET,2017-18,2017,45,0-4 yr,0.7,0.2
+Entire Network,FluSurv-NET,2017-18,2017,46,0-4 yr,1,0.3
+Entire Network,FluSurv-NET,2017-18,2017,47,0-4 yr,1.8,0.7
+Entire Network,FluSurv-NET,2017-18,2017,48,0-4 yr,2.7,0.9
+Entire Network,FluSurv-NET,2017-18,2017,49,0-4 yr,3.3,0.7
+Entire Network,FluSurv-NET,2017-18,2017,50,0-4 yr,5.2,1.9
+Entire Network,FluSurv-NET,2017-18,2017,51,0-4 yr,7.9,2.7
+Entire Network,FluSurv-NET,2017-18,2017,52,0-4 yr,13.7,5.8
+Entire Network,FluSurv-NET,2017-18,2018,1,0-4 yr,18.3,4.6
+Entire Network,FluSurv-NET,2017-18,2018,2,0-4 yr,23.3,5
+Entire Network,FluSurv-NET,2017-18,2018,3,0-4 yr,28.2,4.8
+Entire Network,FluSurv-NET,2017-18,2018,4,0-4 yr,35.6,7.4
+Entire Network,FluSurv-NET,2017-18,2018,5,0-4 yr,41.9,6.3
+Entire Network,FluSurv-NET,2017-18,2018,6,0-4 yr,47.1,5.3
+Entire Network,FluSurv-NET,2017-18,2018,7,0-4 yr,null,null
+Entire Network,FluSurv-NET,2017-18,2017,40,5-17 yr,0,0
+Entire Network,FluSurv-NET,2017-18,2017,41,5-17 yr,0.1,0
+Entire Network,FluSurv-NET,2017-18,2017,42,5-17 yr,0.1,0
+Entire Network,FluSurv-NET,2017-18,2017,43,5-17 yr,0.1,0
+Entire Network,FluSurv-NET,2017-18,2017,44,5-17 yr,0.2,0.1
+Entire Network,FluSurv-NET,2017-18,2017,45,5-17 yr,0.3,0.1
+Entire Network,FluSurv-NET,2017-18,2017,46,5-17 yr,0.5,0.1
+Entire Network,FluSurv-NET,2017-18,2017,47,5-17 yr,0.7,0.3
+Entire Network,FluSurv-NET,2017-18,2017,48,5-17 yr,0.9,0.2
+Entire Network,FluSurv-NET,2017-18,2017,49,5-17 yr,1.2,0.2
+Entire Network,FluSurv-NET,2017-18,2017,50,5-17 yr,1.7,0.6
+Entire Network,FluSurv-NET,2017-18,2017,51,5-17 yr,2.5,0.8
+Entire Network,FluSurv-NET,2017-18,2017,52,5-17 yr,3.5,1
+Entire Network,FluSurv-NET,2017-18,2018,1,5-17 yr,4.3,0.8
+Entire Network,FluSurv-NET,2017-18,2018,2,5-17 yr,5.9,1.6
+Entire Network,FluSurv-NET,2017-18,2018,3,5-17 yr,7.3,1.4
+Entire Network,FluSurv-NET,2017-18,2018,4,5-17 yr,9,1.7
+Entire Network,FluSurv-NET,2017-18,2018,5,5-17 yr,11,2
+Entire Network,FluSurv-NET,2017-18,2018,6,5-17 yr,12.3,1.4
+Entire Network,FluSurv-NET,2017-18,2018,7,5-17 yr,null,null
+Entire Network,FluSurv-NET,2017-18,2017,40,18-49 yr,0.1,0.1
+Entire Network,FluSurv-NET,2017-18,2017,41,18-49 yr,0.1,0
+Entire Network,FluSurv-NET,2017-18,2017,42,18-49 yr,0.2,0.1
+Entire Network,FluSurv-NET,2017-18,2017,43,18-49 yr,0.2,0.1
+Entire Network,FluSurv-NET,2017-18,2017,44,18-49 yr,0.4,0.1
+Entire Network,FluSurv-NET,2017-18,2017,45,18-49 yr,0.5,0.1
+Entire Network,FluSurv-NET,2017-18,2017,46,18-49 yr,0.7,0.2
+Entire Network,FluSurv-NET,2017-18,2017,47,18-49 yr,1,0.3
+Entire Network,FluSurv-NET,2017-18,2017,48,18-49 yr,1.4,0.4
+Entire Network,FluSurv-NET,2017-18,2017,49,18-49 yr,1.9,0.5
+Entire Network,FluSurv-NET,2017-18,2017,50,18-49 yr,2.7,0.8
+Entire Network,FluSurv-NET,2017-18,2017,51,18-49 yr,4.2,1.5
+Entire Network,FluSurv-NET,2017-18,2017,52,18-49 yr,6.6,2.4
+Entire Network,FluSurv-NET,2017-18,2018,1,18-49 yr,9.3,2.7
+Entire Network,FluSurv-NET,2017-18,2018,2,18-49 yr,12.5,3.2
+Entire Network,FluSurv-NET,2017-18,2018,3,18-49 yr,15.2,2.7
+Entire Network,FluSurv-NET,2017-18,2018,4,18-49 yr,17.7,2.5
+Entire Network,FluSurv-NET,2017-18,2018,5,18-49 yr,19.7,2
+Entire Network,FluSurv-NET,2017-18,2018,6,18-49 yr,21,1.3
+Entire Network,FluSurv-NET,2017-18,2018,7,18-49 yr,null,null
+Entire Network,FluSurv-NET,2017-18,2017,40,50-64 yr,0.2,0.2
+Entire Network,FluSurv-NET,2017-18,2017,41,50-64 yr,0.3,0.1
+Entire Network,FluSurv-NET,2017-18,2017,42,50-64 yr,0.5,0.2
+Entire Network,FluSurv-NET,2017-18,2017,43,50-64 yr,0.8,0.3
+Entire Network,FluSurv-NET,2017-18,2017,44,50-64 yr,1.1,0.3
+Entire Network,FluSurv-NET,2017-18,2017,45,50-64 yr,1.6,0.5
+Entire Network,FluSurv-NET,2017-18,2017,46,50-64 yr,2.2,0.6
+Entire Network,FluSurv-NET,2017-18,2017,47,50-64 yr,3.1,0.9
+Entire Network,FluSurv-NET,2017-18,2017,48,50-64 yr,4.1,1
+Entire Network,FluSurv-NET,2017-18,2017,49,50-64 yr,5.4,1.3
+Entire Network,FluSurv-NET,2017-18,2017,50,50-64 yr,8.1,2.7
+Entire Network,FluSurv-NET,2017-18,2017,51,50-64 yr,13.7,5.6
+Entire Network,FluSurv-NET,2017-18,2017,52,50-64 yr,21.7,8
+Entire Network,FluSurv-NET,2017-18,2018,1,50-64 yr,32.6,10.9
+Entire Network,FluSurv-NET,2017-18,2018,2,50-64 yr,42.9,10.3
+Entire Network,FluSurv-NET,2017-18,2018,3,50-64 yr,52,9.2
+Entire Network,FluSurv-NET,2017-18,2018,4,50-64 yr,60.2,8.1
+Entire Network,FluSurv-NET,2017-18,2018,5,50-64 yr,67.7,7.5
+Entire Network,FluSurv-NET,2017-18,2018,6,50-64 yr,72.8,5.1
+Entire Network,FluSurv-NET,2017-18,2018,7,50-64 yr,null,null
+Entire Network,FluSurv-NET,2017-18,2017,40,65+ yr,0.5,0.5
+Entire Network,FluSurv-NET,2017-18,2017,41,65+ yr,1,0.5
+Entire Network,FluSurv-NET,2017-18,2017,42,65+ yr,2.1,1.1
+Entire Network,FluSurv-NET,2017-18,2017,43,65+ yr,3,0.9
+Entire Network,FluSurv-NET,2017-18,2017,44,65+ yr,3.9,0.9
+Entire Network,FluSurv-NET,2017-18,2017,45,65+ yr,5.1,1.1
+Entire Network,FluSurv-NET,2017-18,2017,46,65+ yr,6.5,1.5
+Entire Network,FluSurv-NET,2017-18,2017,47,65+ yr,9.2,2.7
+Entire Network,FluSurv-NET,2017-18,2017,48,65+ yr,14.3,5.1
+Entire Network,FluSurv-NET,2017-18,2017,49,65+ yr,20.5,6.2
+Entire Network,FluSurv-NET,2017-18,2017,50,65+ yr,30.2,9.7
+Entire Network,FluSurv-NET,2017-18,2017,51,65+ yr,50.2,20.1
+Entire Network,FluSurv-NET,2017-18,2017,52,65+ yr,90.1,39.9
+Entire Network,FluSurv-NET,2017-18,2018,1,65+ yr,137.9,47.8
+Entire Network,FluSurv-NET,2017-18,2018,2,65+ yr,179.5,41.5
+Entire Network,FluSurv-NET,2017-18,2018,3,65+ yr,217.4,38
+Entire Network,FluSurv-NET,2017-18,2018,4,65+ yr,251.8,34.4
+Entire Network,FluSurv-NET,2017-18,2018,5,65+ yr,279,27.2
+Entire Network,FluSurv-NET,2017-18,2018,6,65+ yr,294.9,15.9
+Entire Network,FluSurv-NET,2017-18,2018,7,65+ yr,null,null
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Disclaimer:,,,,,,,
+The Influenza Hospitalization Surveillance Network (FluSurv-NET) data are preliminary and subject,,,,,,,
+to change as more data become available. All incidence rates are unadjusted.  FluSurv-NET conducts,,,,,,,
+population-based surveillance for laboratory-confirmed influenza related hospitalizations in,,,,,,,
+children <18 years of age (since 2003-2004 influenza season) and adults (since 2005-2006 influenza,,,,,,,
+season).  The FluSurv-NET covers over 70 counties in the 10 Emerging Infections Program (EIP),,,,,,,
+"states (CA, CO, CT, GA, MD, MN, NM, NY, OR, TN) and additional Influenza Hospitalization",,,,,,,
+Surveillance Project (IHSP) states.   The IHSP began during the 2009-2010 season to enhance,,,,,,,
+"surveillance during the 2009 H1N1 pandemic.  IHSP sites included IA, ID, MI, OK and SD during",,,,,,,
+"2009-2010 season; ID, MI, OH, OK, RI, and UT during the 2010-2011 season; MI, OH, RI, and UT during",,,,,,,
+"the 2011-2012 season; IA, MI, OH, RI, and UT during the 2012-2013 season; and MI, OH, and UT during",,,,,,,
+"the 2013-2014 , 2014-2015 and 2015-2016 seasons.  Cumulative and weekly unadjusted incidence rates",,,,,,,
+"(per 100,000 population) are calculated using the National Center for Health Statistics' (NCHS)",,,,,,,
+population estimates for the counties included in the surveillance catchment area.  The rates,,,,,,,
+"provided are likely to be underestimated as influenza-related hospitalizations can be missed,",,,,,,,
+"either because testing is not performed, or because cases may be attributed to other causes of",,,,,,,
+pneumonia or other common influenza-related complications.,,,,,,,
