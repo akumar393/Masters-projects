@@ -1,0 +1,257 @@
+This year, we covered a variety of topics to help you save time, money and your sanity while traveling. Here is a selection of those articles, with some tips and techniques gleaned from them. Share your ideas in the comments section.
+
+Which Travel Search Site Is Best? It Depends on Your Goals
+
+I admit that I went into this informal study of online travel agencies, or O.T.A.s, and search sites expecting prices and options to be more or less the same from site to site. Let’s just say I was surprised by how mistaken I was.
+
+The Right Way to Pack for Travel
+
+The simplest way to limit your pack-rat habit is to buy a hard-sided suitcase no taller than 22 inches, with a structured shell, so you can’t squeeze in any extras.
+
+How to Book the Cheapest Holiday Travel
+
+When to book? There might not be a whole lot to gain from focusing on the day of the week.
+
+Sustainable Travel Can Be Budget-Friendly
+
+Not only should traveling sustainably not break the bank — it’s frequently a better, more enjoyable experience than its nonsustainable counterpart.
+
+New Ways to Find and Book the Perfect Vacation Rental
+
+These days you can find and book a rental halfway around the world in ways you may not have considered, or even know about: on traditional hotel and airfare booking websites like Expedia and Hotels.com, through the hotel review (and now booking) site TripAdvisor or even in Google search.
+
+How to Have a Romantic Vacation
+
+Surprises never get old, and incorporating unexpected elements throughout your trip is a fun way to restore your romantic bond with your partner.
+
+How to Save on Your Trip to a Theme Park
+
+You can buy theme-park tickets at the gate, but that doesn’t mean you should.
+
+How to Make the Most of Your Credit Card Points
+
+Chase has one of the best rewards programs out there thanks to its flexible Ultimate Rewards program.
+
+A Grown-Up’s Guide to Walt Disney World
+
+Whatever brings you to the theme parks — your honeymoon, nostalgia, business travel, unfulfilled childhood fantasies — there’s plenty of grown-up fun to be had.
+
+New Ways to Help Speed Up Your Travel Planning
+
+AirlineCheckins.com, an automatic check-in tool, is officially up and running.
+
+How to Conquer the Challenge of Long-Term Travel
+
+“Long-term travel is an exercise in letting go of exact to-do lists, planning moment to moment and controlling the entire process.”
+
+MOUNTAIN VIEW, Calif. — Project Foghorn is one of those straight-from-science-fiction concepts we’ve come to expect from Alphabet, the sprawling conglomerate formerly known as Google. The idea, hatched by the company’s X research lab, was to use seawater and chemistry to create fuel that could be refined into gasoline. This gas would be just like the gas we fill our cars with today — except that unlike today’s gas, it would not add to global warming because it would recycle carbon dioxide already in the atmosphere.
+
+If the project had been successful — and this was always a big if — it would have changed the definition of green energy and potentially undercut some of the most important industries in the world, not least the oil business. But after two years of trying, and an undisclosed research budget, Foghorn died during a January staff meeting.
+
+The result: Everyone on the team received a bonus (they won’t say how much).
+
+X, formerly called Google X, cheekily refers to itself as “the moonshot factory.” They are the people behind Google’s self-driving car, along with various out-there projects like Loon, an attempt to beam internet access from stratospheric balloons, and Wing, a drone delivery service. Those efforts sit atop dozens of aborted projects — some just ideas, others that consumed years — like a never built jet pack and giant blimps that would haul cargo with the same efficiency as an ocean liner.
+
+What all these efforts have in common, besides imaginative power, is that they do not make any money. X’s budget and head count are a secret, but shareholders’ perceptions about the division were aptly summed up by a poster board in its Mountain View, Calif., offices. It had a picture of a burning $100 bill followed by, “Investors think we do this.”
+
+That poster points to a central question for both X and Alphabet: What exactly is X’s business? And how does a public company invest in such speculative ideas, most of which will never work, without irritating investors or wasting a ton of money?
+
+Building a research division is an old and often unsuccessful concept. For decades, corporate giants like AT&T, IBM, Microsoft and Xerox have tried, in varying ways, to organize research-oriented groups in hopes of finding ways to cash in on emerging technologies before their competitors.
+
+Those efforts played a role in creating some of the 20th century’s most significant innovations. For instance, Bell Labs, then a division of AT&T, invented the transistor, the foundation of modern electronics. But in many cases these research arms did little for the companies that financed them.
+
+Xerox pioneered the graphical interface for computers — the idea that people could navigate with a mouse rather than typing obscure commands on a screen. But it was a young company named Apple that turned that idea into a giant business.
+
+“In general, the model of having a central research lab that the corporation funds for research into new technologies has not produced much for these companies,” said G. Pascal Zachary, a professor at the Arizona State University School for the Future of Innovation in Society. “That’s why you don’t see many of the successful young companies today thinking about building them.”
+
+X is trying to make corporate research systematic by borrowing working ideas from the past, while adding a few wrinkles — like giving people a financial incentive to admit when something is not working out — in hopes of not making the same mistakes.
+
+This effort comes at a time when Alphabet is trying to enforce financial discipline over a broad empire that was famous for not worrying about nickels and dimes.
+
+Next month will be the first anniversary of Google’s surprise announcement that it would remake itself as a holding company. All the ad-driven and highly profitable businesses like search would still be called Google. The assumption was that the other divisions would have to prove they could stand on their own financially — at least over time.
+
+The reimagining of Google is still very much a work in progress, and there have been setbacks. Nest, the Alphabet company that makes high-tech versions of devices like thermostats and smoke detectors, was thought to be a model for how other Alphabet companies would work, since many of its operations were already run independently. But it is in the middle of a management shake-up after a series of product delays, employee morale concerns and what some consider disappointing revenue growth.
+
+While investors still do not know X’s budget, they at least have a sense of the limits. In the first quarter, Alphabet lost about $800 million on what it called “other bets” — everything outside Google’s core search and advertising businesses — and it will update the figure when it reports its second-quarter earnings on Thursday.
+
+At the same time, now that X is spinning off new companies that will either stand on their own or die, investors are getting something of a yardstick to judge the division’s progress. If one of those new companies starts to rival search advertising as a revenue stream, X will be considered a success. If that never happens, it will be a failure (and not the good kind).
+
+For instance, X’s self-driving car project, known internally as Chauffeur, recently hired a chief executive and is poised to become a stand-alone company. Another, called Verily, is a life sciences company that has developed, among other things, a glucose-sensing contact lens for people with diabetes, and has licensed that technology to Novartis. Verily became its own company shortly after Google announced the Alphabet reorganization.
+
+“The thing we created — our product — was Verily, and at the highest level we are being paid as an organization to do that somewhat regularly,” said Astro Teller, X’s chief executive, though his actual title is “captain of moonshots.” “I would not want to promise anyone internally or externally that we’re going to do it once a year.”
+
+There are two main differences between X and the corporate research arms of the past. While operations like Bell Labs and Xerox PARC worked on problems that were at least nominally related to their parent companies’ core businesses, X employees can work on anything they like. In fact, they are discouraged from straying into Google’s main business because Google has its own research group that focuses on machine learning and other computer science topics.
+
+And while Bell Labs and others made huge contributions to basic, university-style research, X projects are conceived as moneymaking enterprises, or things that at least seem as if they could make money sometime in the next few years. With Foghorn, the goal was to turn seawater into gasoline for no more than $5 a gallon — enough that it could conceivably find a market in some European nations where high taxes make gasoline more costly.
+
+Kathy Cooper, an engineer who led the project, said of the goal, “I think we could meet it, but it would be more like 15 to 20 years.” That was too far away, which was why she recommended killing it.
+
+X employees avoid talking about money, but it is not a subject they can ignore. They face financial barriers that can shut down a project if it does not pan out as quickly as planned. And they have to meet various milestones before they can hire more people for their teams.
+
+The point, several executives said, is to encourage employees to think big while staying away from creating technology for technology’s sake.
+
+“If you actually want to make the world better, focus on what would actually make the world better, and the technology will take care of itself,” Mr. Teller said. In other words, great ideas that solve real problems will bring in real money.
+
+One of the more public examples was a recent overhaul of a Google robotics effort whose best-known project is a robotic cheetah. The division was recently dismantled, and its disparate technologies are being re-evaluated so they can either be sold off or streamlined for a specific moonshot idea, like “build a car that can drive itself.”
+
+Over the last year, X has hardened project milestones and created an intermediate step, called Foundry. The group’s leader, Obi Felten, said her job was to hone new technologies into a concrete product and to work with engineers like Ms. Cooper to help them write business plans.
+
+The idea is to create a conveyor-belt-like process that encourages employees to quickly jettison projects that seem unlikely to work and to avoid technologies that are neat ideas but would never make money.
+
+One of the best ways to save money, Mr. Teller said, is to encourage employees to kill projects before they become expensive — hence the bonus for the Foghorn team. X staff meetings begin with a “premortem” process in which people predict how various technologies might fall short. Employees’ laptops are decorated with stickers of crumpled-up paper that represent the end of past efforts.
+
+When Mr. Teller speaks at events like South by Southwest and TED, he ruminates so deeply on the word “fail” that successes are sometimes framed as “failing to fail.”
+
+The idea of celebrating failure is a Silicon Valley cliché, but Mr. Teller talks about it in the practical terms of a management consultant. Say you have a team of 20 people working on a project that is not going anywhere, he said in a recent interview. In a year those 20 people will be 30 people. The company has to pay their salaries and health insurance, and the team will inevitably hire a few consultants. Worse, they will have wasted a year.
+
+How much money could the company save if you could get them to cut bait a year earlier?
+
+“That’s the magic,” Mr. Teller said. “But they won’t do it. They will not raise their hands and say, ‘This project is just not what we should be working on,’ unless you start bonusing them, unless they can get a promotion for ending their project.”
+
+Failure bonuses are also an example of how X, which was set up independent of Google from the outset, is a leading indicator of sorts for how the autonomous Alphabet could work. In Alphabet, employees who do not work for Mother Google are supposed to have their financial futures tied to their own company instead of Google’s search ads. At X, that means killing things before they become too expensive.
+
+Mr. Teller’s decision to start paying bonuses to employees who kill their own projects happened long before the Alphabet transition, and it was met with skepticism from Google’s chief culture officer. Mr. Teller got what he wanted anyway.
+
+“They were just offended by the idea,” he said. “And now we don’t even talk about it anymore.”
+
+X was founded in 2010, and it was originally in a brick building on the edge of Google’s main campus. At the beginning, it felt like an extended 20 percent project — the extra projects Google employees are encouraged to work on outside of their main job — with little in the way of process.
+
+Former Google employees said this led to a temptation to overhype projects long before they were ready. The most notorious example of this was Google Glass, the much maligned computer glasses.
+
+The glasses were supposed to have a marketing scheme to match, and X employees hatched an idea for floating showrooms. Later, when mysterious barges showed up in Portland, Me., and San Francisco Bay, they kicked off months of speculation and conspiracy theories until finally they were towed away without a word from Google.
+
+Mr. Teller said he shut down the barges idea the first day it was his decision to make. “There wasn’t a lot of agonizing about that,” he said.
+
+Today, the company’s offices are a few miles from Google’s main campus. They are full of electric vehicles and people riding skateboardlike contraptions. Mr. Teller appears to be always on Rollerblades.
+
+Beyond the main lobby and offices, behind key-card-protected doors, sit various labs, as well as an open warehouse floor that houses a division called the Design Kitchen, which appears to be a cross between a machine shop and a cool dad’s garage. Some items spotted on a recent tour included climbing rope; lots of tools; oversize plugs; a set of skateboard wheels attached to a block, wires and a 9-volt battery; a plastic ear; and beer.
+
+Unlike Google, where software engineers are kings, X is run by an eclectic batch of scientists and tinkerers whose backgrounds range from math, physics and chemistry to design, fashion and public art. The line “I’m not an engineer” seems to be a point of pride. Rich DeVaul, who heads a “rapid evaluation” team whose job is to hatch and kill ideas in short order, guessed that fewer than half the employees have engineering degrees (he doesn’t).
+
+“I would argue that the great strength of X, in fact, is that basically we aren’t just a bunch of techies,” he said.
+
+The combination of big ideas, lofty rhetoric and a strict code of secrecy has made X a source of endless speculation and conspiracy theories. The one you hear most frequently, usually from competitors and venture capitalists, is that X is a giant public relations plan to distract regulators from Google’s search business, which is under scrutiny around the world.
+
+Cynical though that sounds, it points to something that seems fundamentally true: Many of history’s great corporate research efforts, like Bell Labs and Xerox PARC, have come from companies that were monopolies or close to it.
+
+Failure bonuses notwithstanding, no normal person would walk away from X thinking it looked frugal. There is a free cafeteria whose recent menu included sushi and pork tri-tip. The bathrooms have Japanese toilet seats with buttons for warmth and spritz. Listening to X executives talk about saving money is a bit like having billionaires tell you they built a $30 million house for $30 million and not a penny more.
+
+But X’s success will be less about money saved than the creation of a new Google-size business whose profits wash away all the losses. And while the division has already had some successes, it has yet to produce the “moonshot” Mr. Teller is hoping for.
+
+Arguably the biggest success, Google Brain, is the one people know the least about. It was an artificial intelligence effort that was spun back into core Google in 2012 and is now embedded in products like voice search and the Google Photos app, in which users can search their albums for images like “dogs” or “mountains.”
+
+Investors would prefer a shiny new business that does not rely on advertising. Mr. DeVaul hopes that if X can deliver a big hit, it will encourage other companies to copy the entire concept. Management science is a lot less interesting than moonshots, but until X hits the moon, that is what it is selling.
+
+“We could have five or 10 other world-class organizations doing this, and we would not be able to scratch the surface of the crazy big hard challenges out there,” he said. “I’m an optimist: I believe that there is an endless supply of huge problems affecting humanity.”
+
+BERLIN —  In private sessions this summer, giant publishers and media companies from Germany, France and elsewhere have met with European officials about proposals to regulate Europe’s digital economy. The discussions have covered a broad range of contentious issues, according to public disclosures and several people who attended or were briefed on the meetings. Central to almost all of them has been limiting the reach of a single American company: Google.
+
+The company has a long list of detractors crying foul about how it operates in Europe, including rivals like Microsoft and Yelp. But as Europeans take a lead globally in regulating the Internet and containing American tech companies, the Continent’s old media — influential newspaper and magazine publishers — are emerging as one of Google’s most persistent adversaries.
+
+With Google attracting attention and ad revenue that once funneled to publishers, the goal is clear: Find ways to make more money, by strengthening copyright rules and limiting Google’s power as an advertising platform.
+
+The publishers, including Axel Springer of Germany and Lagardère of France, arguably have the most to lose from the dominance of Google and other West Coast companies, as they look for revenue on the web to replace losses in print. Some of the publishers, in an effort to buttress their business, have even turned to e-commerce and social networking — areas that have intensified the rivalry with Google and other tech companies.
+
+“Where else can they go if print is dying?” asked Lucy Küng, a visiting fellow and specialist in digital transition at the Reuters Institute for the Study of Journalism at the University of Oxford.
+
+The newspaper and magazine publishers first focused on Europe’s continuing antitrust investigation into whether Google favored its own services over those of rivals. They are now broadening their goals in ways that would further cramp Google’s reach, according to several industry executives and tech lobbyists, who spoke on the condition of anonymity because they were not authorized to speak publicly about the efforts.
+
+“Newspapers help set the agenda, so politicians have to listen to them,” said Julia Reda, a German politician who helped shepherd recent digital copyright proposals through the European Parliament.
+
+The push has awakened Google’s powerful lobbying apparatus, setting off a clash in Brussels and elsewhere in the region as the company tries to co-opt some of its media adversaries and hamstring more stubborn rivals.
+
+Google and some other giant American tech companies already confront strong regulatory headwinds in Europe. Apple, Amazon and Facebook are all facing antitrust, tax and privacy investigations across the 28-member bloc. If Google is found to have broken the rules, it could face billions of dollars in fines.
+
+Google formally responded on Thursday to the accusations, saying its search products did not harm online competition and providing data that the company said showed that rivals had not been harmed.
+
+“We believe that Google increases choice for European consumers and offers valuable opportunities for businesses of all sizes,” Kent Walker, the company’s general counsel, wrote in a blog post.
+
+In recent weeks, several trade associations, including the Federation of European Publishers, have met with Friedrich Wenzel Bulst, a top European antitrust official, and other regulators to also push for stricter, Europe-wide limits on how Google and others may use publishers’ online content. Many publishers are pushing the rules as part of an expected overhaul of copyright policy from Günther Oettinger, a European commissioner with ties to Germany’s publishing industry, by the end of the year.
+
+If the rules are approved, Google may eventually have to pay newspaper and magazine groups whenever links to their content are shown on Google’s European aggregation sites. Similar copyright rules already have been passed in several European countries, but have so far backfired against the publishers. In Germany, Google removed many local organizations from its news service, which led to a drastic fall in online traffic to some newspapers’ sites. Local publishers eventually agreed to waive any potential charges.
+
+“The argument is simple enough: Publishers want money from Google,” said Till Kreutzer, a German lawyer who has campaigned against these new copyright proposals. “Many European politicians are open to listening to that type of proposal.”
+
+Over the last five years, print circulation for Europe’s newspaper industry has fallen a combined 21.3 percent, compared with 8.5 percent in the United States, according to the World Association of Newspapers and News Publishers, a trade body. The publishers have pushed to expand readership on computers and mobile devices. But because audiences in Europe are fragmented along national and linguistic borders, the potential is often limited.
+
+“They can’t expand endlessly internationally because of the language issue,” Ms. Küng said of Europe’s publishers. “Just acquiring other assets with the same problems is really just compounding the problem. The issue is monetizing content.”
+
+“They have followed the eyeballs and the wallets,” she added. “I don’t see it as inconsistent.”
+
+The sums that publishers are spending to lobby against Google are unclear; disclosures about spending on lobbying in Europe are voluntary, leaving a weak money trail. According to official records, Axel Springer, a German publisher whose flagship Bild tabloid is the highest-circulation newspaper in Europe, spent up to $55,000 on Brussels-based lobbying last year; the European Publishers Council, a trade body with close ties to Axel Springer, spent up to $555,000.
+
+Yet the effort is broad-based, involving written and personal appeals to European Union officials and national lawmakers by dozens of publishers’ groups from at least 20 countries, including Switzerland, which is not a member of the European Union, according to European officials who have either met with industry representatives or seen the correspondence. The moves go well beyond steps taken by American media outlets to contain Silicon Valley’s power.
+
+“This is not about protecting the legacy business,” said Christoph Keese, executive vice president at Axel Springer and a vocal critic of Google. “It is about ensuring there is a level playing field and making sure that international companies respect European laws.”
+
+Google has fought hard against the lobbying and investigations. The company tripled its spending on lobbying in Brussels last year, spending at least $4.8 million in 2014, according to its European disclosure report. Eric Schmidt, the company’s executive chairman, met with Margrethe Vestager, Europe’s top antitrust official, before her decision this year to bring formal antitrust charges. Other company officials have held meetings with national politicians to outline how Google can bolster countries’ often flagging economies, according to several government officials, who spoke on the condition of anonymity because they were not authorized to speak publicly.
+
+Google has tried to woo magazine and newspaper groups, partly by creating a $172 million fund aimed at helping publishers adapt to the digital world. (The International New York Times, which is based in Paris, took part in a previous $65 million fund that Google created in France.) The company’s executives also regularly point out that Google sends millions of daily visitors to European newspapers and magazines through its online news aggregation service. Those links — which can represent up to half of a newspaper’s online traffic — generate much-needed online revenue for publishers.
+
+“We recognize that technology companies and news organizations are part of the same information ecosystem,” David C. Drummond, Google’s senior vice president for corporate development, told an audience of media executives in Barcelona in June. “We are committed to playing our part.”
+
+A Google spokesman declined to comment beyond Mr. Drummond’s remarks.
+
+Newspaper groups and other publishing associations were some of the earliest supporters of the antitrust case against Google, the company’s most pressing issue in Europe. The more prominent antagonists, though, were Microsoft and other tech rivals, according to publishing executives and other company officials involved in the case.
+
+That dynamic began to change early last year, when Joaquín Almunia, Europe’s competition chief at the time, signaled he was prepared to settle with Google, these people said. Google’s opponents looked for another avenue to press their case, leaning harder on their well-connected publishing allies for help.
+
+Over the course of last summer, representatives from newspaper and magazine industries, as well as Brussels-based trade associations, met several times with Mr. Almunia and his staff to ask them to renounce the settlement, according to industry executives who were either present or briefed on those meetings.
+
+“There were enormously long exchanges, and some pretty strong representations made” by top publishing industry executives to Mr. Almunia, said one lobbyist, who spoke on the condition of anonymity. “The companies felt they were being served a settlement that was actually going to be injurious to their business.”
+
+The rift between publishers and Google became most public in April 2014 in an open letter by Mathias Döpfner, Axel Springer’s chief executive. Mr. Döpfner, writing to Mr. Schmidt of Google, criticized the tech company’s perceived dominance of many aspects of how people — and other companies — use online services.
+
+“We are afraid of Google,” Mr. Döpfner said in his letter. “Our business relationship is that of the Goliath of Google to the David of Axel Springer.”
+
+Even Rupert Murdoch’s News Corporation, whose European interests include the British newspapers The Times and The Sun and The Wall Street Journal Europe, joined the fray, urging the European Commission last fall to take action against Google, which it labeled a “platform for piracy.”
+
+Europe’s publishers also took the fight to national capitals, industry executives said, asking governments to put pressure on Mr. Almunia to rethink the proposed settlement. By early September, Mr. Almunia officially rejected the settlement with Google after significant lobbying from both publishing groups and other companies connected to the case.
+
+Mr. Almunia left the investigation to his successor, Ms. Vestager, who announced antitrust charges against Google in April. Many publishers backed the move, saying the company’s business model had limited online choice for consumers.
+
+“Europe’s publishers are well organized, well connected and a really powerful lobby,” said Stefan Heumann, director of the European digital agenda program at the New Responsibility Foundation, a Berlin-based research organization. “Many of them are struggling to grasp the realities of the new digital world.”
+
+SEATTLE — The crowded pack of voice-controlled digital assistants — Apple’s Siri, Google Assistant, Amazon’s Alexa and Microsoft’s Cortana — are good at numerous things. They can help people play music, set up calendar appointments and check the weather.
+
+They can even get two rival tech executives, Jeff Bezos of Amazon and Satya Nadella of Microsoft, to join hands in a rare partnership.
+
+For the past year, the two companies have been coordinating behind the scenes to make Alexa and Cortana communicate with each other. The partnership, which the companies plan to announce early Wednesday, will allow people to summon Cortana using Alexa, and vice versa, by the end of the year.
+
+It is unusual for big tech companies to cooperate on important new technologies that they want to stand out from the competition. Amazon, Apple, Microsoft, Google and nearly every other big tech company is pouring huge amounts of money into making digital assistants that are smarter and can do more, seeing them as a new way for people to interact naturally with devices and online services.
+
+But Mr. Bezos and Mr. Nadella are concerned that keeping assistants from working together could hold them back. The way they see it, each assistant has unique strengths that could benefit the other assistants.
+
+In an interview last Friday at one of Amazon’s Seattle high-rises, Mr. Bezos predicted that over time people would turn to different digital assistants — also called “A.I.s,” for artificial intelligence — the same way they turn to one friend for advice about hiking and another for restaurant recommendations.
+
+“I want them to have access to as many of those A.I.s as possible.” Mr. Bezos said.
+
+As an example, Mr. Bezos cited Cortana's superior integration with Outlook, the popular calendar and email application that is part of the Microsoft Office suite of software. Because Microsoft controls both products, Outlook is integrated more deeply with Cortana than with other voice assistants. Through its collaboration with Microsoft, Amazon said, Alexa users will get answers to some of the same questions that Cortana can now answer — for instance, when is the next budget review with the boss?
+
+Initially, getting the two systems to work together is going to be a little awkward. Someone working with an Alexa device will have to say “Alexa, Open Cortana” followed by their command, while someone starting with a Cortana machine will have to say “Cortana, Open Alexa.”
+
+The Amazon-Microsoft partnership started in May 2016, when Mr. Bezos raised the idea with Mr. Nadella at Microsoft’s CEO Summit, an annual event for business leaders in the Seattle area. Mr. Nadella was receptive to the idea, so a short while later Mr. Bezos emailed a draft of a brief news release that described how their assistants would work together, both men said.
+
+It is standard at Amazon to create such news releases for internal consumption as part of what Mr. Bezos calls the company’s “working backward process.” Through that exercise, Amazon’s teams depict in writing how a new product or service will look to its customers before engineers write a line of code.
+
+In a phone interview, Mr. Nadella compared digital assistants like Cortana and Alexa to competing web browsers that provide access to the same pools of online information. “The personality and expertise of each one will be such that if they interoperated, the user will get more out of it,” he said. “That resonated for me and for him, and then that’s what led to the teams working.”
+
+Mr. Bezos said he had not reached out to Apple or Google to invite them to join in the effort and does not know if they would want to.
+
+“I’d welcome it,” he said.
+
+“Hopefully, they’ll be inspired by it,” Mr. Nadella said. “At least that would be my hope.”
+
+An Apple spokeswoman declined to comment, while a Google spokeswoman did not return a request for comment.
+
+Apple and Google may see competitive advantages in keeping their A.I.s separate from rival assistants, partly as a way to protect a selling point of their mobile software, iOS and Android. Apple is especially finnicky about wanting to control as much as it can of people’s experiences with its iPhones and iPads.
+
+“There’s no reason Google or Apple would offer it because they’re trying to drive their own ecosystems,” said Jan Dawson, an analyst with Jackdaw Research, a technology research firm.
+
+By contrast, Alexa is mostly used on Echo speakers that sit around a home, and Cortana is largely used on PCs. Amazon says it has sold millions of Echo devices, accounting for around 70 percent of the market for smart speakers, according eMarketer, a market research firm. Microsoft says there are 145 million active monthly users of Cortana through Windows 10.
+
+The two companies have struggled in the smartphone business, which makes it hard to get people using Alexa and Cortana outside homes and offices. Amazon and Microsoft are cutting deals with carmakers to integrate their assistants directly into vehicles. While Amazon and Microsoft have released digital assistant apps for mobile devices running Google and Apple software, the apps are not as widespread and using them is usually not as effortless as the ones Apple and Google build into their devices.
+
+Eventually, Mr. Bezos predicted, the primary assistant on a device will be smart enough to automatically route a person’s request to whichever assistant is best equipped to answer, without needing a verbal introduction between the two.
+
+“In my view of the world, because that would be best for the customer, that’s probably what eventually happens,” he said.

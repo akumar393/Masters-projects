@@ -1,0 +1,291 @@
+Each Friday, Farhad Manjoo and Mike Isaac, technology reporters at The New York Times, review the week’s news, offering analysis and maybe a joke or two about the most important developments in the tech industry. Want this newsletter in your inbox? Sign up here.
+
+Farhad: Good morning, Mike! Are you having a good time in our nation’s capital? I saw on Instagram that you got to ride the Senate subway. That sounds fun, but it really makes me doubt the wisdom of the Capitol Police.
+
+Mike: I picked the perfect time of year to come here. Leaves are changing colors, the air is brisk but not cold, and the smell of pumpkin spice abounds. I think I love D.C.
+
+Also, you jest, but I was stopped by Capitol Police multiple times trying to get into the Senate Press gallery. I don’t look that suspicious, do I?
+
+Farhad: Hmm, no comment. O.K., let’s get to tech.
+
+Farhad: The big news happened there in D.C. Executives from Google, Facebook and Twitter appeared before lawmakers looking into claims that the Russian government used their platforms to influence the 2016 election. Among other things, the lawmakers released details on the scores of ads purchased by Russian operatives.
+
+The ads are wild. The Russians’ primary political goal seems to have been to create discord in American society; they took just about every side of every issue, promoting protests over religion, politics and other issues.
+
+Beyond the ads, though, did we learn anything new from the hearings?
+
+Mike: First, let me say attending House and Senate hearings is surreal. Members of Congress love to have aides blow up tweets and Facebook posts 1,000 percent, plaster them on big pieces of poster board, and then use them as visual aids in the hearing. I spent an hour looking at an advertisement of Satan fighting Jesus in a hearing this week.
+
+Anyway, my takeaway: The whole ordeal was mostly orchestrated pageantry — a way for lawmakers to give tech execs a very public, rather embarrassing dressing down — with a few new facts and insights scattered throughout. For one, all three companies said the reach of Russia-backed ads stretched much further than they had originally known. Facebook estimated some 150 million people were served the ads across Facebook and Instagram. That’s a lot!
+
+But more than that, I found it fruitful that some members of Congress seemed to recognize the more pervasive issue of so-called organic content. That is, the posts that you and I and anyone else can create and post to Facebook, Twitter and YouTube. Those are much more difficult to track, and we still don’t know the extent to which Russia-linked organic content spread across all of these platforms.
+
+Farhad: I do wonder where this leads. The tech execs were all contrite and vowed to police themselves better. I noticed that even in Facebook’s earnings statement on Wednesday — in which the company boasted record profits, suggesting that the scandal hasn’t hurt its bottom line — Mark Zuckerberg downplayed the business and instead focused on the political climate: “Protecting our community is more important than maximizing our profits,” he said.
+
+I wonder if this contrition will be enough to head off any strong regulation. I suspect it will.
+
+Mike: Probably. And note that in the hearings this week, none of the tech companies said they would back the Honest Ads Act, the bill senators are proposing that could impose stricter regulations on digital advertising. So we’ll see how far the bill goes after this week.
+
+Farhad: Mike, how excited are you for the new iPhone? Did you stay up late to order one?
+
+Mike: The only things I stay up late for are Radiohead concert ticket sales and New Year’s Eve. So, my answer is no.
+
+Farhad: I didn’t either, so mine is likely to ship in a month’s time — long after the first ones hit the shelves this weekend. It’s a strange feeling to be so left out. In previous years, Apple has given tech journalists a week to look over its latest iPhone. But it completely changed the plan with the coveted X, causing a lot of heartache for us whiny writers.
+
+Apple gave some outlets — including TechCrunch, Buzzfeed and Backchannel, which is part of Wired — a week with the device. But many others, including The Times, were given just a day with the new phones. Meanwhile, Apple also offered review devices to several YouTube stars and some out-of-left-field choices, like the political journalist Mike Allen.
+
+Mike: Don’t tell the others, but Mike Allen’s review was my favorite. He gave the phone to his nephew, who is more tech savvy than him, and relayed what the kid loved about it. I’m totally asking a cousin to write my next Facebook story.
+
+Farhad: Ordinarily the question of who gets to review the iPhone would be too inside baseball for us. But as  Jake Swearingen at New York points out, Apple’s shifting review policies are a good way to document how much the media business has changed since the original iPhone came out in 2007.
+
+That year, Apple provided early review units to big print outlets — the Times, The Wall Street Journal, USA Today and Newsweek. In 2017, Apple has the pick of any outlet it wants; it knows that a review will get a lot of traffic on virtually any site, so it doesn’t really matter whether it chooses an established media brand or some YouTuber with a fan base.
+
+Mike: I loved Jake’s piece! Aside from chuckling at the angry posts from reviewers who felt slighted, it was a clear insight into how Apple believes people buy things these days, and how the older model of going to a select few reviewers perhaps isn’t the only way to drive purchasing decisions.
+
+Frankly, I agree! I don’t really read traditional consumer reviews anymore, and I suspect the crowd for deep tech and gadgety reviews is growing smaller over time.
+
+Farhad: I guess we should talk about the actual substance of these reviews. They were mostly positive. After two days of using it, our colleague Brian X. Chen found that the phone was “incredibly fast and took exceptional photos,” and that the face-detection unlock system mostly worked very well. But like several other reviewers, Brian said the X is not a must for most people. You’ll probably get by just fine with a cheaper phone.
+
+Mike: I’m not going to buy one because my phone is only a year old. Also, I think if I try to unlock a device with my face I’ll break the entire phone.
+
+Farhad: O.K., have fun in D.C. Say hi to the president for me!
+
+Mike: Adiós!
+
+Farhad Manjoo writes a weekly technology column called State of the Art. Mike Isaac covers Facebook, Uber and Twitter. You can follow them on Twitter here: @fmanjoo and @MikeIsaac
+
+For months, Facebook’s headquarters in Menlo Park, Calif., has been in crisis mode, furiously attempting to contain the damage stemming from its role in last year’s presidential campaign. The company has mounted an all-out defense campaign ahead of this week’s congressional hearings on election interference in 2016, hiring three outside communications firms, taking out full-page newspaper ads, and mobilizing top executives, including Mark Zuckerberg and Sheryl Sandberg, to beat back accusations that it failed to prevent Russia from manipulating the outcome of the election.
+
+No other predicament in Facebook’s 13-year history has generated this kind of four-alarm response. But while the focus on Russia is understandable, Facebook has been much less vocal about the abuse of its services in other parts of the world, where the stakes can be much higher than an election.
+
+This past week, my colleagues at The Times reported on the ethnic cleansing of Rohingya Muslims, an ethnic minority in Myanmar that has been subjected to brutal violence and mass displacement. Violence against the Rohingya has been fueled, in part, by misinformation and anti-Rohingya propaganda spread on Facebook, which is used as a primary news source by many people in the country. Doctored photos and unfounded rumors have gone viral on Facebook, including many shared by official government and military accounts.
+
+The information war in Myanmar illuminates a growing problem for Facebook. The company successfully connected the world to a constellation of real-time communication and broadcasting tools, then largely left it to deal with the consequences.
+
+“In a lot of these countries, Facebook is the de facto public square,” said Cynthia Wong, a senior internet researcher for Human Rights Watch. “Because of that, it raises really strong questions about Facebook needing to take on more responsibility for the harms their platform has contributed to.”
+
+In Myanmar, the rise in anti-Rohingya sentiment coincided with a huge boom in social media use that was partly attributable to Facebook itself. In 2016, the company partnered with MPT, the state-run telecom company, to give subscribers access to its Free Basics program. Free Basics includes a limited suite of internet services, including Facebook, that can be used without counting toward a cellphone data plan. As a result, the number of Facebook users in Myanmar has skyrocketed to more than 30 million today from 2 million in 2014.
+
+“We work hard to educate people about our services, highlight tools to help them protect their accounts and promote digital literacy,” said Debbie Frost, a Facebook spokeswoman. “To be more effective in these efforts, we are working with civil society, safety partners, and governments — an approach we have found to be particularly important and effective in countries where people are rapidly coming online and experiencing the internet for the first time through a mobile phone.”
+
+In India, where internet use has also surged in recent years, WhatsApp, the popular Facebook-owned messaging app, has been inundated with rumors, hoaxes and false stories. In May, the Jharkhand region in Eastern India was destabilized by a viral WhatsApp message that falsely claimed that gangs in the area were abducting children. The message incited widespread panic and led to a rash of retaliatory lynchings, in which at least seven people were beaten to death. A local filmmaker, Vinay Purty, told the Hindustan Times that many of the local villagers simply believed the abduction myth was real, since it came from WhatsApp.
+
+“Everything shared on the phone is regarded as true,” Mr. Purty said.
+
+In a statement, WhatsApp said, “WhatsApp has made communications cheaper, easier and more reliable for millions of Indians — with all the benefits that brings. Though we understand that some people, sadly, have used WhatsApp to intimidate others and spread misinformation. It’s why we encourage people to report problematic messages to WhatsApp so that we can take action.”
+
+Facebook is not directly responsible for violent conflict, of course, and viral misinformation is hardly unique to its services. Before social media, there were email hoaxes and urban legends passed from person to person. But the speed of Facebook’s growth in the developing world has made it an especially potent force among first-time internet users, who may not be appropriately skeptical of what they see online.
+
+The company has made many attempts to educate users about the dangers of misinformation. In India and Malaysia, it has taken out newspaper ads with tips for spotting false news. In Myanmar, it has partnered with local organizations to distribute printed copies of its community standards, as well as created educational materials to teach citizens about proper online behavior.
+
+But these efforts, as well-intentioned as they may be, have not stopped the violence, and Facebook does not appear to have made them a top priority. The company has no office in Myanmar, and neither Mr. Zuckerberg nor Ms. Sandberg has made any public statements about the Rohingya crisis.
+
+Correcting misinformation is a thorny philosophical problem for Facebook, which imagines itself as a neutral platform that avoids making editorial decisions. Facebook’s community standards prohibit hate speech and threats, but many harmful viral posts — such as a WhatsApp thread in Southern India that spread false rumors about a government immunization campaign — are neither hateful nor directly threatening, and they wouldn’t be prohibited under Facebook’s community standards as long as they came from authentic accounts. Fighting misinformation is especially difficult on WhatsApp, an app for private messaging, since there is no public information trail to fact-check.
+
+Facebook has argued that the benefits of providing internet access to international users will ultimately outweigh the costs. Adam Mosseri, a Facebook vice president who oversees the News Feed, told a journalism gathering this month, “In the end, I don’t think we as a human race will regret the internet.” Mr. Zuckerberg echoed that sentiment in a 2013 manifesto titled “Is Connectivity a Human Right?,” in which he said that bringing the world’s population online would be “one of the most important things we all do in our lifetimes.”
+
+That optimism may be cold comfort to people in places like South Sudan. Despite being one of the poorest and least-wired countries in the world, with only around 20 percent of its citizens connected to the internet, the African nation has become a hotbed of social media misinformation. As BuzzFeed News has reported, political operatives inside and outside the country have used Facebook posts to spread rumors and incite anger between rival factions, fostering violence that threatens to escalate into a civil war. A United Nations report last year determined that in South Sudan, “social media has been used by partisans on all sides, including some senior government officials, to exaggerate incidents, spread falsehoods and veiled threats, or post outright messages of incitement.”
+
+These are incredibly complex issues, and it may be impossible for Facebook — which is, remember, a technology company, not a global peacekeeping force — to solve them overnight. But as the company’s response to the Russia crisis has proved, it’s capable of acting swiftly and powerfully when it feels its interests are threatened.
+
+Information wars in emerging markets may not represent as big a threat to Facebook’s business as angry lawmakers in Washington. But people are dying, and communities are tearing themselves apart with the tools Facebook has built. That should qualify as an even greater emergency in Menlo Park.
+
+Will a public relations campaign in Washington by Facebook’s Sheryl Sandberg and others take the heat off technology giants?
+
+Ms. Sandberg, who sat down with lawmakers on Capitol Hill and was interviewed by Axios, conceded that Facebook made mistakes during the 2016 presidential campaign. And she gave more information to congressional investigators.
+
+The reaction
+
+As collected by Cecilia Kang, NYT:
+
+• Representative Emanuel Cleaver II, Democrat of Missouri: “She said 10 to 15 times, ‘We’ve got to do better.’ ”
+
+• Representative K. Michael Conaway, Republican of Texas: “They are leaning in on this issue.”
+
+• Representative G. K. Butterfield, Democrat of North Carolina: “I remain cautiously optimistic.”
+
+But those expecting huge changes in Facebook’s business model will be disappointed.
+
+Sara Fischer and David McCabe, Axios:
+
+The context
+
+• NYT: How Facebook advertising works.
+
+• How the world views tech now, according to Ross Baird of the venture capital firm Village Capital in NYT:
+
+The date to remember 
+
+Executives from Facebook, Alphabet and Twitter will testify before the Senate Intelligence committee on Nov. 1.
+
+Now that Mr. Trump is taking his biggest step yet to unwind the Affordable Care Act, how will the stock market react?
+
+So far, health insurers are keeping quiet. But some representatives for the industry are speaking out.
+
+The White House’s proposal “would draw younger and healthier people away from the exchanges and drive additional plans out of the market,” Ceci Connolly of the Alliance of Community Health Plans told The NYT.
+
+Shares in major American health insurers were little changed in premarket trading today.
+
+Today, Bank of America and Wells Fargo are reporting earnings. How are they doing in the quest to find more profit?
+
+JPMorgan Chase and Citigroup both beat earnings expectations, but not because of fixed-income trading. “Solid but perhaps not exceptional,” one shareholder told the WSJ.
+
+From where are banks trying to squeeze more money?
+
+• JPMorgan benefited from better lending margins, according to Bloomberg.
+
+• Citi benefited from better investment banking performance.
+
+• Goldman, which reports on Tuesday, is getting into mortgages for house-flippers by buying Genesis Capital, according to The WSJ. (Yesterday we discussed its Innovation Lab initiative.)
+
+The latest challenges
+
+• Breakingviews: Banks will need more than a cut in the corporate tax rate, with sluggish loan growth and growing defaults on the horizon.
+
+• CNBC: Expect tech companies like Google and Amazon to muscle their way into lending.
+
+Jamie Dimon, a famous Bitcoin skeptic, said he’s not going to talk about the digital money anymore.
+
+That’s O.K., because everyone else is.
+
+Bitcoin hit a new high of $5,856. Why?
+
+• Expectations that China might ease restrictions on Bitcoin
+
+• A prediction from Michael Novogratz, formerly of Fortress Investment Group, that Bitcoin could hit $10,000 within the next year.
+
+• JPMorgan and Citi are joining Goldman in considering whether to trade in the cryptocurrency.
+
+• Christine Lagarde said it was time to get serious about the digital currency, pointing out that the I.M.F.’s Special Drawing Right could incorporate cryptocurrency technology.
+
+What could go wrong?
+
+Paul Vigna, WSJ:
+
+Tugce Ozsoy and Natasha Doff, Bloomberg:
+
+Who’s still in the running?
+
+• Janet Yellen, the choice for continuity.
+
+• Jerome Powell, the choice for maintaining current rate policy but more deregulation.
+
+• Kevin Warsh, the choice for skeptics of inflationary policy.
+
+• John Taylor, the choice for those even more worried about inflation.
+
+The WSJ reports that President Trump met with Mr. Taylor on Wednesday.
+
+Who’s in the lead?
+
+Depends on whom you ask.
+
+• Politico: Steven Mnuchin is pushing for Mr. Powell.
+
+• Bloomberg: A survey of economists found Mr. Warsh is considered the leading candidate, with Ms. Yellen and Mr. Powell tied for second.
+
+Who could take over as the leading patron for Los Angeles after Mr. Broad — one of the city’s top social and philanthropic figures for five decades — steps down from public life?
+
+Adam Nagourney and Adam Popescu, NYT:
+
+He also mentioned David Geffen, who donated $150 million to the Los Angeles County Museum of Art.
+
+A rundown of Mr. Broad’s achievements
+
+• He has counseled mayors and governors.
+
+• He has donated $4 billion to philanthropy and medical research.
+
+• The Broad Foundations’ endowment now totals $2.5 billion.
+
+• He spearheaded the construction of the Walt Disney Concert Hall in downtown L.A.
+
+A blast from Mr. Broad’s past
+
+Courtesy of Shelby Grad, an assistant managing editor at The L.A. Times:
+
+Yet another hot tech start-up’s business model is being questioned, in the wake of scrutiny at Theranos, Zenefits and Just Mayo.
+
+The WSJ reports that Outcome Health, which puts those video screens in doctors offices that show drug ads, had misled its pharmaceutical clients by charging them for more ad placements than it had screens available to show them.
+
+Rolfe Winkler, WSJ:
+
+The report says that there’s no evidence that Outcome’s top executives knew about the scheme. But three employees have been put on paid leave, and the company is conducting a review.
+
+Among the investors in Outcome
+
+• Goldman Sachs
+
+• Alphabet’s CapitalG
+
+• Pritzker Group Ventures
+
+• NYT: Roy Price, the executive in charge of Amazon’s investment in films and television shows, was suspended after a Hollywood producer publicly accused him of making unwanted sexual advances toward her.
+
+• NYT: The CtW Investment Group, which advises several union pension funds invested in 21st Century Fox, has called for the company to overhaul its board and conduct a comprehensive review of its workplace culture in the wake of sexual and racial harassment scandals at Fox News.
+
+• NYT: The police in London and New York said on Thursday that they were looking into complaints involving Harvey Weinstein.
+
+• Bryan Taylor, one of TPG’s top technology deal makers, is leaving after 13 years, Bloomberg reports.
+
+DealBook’s Andrew Ross Sorkin will interview Richard Branson, the Virgin Group founder (and as of yesterday, a new backer of Hyperloop One), at a TimesTalks event on Oct. 18. Buy tickets here.
+
+WASHINGTON — Executives of Facebook, Twitter and Google pledged to Congress this week to do more to prevent the fakery that has polluted their sites. “We understand that the people you represent expect authentic experiences when they come to our platform,” Colin Stretch, the general counsel of Facebook, told the Senate Intelligence Committee. He said the company was doubling its review staff to 20,000 and using artificial intelligence to find more “bad actors.”
+
+Mr. Stretch, meet Keven S. Eversley. Mr. Eversley’s Facebook profile informs us that he is from Minneapolis. But a glance at the web address for his profile reveals a different name: Aleksandar Teovski. And nearly all of his Facebook friends, his family photographs, his alma mater and even his employer are in Macedonia, a center for internet fakery.
+
+Despite months of talk about the problem of fraud facing Facebook and other tech companies, and vows to root it out, their sites remain infected by obvious counterfeits. The Russian influence operation during the 2016 election, which occasioned the three congressional hearings this week, is only one especially consequential sample of a far larger problem, in which the platforms are gamed for profit or political influence.
+
+Most experts say financial motives for the chicanery, in fact, are far more common than political goals. “Keven Eversley” is probably a case in point. Every few days, the Eversley profile posts on Facebook links to sensational, if fact-challenged, articles, all from the same obscure website, conswriters.com: President Trump has ended welfare for immigrants; the F.B.I. was ordered to halt its investigation into the mass shooting in Las Vegas; Hillary Clinton was “hit with terrible news” about Benghazi, Libya.
+
+Conswriters.com, like hundreds of “clickbait” sites, pastes enticing headlines on articles that read like the work of time-pressed high school students. But it is packed with Google ads that generate revenue for every click, highlighting Google’s foundational role in the ecosystem of online deception.
+
+Jonathan L. Zittrain, who studies the internet and society at Harvard, said the companies are reluctant to aggressively purge bogus users and deceptive content because of their business model, which is built on signing up more and more people.
+
+“These platforms are oriented to maximize user growth and retention,” Mr. Zittrain said. “That means not throwing up even tiny hurdles along the sign-up runway, and not closing accounts without significant cause. I suspect they figure there are enough accounts that are the subject of complaints to review without looking for more to assess.”
+
+It takes no great technical expertise to spot the dubious accounts, and amateur sleuths around the country have taken up the task. Zachary Elwood, a technical writer and an author of poker books in Portland, Ore., who started tracking evidence of fake Facebook profiles this year, found dozens of impostors, including Keven Eversley.
+
+He noticed that a dozen profiles, several clearly with Macedonian content, using the same photographs and other details of a single real person, a Virginia real estate agent named Harry Taylor. Mr. Elwood found a network of what appeared to be attractive pro-Trump American women, but older posts and other details revealed that the accounts originated in the Middle East.
+
+“It’s amazing how sloppy some of these accounts are,” Mr. Elwood said. “I hate liars and I’m drawn to understand stuff like this.”
+
+______
+
+Red Flags: How to Spot Fake Content
+
+______
+
+With more than two billion users worldwide, Facebook relies on complaints to police its content. So, Mr. Elwood used Facebook’s internal complaint tool to report the Keven Eversley profile and 27 others showing evidence of deception. In all but a couple of cases, Facebook responded with a standard message of thanks for the feedback but said the profiles did not violate its community standards — even though those standards require users to give their “authentic identities.”
+
+“The reporting process is frustrating,” Mr. Elwood said. “Facebook seems to be lagging way behind the problem.”
+
+Facebook estimates that as many as 60 million accounts, 2 to 3 percent of the company’s 2.07 billion regular visitors, are fakes. Sean Edgett, Twitter’s general counsel, testified before Congress that about 5 percent of its 330 million users are “false accounts or spam,” which would add up to more than 16 million fakes.
+
+“Spammers and bad actors are getting better at making themselves look more real,” Mr. Edgett said.
+
+Independent experts say the real numbers are far higher.
+
+On Twitter, little more than an email address is needed to start tweeting. Facebook’s requirement that users be their authentic selves means the company asks for a smattering of information to sign up — name, birthday, gender and email address. But few checks exist to verify that information.
+
+“Part of the problem is that Facebook is a black box,” said Michael Serazio, a professor of communications at Boston College. “They do what they do, and we don’t know to what degree their operations can even handle these issues — not to mention how handling them maps with their economic model.”
+
+In fact, fighting too hard against deception may clash with the business models that have allowed the companies to thrive. Facebook, Google and Twitter all offer self-serve advertising systems allowing anyone in the world to buy, target and deliver ads for as much — or as little — money as they wish to spend. More scrutiny could hamper growth.
+
+Facebook, for instance, reported record profits this week in its quarterly earnings even as executives testified about Russian exploitation of their services. Shares of the social network soared to an all-time high on Wednesday afternoon after the news. Mark Zuckerberg, Facebook’s chief executive, insisted in the earnings call that the company is prepared to sacrifice profits to crack down on illicit activity.
+
+“Protecting our community is more important than maximizing our profits,” he said.
+
+Whether public concern about the manipulation of the platforms might at some point threaten the business remains to be seen. But many customers who run up against the fakery problem end up unhappy.
+
+Kristofer Goldsmith, an assistant director for policy and government relations at Vietnam Veterans of America, noticed last summer a look-alike Facebook page calling itself Vietnam Vets of America that initially borrowed the real group’s logo. Linked to a website hosted in Bulgaria, the upstart page pushed viral content, weighing in on N.F.L. players’ protests of police shootings. It posted looping videos that were months or years old but presented them as breaking news, he said.
+
+“Sometimes their grammar was off,” Mr. Goldsmith said, but there was no way to know who was behind the page.
+
+Soon, the look-alike page had 200,000 followers — more than the 120,000 than the page of the real group, which has a long history of service, a congressional charter and chapters around the country. Mr. Goldsmith said the linked website had few ads, so he suspected a political motive, probably in line with the Russian campaign to divide Americans.
+
+In August, Mr. Goldsmith began complaining to Facebook. But officials there hesitated; hosting pages for millions of groups, they were hardly equipped to assess in detail whether a particular veterans group was worthy and another was not.
+
+Finally, in late October, Facebook shut the newer page, deciding it had illicitly stolen the intellectual property of the older page. But Mr. Goldsmith said the experience was disturbing.
+
+“I don’t think they’re taking a very proactive approach,” he said of Facebook. “There was a foreign entity targeting American vets and inserting itself into divisive debates. Someone could do this to us every month.”

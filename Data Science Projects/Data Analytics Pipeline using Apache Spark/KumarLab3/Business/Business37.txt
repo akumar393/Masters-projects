@@ -1,0 +1,109 @@
+Google may have to pay publishers for their content. Facebook might, too. WhatsApp could have to follow tougher telecom standards.
+
+A new set of rules, expected to be unveiled by European Union officials on Wednesday, is likely to put new pressure on American tech companies.
+
+Europe calls it consumer protection. Silicon Valley calls it protectionism.
+
+In some ways, they are both right.
+
+In a decade of sluggish growth, local lawmakers assert that these proposed changes will bring together the region’s national economies into a so-called single digital market.
+
+The aim? To give the bloc’s roughly 500 million consumers unfettered access to services like movie streaming, online shopping and cloud computing, no matter where they live. At the same time, the proposals would force some of the world’s largest tech companies to comply with stringent competition, privacy and copyright rules.
+
+For many executives from American tech companies, such plans, which will still take years to come into effect and which will be subject to intense lobbying, feel like another round of protectionism. And while Europe’s policy makers balk at these claims, the fact that Google, Facebook and Microsoft, among others, will be the most affected by the digital revamp has again highlighted how much Europeans rely on American tech when using digital services in their daily lives.
+
+The plans to be announced by the Brussels-based European Commission, the executive arm of the European Union, include:
+
+■ Potentially giving publishers the right to charge Google and other internet companies, if they so choose, when they use online content from newspapers or magazines on news aggregation websites, like Google News. Social media sites like Facebook and Twitter also could be affected. Similar rules have already been passed in Germany and Spain, but with little success.
+
+■ Placing greater scrutiny on internet phone and messaging services like Facebook’s WhatsApp, which may require them to comply with tougher telecommunications standards that now apply only to traditional text messaging and voice calls. Telecom groups say these new services are similar to text messages and so should be regulated under the same rules. The tech companies believe they provide a different option for consumers and should not be encumbered with outdated regulation.
+
+■ Giving European consumers the right to watch and buy some premium and online streaming content from across the bloc. Movie studios, sports rights holders and other broadcasters say the plans could reduce the value of their content, allowing people to buy services from the country that offers the lowest price.
+
+■ Providing financial incentives to telecom operators like Deutsche Telekom and Orange to invest in the region’s mobile and broadband networks. Operators may be given greater control over their internet infrastructure, potentially restricting competitors’ use of these networks. Companies say such limits are needed to guarantee a return on the billions of dollars of digital investment. Consumer groups argue that it may lead to higher prices.
+
+Europe’s proposals, which could still be subject to last-minute changes before being published, were confirmed by six people with knowledge of the matter, who spoke on the condition of anonymity because the reforms had not yet been made public.
+
+For their part, European policy makers say they are only following the region’s stringent laws aimed at protecting people’s rights in an increasingly digital world and are not specifically targeting American tech giants.
+
+But with things like Europe’s record $14.5 billion claim against Apple for unpaid taxes and a series of antitrust charges against Google, the European Union has become a thorn in the side of many of the world’s largest companies, requiring them either to alter how they offer online services worldwide or fight protracted legal battles to fend off the Continent’s regulators.
+
+“It’s a fact of life that most innovative companies come from the West Coast,” said Andrej Savin, an internet governance professor at the Copenhagen Business School. “The proposals coming from Brussels definitely have the American companies in mind.”
+
+Europe has long fought to reduce this reliance on West Coast tech companies, but even homegrown success stories like Spotify, the Swedish music-streaming service now valued at more than $8 billion, became a worldwide hit mostly through its expansion to the United States.
+
+In part, Europe has failed to compete successfully with the United States because Europeans can’t get enough of using American digital products and services, often relying on them at a higher rate than their American counterparts.
+
+With a roughly 90 percent market share, Google’s search engine in Europe is more dominant than it is in the United States, where Microsoft’s Bing service still holds its own. Facebook has more European users than American ones, while Germany and Britain remain two of Amazon’s largest international markets.
+
+The latest digital reforms — either on purpose or by coincidence, depending on people’s viewpoints — take aim at that dominance, and potentially give European publishers and telecom companies a helping hand to compete head-on with their American rivals.
+
+FRANKFURT — WHETHER or not Apple’s secretive car project ever leads to an actual automobile, the technology company has already had a profound effect on the vehicle business.
+
+The mere knowledge that Apple has a team of several hundred people working on car designs changed the conversation this week at the Frankfurt International Motor Show. Along with Google, Apple has focused the minds of auto executives on the challenge posed by new technologies that have the potential to disrupt traditional auto industry hierarchies.
+
+This year, “connectivity” has supplanted “horsepower” or “torque” as the prevailing buzzword in Frankfurt. The talk is of self-driving cars, battery-powered cars and information technology designed to link cars with data networks to make driving safer and more efficient.
+
+Even though neither Apple nor Google is close to mass-producing a vehicle, nervousness about their intentions — which remain cloaked in mystery — is understandable.
+
+As cars increasingly become rolling software platforms, Apple and Google have depths of tech expertise that the carmakers would have trouble duplicating. And those Silicon Valley companies have financial resources that dwarf those of even behemoth companies like Daimler and Volkswagen. Google, which began working on self-driving cars in 2009, is valued by the stock market at more than five times the worth of either of those carmakers. Apple is worth eight times as much. That gives them an advantage in a business that requires huge investment in research and development.
+
+The main risk for carmakers is probably not so much that an Apple car would destroy Mercedes-Benz or BMW the way the iPhone gutted Nokia, the Finnish company that was once the world’s largest maker of mobile phones. Rather, the risk is that Apple and Google would turn the carmakers into mere hardware makers — and hog the profit.
+
+Carmakers say they are determined to resist that danger by maintaining control of the software that is proliferating inside vehicles.
+
+“What is important for us is that the brain of the car, the operating system, is not iOS or Android or someone else but it’s our brain,” Dieter Zetsche, the chief executive of Daimler, the maker of Mercedes vehicles, told reporters at the car show. IOS is Apple’s operating system for mobile devices.
+
+“We do not plan to become the Foxconn of Apple,” Mr. Zetsche said, referring to the Taiwanese-owned company that manufactures iPhones in China.
+
+Even without competition from Apple and Google, the carmakers are under extreme pressure to change the way they build cars. Regulators in Europe and the United States are demanding that cars emit less carbon dioxide, a culprit in global warming. The only way the automakers can meet increasingly stringent emissions standards is by selling more hybrid vehicles, and eventually all-electric cars. Both technologies require more software than gasoline or diesel engines.
+
+Technology that links cars to data networks, so-called connectivity, also plays a role in reducing emissions and satisfying regulators. Systems that help drivers quickly find a parking space or avoid traffic jams, besides being convenient, help limit unnecessary driving and save fuel. But the new technologies are expensive, and car buyers are not necessarily willing to pay. Electric cars account for a sliver of the market so far.
+
+Those pressures have been building for several years, but they have intensified since word leaked out early this year that Apple was studying whether to build a car.
+
+“What has been an evolution is going to be a revolution,” said Stephan Winkelmann, the chief executive of Lamborghini, the Italian maker of super sports cars that is part of the Volkswagen group.
+
+“Starting from sustainability, going over to digitalization, and ending up at autonomous driving — these three big things are really something that is a game changer for the automotive industry,” Mr. Winkelmann said in an interview. “Everybody has to tackle these challenges.”
+
+Volkswagen, previously regarded as a laggard in vehicle electrification, said in Frankfurt this week that it would introduce 20 new plug-in hybrid or all-electric models by 2020, and it introduced a battery-powered Porsche concept car. At the company’s preshow extravaganza for the media Monday night at a repurposed basketball arena, there was nary a mention of internal combustion. Instead, Martin Winterkorn, the Volkswagen chief executive, spoke of cars that would park themselves and eventually run completely on autopilot.
+
+“By the end of this decade we will have transformed all of our new cars into smartphones on wheels,” he said.
+
+It is not only the European carmakers closely watching Apple and Google. Anthony Foxx, the United States transportation secretary, in Frankfurt for a meeting on Thursday with his counterparts from other G7 nations, said conventional automakers were trying to roll out technology as fast as they can, while some in Silicon Valley were aiming to leap straight to self-driving cars.
+
+“There is an interesting dialogue between Detroit and Silicon Valley on this,” Mr. Foxx said during a meeting with several reporters. “There is probably some tension there, but maybe that is good creative tension.”
+
+One of the main guessing games at the auto show was whether Apple or Google would ever build a car. Both companies have met with German car companies as well as suppliers. Google executives have said the company will not become a carmaker.
+
+“Google is not a car manufacturer and does not intend to become one,” Philipp Justus, a Google vice president in Europe, said.
+
+But it was not clear yet whether he meant that Google would license self-driving technology to traditional carmakers, or use contract manufacturers to build a vehicle. A Google spokesman declined to elaborate.
+
+Apple’s intentions are murkier. As is customary for Apple, the company has provided no information. But Timothy D. Cook, the Apple chief executive, reportedly visited a factory in Leipzig, Germany, last year where BMW manufactures the i3, an all-electric sedan with a carbon fiber body.
+
+“We are not quite sure what Apple is prepared to do,” Friedrich Eichiner, the chief financial officer of BMW, said during a meeting with a group of reporters in Frankfurt. He said he thought Apple was still trying to understand the implications of getting into the car business.
+
+“Financially they are very strong,” Mr. Eichiner said. “They could do it.”
+
+Luca de Meo, head of sales and marketing at Audi, another Volkswagen unit, said it would be out of character for Apple not to build its own vehicle, if it decides to get into the car business. “The Apple style is the ability to do software and hardware at the same time,” Mr. de Meo said in an interview.
+
+The traditional carmakers’ big advantage is that they have already mastered the formidable complexity of manufacturing vehicles that are reliable, comfortable and safe. But it is becoming more feasible for a newcomer to outsource vehicle manufacturing the same way that Apple outsources production of iPhones. And the outsourcer wouldn’t necessarily be in China.
+
+One company already working with Google is ZF, a large German auto components supplier that in May completed an acquisition of TRW, a company based in Michigan that provides auto electronics such as airbag systems. TRW has been working on sensors and other hardware for self-driving cars.
+
+Stefan Sommer, the chief executive of ZF, said the company would be able to produce a Google-branded car along with two or three other partners supplying components that ZF can’t, such as sheet metal body parts. “We would be a partner in that, for sure,” Mr. Sommer said in an interview.
+
+But he said ZF could not work with Apple under the conditions it now imposes on suppliers. ZF sees itself as an innovator, not just a supplier. In Frankfurt, it displayed a car with electrically powered wheels that allow the car to turn 360 degrees almost on its own axis. ZF could not agree to demands by Apple for exclusive rights to such inventions, Mr. Sommer said.
+
+While Apple and Google pose a threat to traditional automakers, the mood in Frankfurt is not gloomy. Not long ago, analysts were predicting that the auto industry faced long-term decline. Surveys showed that younger people were less interested than their parents in cars and driving. But if Apple and Google are interested in the car industry, auto executives reason, cars and driving must be cool again.
+
+“It’s confirmation that we are working in a future industry,” said Ola Källenius, head of marketing and sales for Mercedes-Benz cars.
+
+Apple and Google have given the car industry a jolt. Now the question is whether carmakers can respond quickly enough.
+
+And they are trying to raise their games. Daimler, for example, reorganized its factories around the world last year, eliminating plant managers and giving control over production to the executives in charge of different model lines. The change allowed Mercedes to introduce a new variant of its popular C-Class at four factories, on four continents, in six months — about half of what it would have taken earlier, said Markus Schäfer, head of production at Mercedes.
+
+“This enables us to be more competitive in a world where new competitors come to the table,” Mr. Schäfer said.
+
+“We created the automobile,” he said, “and we will not be a hardware provider to somebody else.”

@@ -1,0 +1,903 @@
+Good Friday. Here’s what we’re watching:
+
+• Would a Broadcom-Qualcomm deal really shift the 5G race?
+
+• Mrs. May’s reasonableness may not win over Europe.
+
+• Has Gary Cohn reached a breaking point?
+
+• The silver linings in President Trump’s tariff plans.
+
+• The questions BlackRock is asking gun makers.
+
+Want this in your inbox every morning? Sign up here.
+
+Lawmakers have pressed the government panel that scrutinizes deals for national security concerns — known as Cfius — to take a close look at Broadcom’s hostile bid for its fellow chip maker, which includes a proxy fight to gain a majority of Qualcomm’s board seats. (The shareholder vote is scheduled for Tuesday.)
+
+Most notable among them is Senator John Cornyn of Texas, the No. 2 Republican, whose letter to Cfius raises two issues:
+
+• Whether foreign companies like Singapore’s Broadcom can gain control of American counterparts through proxy fights
+
+• Concern that Broadcom would sell off parts of Qualcomm to win regulatory approval, disrupting the work of the main American developer of 5G wireless technology — and therefore ceding the race for a superfast internet to China
+
+The WSJ recently reported that members of Cfius have been examining the former point. It’s an interesting issue since the panel generally doesn’t get involved until a potential transaction has been submitted to it for review, and obviously, there’s nothing of the sort yet. Some officials pointed out that the panel has the jurisdiction to consider board takeovers as a form of foreign acquisition, though the article said that Treasury Secretary Steven Mnuchin isn’t sold yet on the argument.
+
+But let’s consider the second point. The WSJ reported that some Cfius members share Mr. Cornyn’s concerns about a weakened or distracted Qualcomm falling behind Huawei of China in the 5G contest.
+
+But that ignores Qualcomm’s very public collaboration with Chinese tech companies on 5G. The American chip maker said in January that it has shared information on some of its hardware with Lenovo, Xiaomi and other Chinese companies.
+
+And last week, Qualcomm and Huawei announced that they have jointly conducted significant tests for a 5G standard. Here’s what Serge Wilenegger, a Qualcomm Wireless executive, said in the news release:
+
+The research analyst Stacy Rasgon of Bernstein isn’t convinced by Mr. Cornyn’s point either, arguing in an investor note that Intel can also play a role in developing 5G tech and that, more importantly, Broadcom itself is very interested in the wireless standard.
+
+Broadcom has a reputation for being a cost-cutter, which Qualcomm has argued would likely stunt its ability to keep innovating. That question hasn’t been settled. But the question of whether a deal would endanger the U.S.’s role in the 5G race appears to go a bit too far.
+
+A related consideration: Cfius’s ability to review Broadcom’s moves depends on that chip maker being considered a foreign company. But shareholders of the manufacturer are scheduled to vote on moving its legal residence to the U.S. from Singapore on May 6. It’s unclear whether the panel will act before then — or if it would ultimately have to decide that it has no jurisdiction after that change in address.
+
+— Michael de la Merced
+
+President Donald Trump’s trade tariffs are unlikely to amount to effective policymaking. They target stanch allies and ignore far greater problems in the world trading system. But there may something to salvage from the wreckage.
+
+First, on the face of it, the president seems willing to risk a stock market plunge to pursue a policy that Wall Street opposes. Too often, the disfavor of investors is taken as evidence that a policy is terrible when it might be just inconvenient to powerful interests.
+
+Second, Mr. Trump’s tariffs have kept an important debate over trade going. One hope for Mr. Trump’s administration is that its skepticism toward free trade leads to policies that help workers whose jobs are vulnerable to free trade. The proposed tariffs on steel and aluminum are unlikely to provide longer-term assistance to workers in those industries. Still, the skepticism toward free trade may now be permanent and provide future administrations with greater leeway to address its drawbacks.
+
+— Peter Eavis
+
+Britain’s Prime Minister Theresa May on Friday described the highly preferential relationship her government is seeking to establish with the European Union after it leaves the bloc next year.
+
+And to win over skeptics, she attempted to make Britain’s goals seem as reasonable as possible. Her requests for a unique relationship will no doubt get short shrift from those who say Britain cannot be allowed to enjoy the benefits of trading with Europe without accepting most of the obligations. Mrs. May’s response is that both sides can benefit under a new arrangement. She said:
+
+And Mrs. May said Britain would not, as some fear, reduce regulation to win business from the European Union and still expect a high degree of access to the bloc’s markets. She said:
+
+The big questions:
+
+Will the European Union be willing to set up a whole new regulatory infrastructure to oversee a stand-alone trading arrangement with Britain? Why would the bloc go to such lengths when it has the clout to insist that Britain abides by its rules?
+
+What would Britain do if the European Union says no to most of what’s in Mrs. May’s speech? It would almost certainly deepen tensions within the British government between those who want a deeply entwined trading relationship with Europe and those who favor a looser one. Mrs. May, who has spent weeks trying to build a consensus in her cabinet, may then find it even harder to present a coherent position to the European Union, giving it even less reason to want to compromise.
+
+— Peter Eavis
+
+President Trump’s national economic adviser has threatened to quit before, most notably in the wake of the controversy over the violence in Charlottesville, Va. But now that Mr. Cohn apparently has been outplayed in the battle over trade, will he finally decide to depart?
+
+The former Goldman Sachs president had managed to hold off trade hard-liners like the policy adviser Peter Navarro and Commerce Secretary Wilbur Ross during previous debates on tariffs. But an exodus of like-minded White House officials diminished Mr. Cohn’s standing — and let his rivals reassert their positions.
+
+From Damian Paletta and Josh Dawsey of the WaPo:
+
+Or as Mike Allen and Jonathan Swan of Axios put it:
+
+Our colleagues Mark Landler and Maggie Haberman have reported that Mr. Cohn threatened to resign if the president followed through on the tariff threat. (That cost him standing with Mr. Trump, though he seemed to regain much of his political capital, particularly after the passage of the tax overhaul.)
+
+Mr. Landler and Ms. Haberman point out that Mr. Cohn is still waiting to see if Mr. Trump actually rolls out the tariffs — a fair question, given how quickly his boss appears to switch policy positions.
+
+But if the White House does impose tariffs on imported aluminum and steel, will Mr. Cohn finally pull the trigger?
+
+On a related note, let’s talk about the resuscitation of Mr. Ross’s political fortunes:
+
+• Axios, on Jan. 21: “President Donald Trump has put Commerce Secretary Wilbur Ross out to pasture,” the publication reported, noting that Mr. Ross had been criticized for falling asleep in meetings.
+
+• Axios, today: “White House staff, most of whom were in the dark about Trump’s planned tariffs announcement, are referring to Commerce Secretary Wilbur Ross, the victor in the policy coup, as ‘Chief Ross.’”
+
+— Michael de la Merced
+
+Expect today to be rough in the markets, after President Trump doubled down this morning on his threat to impose tariffs on international steel and aluminum. S. & P. 500 futures are down in premarket trading, after falling yesterday.
+
+The current plan: A 25 percent tariff on steel and a 10 percent one on aluminum.
+
+The winners: U.S. sellers of industrial metals, like AK Steel and U.S. Steel, whose stocks jumped yesterday; trade hard-liners like Wilbur Ross, the commerce secretary, Robert Lighthizer, the White House’s top trade negotiator, and Peter Navarro, its trade policy guru.
+
+The losers: Big metal consumers like Ford, G.M., Boeing and United Technologies; free-trade proponents like Gary Cohn, who has threatened to resign; many Republican lawmakers; Brazil; and Canada.
+
+The world’s response: China could retaliate with tariffs on some U.S. goods. The E.U. could, too. Japan and Korea are hoping that, as allies, they would be exempted — but they appear prepared to fight back.
+
+The context: George W. Bush imposed tariffs on imported steel in 2002. He lifted them a year later.
+
+Peter Eavis’s take: Mr. Trump’s tariffs may be quite narrow in focus and exist for a relatively short period. Investors could learn to live with those. But the U.S. economy and stock markets have some vulnerabilities that could magnify the damage from a trade war.
+
+Goldman Sachs’s economists wrote that while the potential tariff’s on imported steel and aluminum “could alleviate political pressure on the White House to pursue other trade restrictions in the near-term,” it would increase “the probability of trade-restrictive outcomes to other pending issues.”
+
+On Nafta:
+
+On China’s practices regarding intellectual property and technology transfer:
+
+The Commerce Secretary appeared on CNBC and downplayed the impact of President Trump’s planned tariffs, using a can of Campbell Soup.
+
+Not everyone agrees with that view:
+
+BlackRock, the largest investor in the world, is doubling down on pushing gun makers to consider their responsibilities to the public. BlackRock said that in the wake of the Parkland, Fla., shootings it has been speaking with public gun manufacturers and retailers.
+
+Blackrock said it is asking companies to answer questions like:
+
+• “What is your strategy and process for managing the reputational, financial and litigation risk associated with manufacturing civilian firearms?”
+
+• “How do you assess the financial, reputational and litigation risk of the various aspects of your product lines and how each of those products is distributed?”
+
+— Andrew Ross Sorkin
+
+An article in The Intercept says that not only did the real estate firm — which Jared Kushner led until joining the White House — try to convince Qatar to invest in its embattled 666 Fifth Avenue property in Manhattan, but that it spoke directly with the emirate’s top money man.
+
+The meeting between Charles Kushner, Mr. Kushner’s father, and Ali Sharif Al Emadi of Qatar was last April, a month before Saudi Arabia and others set up a blockade of the emirate. Mr. Kushner supported the move, while Secretary of State Rex Tillerson did not.
+
+More from Clayton Swisher and Ryan Grim of The Intercept:
+
+A Kushner Companies spokeswoman said that the company doesn’t “do business with any sovereign funds.”
+
+The context: Mr. Kushner’s family business has appeared to become more of a liability to his work in the White House. Remember that he held meetings with top financiers whose firms later lent money to Kushner Companies, which has aroused concerns. Or that several countries have reportedly discussed using his complicated financial ties as negotiating leverage over him.
+
+— Michael de la Merced
+
+Mr. Trump has long thrived on chaos as an organizing principle. But how much disorder is too much?
+
+Remember that the White House has suffered from: very public infighting; off-the-cuff policy proposals by the president; a historically high 34 percent turnover rate; officials threatening to quit to win policy arguments; and an array of investigations into advisers (including Mr. Trump’s daughter Ivanka) and cabinet members.
+
+Jim Stewart spoke with a number of experts for their takes on how the president has been running his White House. Here’s a taster:
+
+• Jeffrey Pfeffer of Stanford University, said of the White House’s turnover rate, “This reflects badly on his leadership.”
+
+• Charles Elson of the University of Delaware said, “He isn’t bound by any traditional norms of management.”
+
+Here’s what the Federal Reserve chairman told the Senate Banking Committee: “Nothing is suggesting to me that wage inflation is at a point of accelerating. I would expect that some continued strengthening in the labor market can take place without causing inflation.”
+
+But new data from the Commerce Department suggest the opposite:
+
+• Consumer prices as measured by the personal consumption expenditures price index, or PCE, rose 0.4 percent, the biggest increase since September.
+
+• So-called core PCE, which excludes food and energy, advanced 0.3 percent in January — the largest gain since January 2017.
+
+• Year-over-year core PCE, the Federal Reserve’s preferred inflation measure, rose 1.5 percent in January.
+
+In other Fed news: The White House plans to name Richard Clarida, an economist at Columbia University and an executive at Pimco, as the Fed’s vice chairman, the WSJ reported, citing unidentified sources.
+
+• Mr. Trump may have switched his position on gun control again, after a meeting with the National Rifle Association. Georgia lawmakers punished Delta Air Lines for eliminating discounted fares for N.R.A. members. Kroger and L.L. Bean are the latest retailers to restrict gun sales to customers age 21 and older.
+
+• An overhaul of the Dodd-Frank financial rules that would ease regulations on regional banks is moving toward a vote next week in the Senate. (Bloomberg)
+
+• The venture capitalist Elliott Broidy, a longtime Republican donor, was in talks to earn millions if the Justice Department dropped its corruption investigation of a Malaysian government fund. (WSJ)
+
+• Anthony Scaramucci publicly fretted that the White House chief of staff, John Kelly, would block the sale of his SkyBridge Capital to HNA of China. (Bloomberg)
+
+Facebook has drawn criticism for inconsistencies regarding which body images are allowed in ads on its platform: a man’s bare chest was found acceptable, but a woman’s bare back was not. (The company later said the latter should have been.)
+
+More from Sapna Maheshwari and Sheera Frenkel of the NYT:
+
+Elsewhere in digital ads: Procter & Gamble says that most online advertising is a waste. And News Corporation is still pushing Google and Facebook to share more ad revenue.
+
+The tech flyaround
+
+• Jack Dorsey admits that Twitter still hasn’t done enough to address fake news and cyberbullying. (WSJ)
+
+• Facebook has ended an experiment in some countries that separated news from other content — and that may have led to a rise in misinformation. (NYT)
+
+• Germany has blamed Russian hackers for infiltrating its government’s data network. (NYT)
+
+• Amazon hasn’t changed much at Whole Foods — yet. (NYT)
+
+• Garrett Camp, a co-founder of Uber, is starting a virtual currency. (TechCrunch)
+
+• Mark Carney of the Bank of England called for more regulation of virtual currencies. (CNBC)
+
+• Google is considering whether to hire a construction start-up like Katerra to build thousands of apartments for employees and others in the San Francisco Bay Area. (The Information)
+
+• Don’t count on 4G wireless service on the moon anytime soon. (NYT)
+
+• A former Google employee is suing the company for allegedly restricting the hiring of white and Asian males for technical positions at YouTube. (WSJ)
+
+• An additional 2.4 million Americans were affected by a cybersecurity breach at Equifax. (Axios)
+
+On the U.S. front: Members of Cfius, the panel that reviews transactions for national security concerns, have debated whether it can step in before there’s even a deal, the WSJ reported, citing unidentified sources. Those who say it can point to Broadcom’s campaign to win a majority of seats on Qualcomm’s board as effectively a change in control, which will come to a head on March 6.
+
+On the international front: European lawmakers are concerned about the privacy of E.U. citizens, according to the FT, because NXP — a chip maker that Qualcomm has agreed to buy — makes chips for German passports.
+
+• Dell and VMware are working out the details of a combination of the two companies, though a deal is more than a month away, unidentified sources said. (CNBC)
+
+• DoorDash has raised $535 million from SoftBank’s Vision Fund, GIC of Singapore and Sequoia Capital for a $1.4 billion valuation. (Recode)
+
+• Carl Icahn has taken a stake in the Crock-Pot maker Newell Brands, amid the company’s fight with fellow activist investor Starboard Value. (Bloomberg)
+
+• The Athletic has joined ABC News and The Atlantic as finalists to buy Nate Silver’s FiveThirtyEight, unidentified sources said. (The Big Lead)
+
+• GKN, a British industrial parts maker, is in talks to sell its auto components business to Dana Inc. of the U.S. to stave off a hostile takeover bid by Melrose. (FT)
+
+• Nippon Life of Japan will buy an 85 percent stake in the U.S. insurer MassMutual for $982 million. (FT)
+
+• Fosun of China has bought a majority stake in the lingerie maker Wolford for 55 million euros, about $67 million. (Reuters)
+
+At the beginning of the week, the offer by the businesswoman Maria Contreras-Sweet and the investor Rob Burkle appeared to have dissipated. But, after a meeting between the two sides at the offices of the New York attorney general, Eric Schneiderman, there is now an agreement.
+
+What the deal entails, according to Brooks Barnes of the NYT:
+
+• Paying off the studio’s $225 million in debt;
+
+• Investing $275 million in the new business;
+
+• Forming a $90 million fund for victims of Harvey Weinstein.
+
+In other misconduct news: Two massage therapists have sued the casino mogul Steve Wynn in separate lawsuits, each accusing him of coercing them into sex more than a dozen times.
+
+• Travis Kalanick has joined the board of Kareo, a medical software start-up. (Axios)
+
+• Brian Gu, JPMorgan’s chairman of Asia-Pacific investment banking, will join the Chinese electric carmaker Xiaopeng Motors as vice chairman and president. (WSJ)
+
+• Nancy Daniels, the president of TLC Network, will become the head of the Discovery Channel, replacing Rich Ross amid a ratings decline. (NYT)
+
+• Xavier Niel, the deputy chairman of the French telecommunications company Iliad, has joined K.K.R.’s board. (K.K.R.)
+
+• Four Wells Fargo directors plan to resign next month. The bank also disclosed that the Justice Department had ordered an independent investigation into misconduct allegations in its wealth-management business.
+
+• Nasdaq has sued IEX, an electronic stock exchange, for allegedly infringing on seven of its patents by hiring former employees with knowledge of the technology. (Axios)
+
+• The S.E.C. may be warming up to the idea of forced arbitration, unnamed sources said. (Bloomberg)
+
+• According to the Hurun Report, the net worth of China’s Parliament and its advisory body has grown by nearly a third, to just below Switzerland’s annual economic output. (NYT)
+
+• Harvard’s endowment made one big miscalculation: believing its top money managers were smarter than everyone else. (Bloomberg)
+
+• Ye Jianming, who runs the conglomerate CEFC China Energy, is under investigation by the Chinese authorities, unnamed sources said. (Caixin)
+
+• During his annual state of the nation address in Moscow, President Vladimir Putin effectively acknowledged that Russians cannot feed their families on restored imperial glory. (NYT)
+
+• Row 7 Seed Company, co-founded by the chef Dan Barber, is aiming to build an audience for new vegetables (sweeter peppers, milder beets) that might otherwise never attract interest. (NYT)
+
+• Color forecasters at Pantone have tremendous influence over the visible elements of the global economy — the parts of it that are designed, manufactured and purchased — though their profession itself is all but invisible. (NYT)
+
+We’d love your feedback. Please email thoughts and suggestions to bizday@nytimes.com.
+
+Good Monday. Here’s what we’re watching:
+
+• The tech reckoning is gaining momentum.
+
+• Ripple’s XRP virtual currency plunged over the past day.
+
+• GoPro’s shares dropped after the company announced disappointing sales forecasts.
+
+• Could a sale of Twitter happen this year?
+
+Want this in your own email inbox? Here’s the sign-up.
+
+American technology giants are facing an increasing backlash. Google-parent Alphabet, Facebook and Twitter have drawn scrutiny from lawmakers over the manipulation of social media during the 2016 election by Russian operatives. Critics of Amazon say it is killing jobs. Across the pond, European regulators have gone after American tech firms over privacy and what officials deem anticompetitive behavior.
+
+Now Jana Partners and pension giant Calstrs are pushing Apple to do more to protect its youngest users from the effects of digital technology.
+
+Writes Shira Ovide of Bloomberg Gadfly:
+
+Still, compared to Facebook, Google or Snap, Apple is an unusual choice for the investors to target, writes Jennifer Saba of Breakingviews. The company makes hardware and uses privacy as a selling point. For those reasons, Apple was expected to avoid the worst of the blowback. But its targeting shows the extent to which the backlash against tech is gaining momentum: Writes Ms. Saba:
+
+Federal regulators have rejected a proposal by Energy Secretary Rick Perry to subsidize struggling coal and nuclear plants, in a major blow to the Trump administration’s efforts to revive America’s declining coal industry, the NYT reports.
+
+Only last week, Ripple appeared to lay claim to the biggest alternative to Bitcoin. That isn’t the case anymore.
+
+The price of Ripple’s XRP virtual currency has plunged about 27 percent over the past 24 hours, reaching $2.47 this morning, according to CoinMarketCap. Ripple’s total market capitalization has fallen back below that of Ethereum.
+
+To be fair, other virtual currencies — including Bitcoin — are falling as well.
+
+It was only last week: Investors breathlessly touted Ripple co-founder Chris Larsen, who owns a significant amount of XRP, as richer than Mark Zuckerberg.
+
+The breathlessness hasn’t abated: Shares in Seagate were briefly up more than 10 percent on Monday amid excited speculation that the hard drive company owned a huge stake in XRP as part of its investment in Ripple almost three years ago. (It’s not clear that’s actually the case.)
+
+— Michael J. de la Merced
+
+Its announcement of preliminary fourth-quarter results today compounds the troubles for what has been one of the most disappointing market debutantes in recent years.
+
+The company issued a revenue forecast that was lighter than analysts were expecting. And the action-camera maker announced its latest efforts to turn around its business:
+
+• Laying off at least 254 employees, bringing its headcount to under 1,000 worldwide
+
+• Its founder and C.E.O., Nick Woodman, reducing his cash compensation this year to $1.
+
+• Getting out of the drone market amid “a hostile regulatory environment” in Europe and the U.S.
+
+Over all, GoPro’s shares have fallen 79 percent since the company’s I.P.O. three-and-a-half years ago.
+
+— Michael J. de la Merced
+
+Steven Milunovich, an analyst at UBS, expects the iPhone maker to use the overseas cash it repatriates to buy back $122 billion in stock through 2019.
+
+The company holds about $252 billion cash offshore. Mr. Milunovich via CNBC writes:
+
+Apple has bought back more than $165 billion of stock over the past five years.
+
+The analyst Rich Greenfield of BTIG thinks so. Leading his list of predictions for the year is speculation that the social network would finally become the target of deal-making. (Remember that Salesforce had held talks to buy the company in the fall of 2016.)
+
+From Mr. Greenfield’s note:
+
+Who would buy Twitter? Maybe Salesforce comes back. Or maybe Google does. Or Microsoft.
+
+Other predictions
+
+• AT&T will defeat the Justice Department in the court battle over Time Warner.
+
+• CBS and Viacom finally combine.
+
+• Spotify will go public this year, but may sell itself down the road.
+
+— Michael J. de la Merced
+
+The chip-maker’s stock is up 2.5 percent Monday. The driver? News that Nvidia will partner with Uber and Volkswagen on autonomous driving projects.
+
+Reuters reports:
+
+• “Nvidia CEO Jensen Huang said at the CES technology conference in Las Vegas that Uber’s self-driving car fleet was using their technology to help its autonomous cars perceive the world and make split-second decisions.”
+
+• “With Volkswagen, Nvidia said it was infusing its artificial intelligence technology into the German automakers’ future lineup, using their new Drive IX platform. The technology will enable so-called “intelligent co-pilot” capabilities based on processing sensor data inside and outside the car.”
+
+Some context: Shares of Nvidia more than doubled over the past 12 months after a roughly 200 percent gain in 2016. The rally in Nvidia’s shares has come as demand for chips to power data centers, artificial intelligence, autonomous driving and gaming has surged.
+
+Nvidia said that “320 companies involved in self-driving cars - whether software developers, automakers and their suppliers, sensor and mapping companies - are using Nvidia Drive, formerly branded as the Drive PX2,” Reuters reports.
+
+The German bank is down seven percent the past two days after it said it would post a small loss for 2017, its third consecutive annual. Weak trading and a $1.8 billion hit from the United State’s tax overhaul are the main culprits.
+
+Of those, Deutsche Bank’s trading woes should be more concerning to shareholders, writes Christopher Thompson of Breakingviews.
+
+The bank said sales and trading revenue was expected to decline 22 percent in the fourth quarter from a year ago. While Deutsche Bank’s trading performance has not be appreciably worse than its European rivals, the decline in its shares “is that it is more dependent on this revenue than other big investment banks.”
+
+That means that “without a pickup in volatility or client activity, trading revenues – and shareholders – remain stuck in a rut,” Mr. Thompson writes.
+
+Jason Rabinowitz of The Points Guy explained how John F. Kennedy International Airport in particular functions — and why its operations were severely disrupted even after the “bomb cyclone” of last week.
+
+Among the interesting pieces of trivia to emerge from the piece:
+
+Here’s Mr. Rabinowitz’s concluding thought:
+
+— Michael J. de la Merced
+
+Questions Brian Krzanich is likely to face about as he prepares for a keynote speech at the biggest convention in consumer electronics:
+
+• How well will planned fixes work against Meltdown and Spectre, the two computer chip security flaws that affect most of the world’s processors?
+
+• Can Intel design new chips without either of the problems?
+
+• Were the $39 million worth of stock sales he made in November, after the flaws were discovered but before they were disclosed, really just part of a prearranged trading plan?
+
+What he would prefer to talk about: Augmented reality and self-driving cars.
+
+Today’s talking point, from Nathaniel Fick, the C.E.O. of the cybersecurity company Endgame, in an NYT Op-Ed:
+
+The tech flyaround, CES edition
+
+• The convention’s organizers said they were seeking more women speakers. (CNET)
+
+• Google is preparing to step up its fight against Amazon’s Echo. (FT)
+
+• Amazon isn’t sitting still and wants to put its Alexa virtual assistant in more and more devices. (Recode)
+
+• Superfast 5G wireless internet will be a big focal point of the convention. (Business Insider)
+
+• The proliferation of next-generation streaming services is a reminder of how far online video has come since the debut of Web TV 20 years ago, Neal Mohan, YouTube’s chief product officer writes. (Variety)
+
+Among the highlights from last night’s awards, where the uniform was black to acknowledge systemic harassment and sexism in Hollywood:
+
+• Oprah Winfrey, who received the Cecil B. DeMille Award for lifetime achievement, used her acceptance speech as a call to arms, saying, “A new day is on the horizon.” Speculation has arisen about whether she might run for president.
+
+• The actresses Debra Messing and Eva Longoria used red-carpet interviews to chastise the E! network on gender pay inequity.
+
+• Several actresses arrived with activists as their guests.
+
+• The actress Natalie Portman, introducing the best director award, said, “Here are the all-male nominees.”
+
+The host Seth Meyers quipped, “It’s been years since a white man was this nervous in Hollywood.”
+
+The misconduct flyaround
+
+• An array of start-ups is offering resources for women and companies to halt harassment at work. (WaPo)
+
+• Maria Contreras-Sweet, an investor and former Obama administration official, is said to be the front-runner to buy The Weinstein Company, according to unnamed sources. (Deadline)
+
+• The National Limousine Association cited #MeToo in its latest ad attacking apps like Uber and Lyft. (NYT)
+
+• Carrie Gracie, a senior editor for BBC News, stepped down from as China editor in a protest against pay inequality, calling the broadcaster’s salary system “secretive and illegal.” (NYT)
+
+Revelations about more ties between the Kushner Companies and Israeli businesses like the insurer Menora Mivtachim have raised questions about Jared Kushner’s wealth and the complicated relationships that his family’s company has around the world. (Particularly given Mr. Kushner’s role as a top envoy for Middle Eastern peace, as well as a senior adviser in his father-in-law’s White House.)
+
+Caveat: The NYT says that recent deals don’t appear to violate federal ethics laws, and Mr. Kushner appears not to have been personally involved. He has sold stakes in some Kushner Companies properties, like the 666 Fifth Avenue office building in Midtown Manhattan.
+
+The pull quote, from Robert Weissman of the nonprofit government ethics group Public Citizen:
+
+The Washington flyaround
+
+• Steve Bannon has backed away from remarks quoted in “Fire and Fury,” Michael Wolff’s book on the Trump White House. (NYT)
+
+• “Fire and Fury” leads Amazon’s list of best-selling books. (Amazon)
+
+• Breitbart appears to need Mr. Bannon less than he needs it. (NYT)
+
+• Which big companies have been trying to poach Rob Porter, the White House’s staff secretary? (Axios)
+
+• The Brookings Institution will hold a discussion today, led by Ben Bernanke, on whether it’s time to permanently replace the 2 percent inflation target. (Brookings)
+
+• “Mr. Trump does not know how to use bilateral trade negotiations to create pressure for stronger multilateral rules,” argues Robert Zoellick, the former World Bank president who served in both Bush administrations. (WSJ)
+
+Mr. Trump will head to Tennessee today to promote the tax overhaul. But the farm industry has reason to dislike some of his economic policies.
+
+From Ana Swanson and Jim Tankersley of the NYT:
+
+An industry breathing a sigh of relief: Analysts expect a tax windfall for retailers, especially domestically focused ones like Nordstrom and those targeting high-end consumers, according to the WSJ.
+
+• Celgene agreed to buy Impact Biomedicines, which makes blood disease drugs. It will pay between $1.1 billion and $7 billion, depending on performance. (WSJ)
+
+• Hershey and Ferrero are among those vying for Nestlé’s American candy business, according to unidentified people. (CNBC)
+
+• KKR sold its stake in Valinge, a Swedish maker of flooring parts, to the family that controls Lego, for about $500 million. (FT)
+
+• Expect buying sprees from big tech companies this year, but relatively few I.P.O.s from Silicon Valley start-ups. (CNBC)
+
+• “Deal makers are now on the clock, especially if you believe that the bull market is in its waning stages and the Federal Reserve is serious about interest-rate hikes.” (Barron’s)
+
+The hedge fund’s first campaign for its Jana Impact Capital fund: Prod Apple into finding ways to reduce children’s addiction to iPhones.
+
+From the campaign’s public letter to the tech titan:
+
+Who’s helping Jana: The big California pension fund known as Calstrs. Also on board as advisers are the musician Sting and his wife, Trudie Styler; Sister Patricia Daly, a nun who took on Exxon Mobil over environmental issues; and Robert Eccles, a sustainability expert.
+
+The bigger picture: Jana is wading into corporate social responsibility, an area that Wall Street has only recently started dabbling in, the WSJ reports. Firms like TPG have raised social impact funds, but no major activist fund has started campaigns focused specifically on getting companies to act better from a social standpoint.
+
+He explains with some math in  this week’s Time, guest-edited by Bill Gates:
+
+• America’s population should grow by about 0.8 percent a year, between births and immigration.
+
+• Assuming annual gains in real GDP continue to be about 2 percent, that means the U.S. will deliver about 1.2 percent growth in per-capita GDP.
+
+What that means in real terms: In 25 years, GDP per head would go from $52,000 to $79,000.
+
+The pull quote: 
+
+Speaking of Mr. Buffett: Now that class A shares in his Berkshire Hathaway conglomerate have surpassed $300,000 each — they closed on Friday at $301,525 — the WSJ looked at which of its products that could buy you.
+
+Then Dogecoin — the parody virtual currency inspired by an animal meme — may be your ticket to digital riches. Its market capitalization surpassed $2 billion on Saturday and was hovering just under that level this morning.
+
+A potentially big initial coin offering: The messaging app Telegram plans to create its own virtual currency and hopes to raise as much as $500 million in a pre-sale I.C.O., according to TechCrunch.
+
+• Marcelo Claure, the C.E.O. of Sprint, and Rajeev Misra, the head of SoftBank’s Vision Fund, will join Uber’s board following the ride-hailing giant’s share sale to a SoftBank-led group.
+
+• What happened when the U.S. tried to hold a Swiss banker personally accountable for creating accounts for Americans hiding money from tax collectors. (NYT)
+
+• Saudi Aramco, along with some of the kingdom’s biggest companies, will raise pay after a royal order extended handouts to government workers to ease discontent over prices. (Bloomberg)
+
+• Martin Shkreli is no longer around to deflect attention from a play by drug companies: to start prices high, then raise them incrementally. (NYT)
+
+• Mexico is rejecting one of the Trump administration’s Nafta demands: a provision that could block its truckers from making deliveries into the middle of the U.S. (NYT)
+
+• Indians are proving reluctant to switch to digital payments, despite intensive efforts by the government and global technology companies. (NYT)
+
+• Sweatcoin, an app offering rewards for exercise, has raised about $1.6 million in financing and expects to close another round soon. (NYT)
+
+• The distribution system for legal marijuana sales in California is already showing signs of strain. (WaPo)
+
+• China’s investment banks have taken some big names public in Hong Kong, but they haven’t extended the strength in initial public offerings further. (Bloomberg)
+
+• SpaceX successfully launched a U.S. government spacecraft called Zuma and landed its rocket back on Earth. (CNBC)
+
+• Chinese movie audiences showed little love this past weekend for “Star Wars: The Last Jedi,” which has collected $1.2 billion worldwide. (Deadline)
+
+• The latest to be punished in the Libor benchmark-manipulation scandal is a former Royal Bank of Scotland trader, Neil Danziger. He was fined $338,000 and banned from working in finance. (Bloomberg)
+
+We’d love your feedback as we experiment with the writing, format and design of this briefing. Please email thoughts and suggestions to bizday@nytimes.com.
+
+In a matter of hours this week, the Trump administration twice weighed in on one of the central issues shaping business and society today — just how much market power big companies should be allowed to amass.
+
+Yet in back-to-back developments, two federal agencies arrived at starkly different conclusions, and one company, AT&T, found itself on opposite sides of the debate.
+
+On Monday, the Department of Justice sued to block AT&T’s proposed $85.4 billion takeover of Time Warner, a deal that would unite one of the country’s biggest internet providers with the company that owns CNN, HBO and the Warner Bros. film studio. It was a signal from antitrust enforcers that an era of breakneck consolidation might be coming to an end, and that mergers would be evaluated by a new set of standards.
+
+Then on Tuesday morning, the Federal Communications Commission announced plans to dismantle net neutrality rules. The move would let companies charge higher fees and block access to some websites, and was effectively a green light for big internet service providers — including AT&T — to freely wield their influence against rivals.
+
+In each development, there are signs that the Trump administration is trying to reckon with a media and telecommunications industry that has become intensely concentrated in recent years; most Americans now get their internet and phone services from one of a few providers, and most TV shows and movies are produced by a handful of big companies.
+
+But there is so far no clear view about how Washington will navigate this constantly shifting terrain in the future.
+
+“We have one government, but two separate agencies with opposing views,” said Spencer Kurn, an analyst at New Street Research. “You’ve got one agency saying that marrying content and distribution results in too much market power, and another agency saying there’s no problem with a distributor favoring their content over someone else’s.”
+
+At the intersection of both debates is AT&T. A global powerhouse offering access to the internet through mobile phones and landlines, and satellite television service through DirecTV, AT&T has a long history of battling regulators. In 1982, it agreed to break itself up and end a nearly century-old monopoly. In 2011, regulators scuttled its proposed deal to acquire T-Mobile. Randall L. Stephenson, the AT&T chief executive, has vowed to fight the Justice Department in court to save the Time Warner deal.
+
+AT&T stands to gain from the rollback of net neutrality rules. It could charge companies and consumers more for high-speed internet access, and use its market influence to hinder content providers it competes against.
+
+“It’s an ‘open the champagne bottles’ moment for AT&T,” said Tim Wu, a professor at Columbia University who coined the term net neutrality — the concept of providing equal access to the internet. “They can just tell people to pony up.”
+
+But AT&T’s long-term aspirations could be dealt a severe blow if the Justice Department succeeds in blocking its takeover of Time Warner.
+
+On Tuesday, President Trump signaled his approval of the lawsuit. “Personally, I’ve always felt that that was a deal that’s not good for the country,” he said in response to a question from reporters. If the merger was approved, he suggested, “I think your pricing is going to go up.”
+
+For all the good a rollback of net neutrality rules would do AT&T, the company is looking to diversify. Its core businesses of delivering phone, internet and satellite television services are maturing. A big move into the content business would expand the company’s sources of revenue, and give it new opportunities for cost savings.
+
+One of AT&T’s biggest competitors, Comcast, has already married content and distribution with the acquisition of NBCUniversal. If the government succeeds in preventing the Time Warner deal, it will raise sharp questions about the future of AT&T, and its competitors.
+
+“This could be a watershed event for future business combinations in media,” said Rich Greenfield, an analyst with BTIG. “Does this mean Comcast will be broken up?”
+
+There is no evidence that the decisions by the Justice Department and the F.C.C. were coordinated.
+
+“I do not think it is a well-thought-out, cohesive policy that is coming from the executive office,” said Christopher L. Sagers, an antitrust professor at Cleveland-Marshall College of Law.
+
+Instead, the diverging decisions reflect an effort by different agencies trying to come to grips with a radically transformed media and telecommunications landscape, one where Silicon Valley companies are suddenly powerhouses in content creation, and traditional media companies exert vast influence over how information flows across the internet.
+
+“We’re definitely getting mixed messages from the administration,” said Larry Downes, project director for the Center for Business and Public Policy at Georgetown University.
+
+The Justice Department’s decision to intervene in the AT&T deal was the more surprising of the two developments this week. Many antitrust experts believe that the government’s case against the deal is weak, because it is a so-called vertical merger, bringing together two businesses that do not compete directly with each other.
+
+But the lawsuit is a sign that the Justice Department is beginning to think about antitrust enforcement in fundamentally new ways.
+
+The decision by the F.C.C. to roll back net neutrality rules was less surprising, but has equally far-reaching implications. With less regulation, big internet providers will be able to charge more for their services, extract new fees from websites and block content.
+
+“The F.C.C. is saying that they’re going to give up any legal authority over regulating high-speed internet,” said Susan Crawford, a professor at Harvard Law School. “They’re handing the power to choose winners and losers online to about five companies.”
+
+Despite the seeming irreconcilability of the moves by the Justice Department and the F.C.C., some see a common narrative in the two decisions.
+
+“They’re both defense strategies against Silicon Valley,” Mr. Wu said.
+
+By rolling back net neutrality, the government is giving old-school media companies like AT&T and Comcast more leverage over companies like Netflix, Google and Facebook that are increasingly becoming their competitors. And by challenging the AT&T merger with Time Warner, the Justice Department could be laying the groundwork for a new approach to antitrust enforcement that could be used to go after big technology firms.
+
+Barry Diller, the media mogul and chairman of IAC, which owns a host of websites including Match.com and Vimeo, cited the power of tech companies in expressing exasperation at the Justice Department suit.
+
+“If you think AT&T has too much market power because of distribution, tell me what happens if you are Facebook and Google, which have unbelievable concentration in distribution,” Mr. Diller said. “How would you ever be able to get a content addition to Google?”
+
+And there is another school of thought suggesting that more vigorous antitrust enforcement might have obviated the need for net neutrality rules in the first place.
+
+If regulators had been stricter about ensuring robust competition among internet service providers over the years, the theory goes, big firms like AT&T would not be able to operate in ways that harm competition.
+
+“Net neutrality was a distant-second-best remedy,” Mr. Sagers said. “If we could have competition in internet service provision, that would have been way better than relying on the F.C.C.”
+
+Even if the Justice Department succeeds in blocking AT&T’s deal for Time Warner, the opportunity to use antitrust enforcement as a means to give consumers more choice among internet providers has likely passed. And now, by unwinding net neutrality rules, Mr. Sagers said, the Trump administration will make it easier for big companies like AT&T to maintain the already enormous power it has amassed through earlier consolidation.
+
+“If you want to have a monopoly,” he said, “the government can be your best friend.”
+
+Good morning on this chilly Thursday.
+
+When New York Fashion Week kicks off today, the catwalks of Manhattan will be filled with fabulously unaffordable outfits.
+
+But you can own some of this fabulosity for a pittance — maybe not the outfits, but the fabric they’re made of.
+
+All it takes is a subway ride to the last stop on the F, up four flights of warehouse stairs, past the noisy production lines of the Hanky Panky lingerie factory to the unglamorous showroom of Fabscrap in Jamaica, Queens.
+
+There, you’ll find designer silk faille, delicate corded lace appliqués, fire-red duchess satin, midnight wash denim, and whole hides of leather in tobacco, charcoal or cobalt — for as little as $5 a pound.
+
+Fabscrap, founded in 2015, is a nonprofit that recycles discarded fabric from designers like Marc Jacobs, Oscar de la Renta and Eileen Fisher. It’s part of a movement to make the fashion industry more sustainable.
+
+Fabscrap’s founder, Jessica Schreiber, is expecting a glut of new stock, “because after Fashion Week everyone cleans out.”
+
+When we visited this week, volunteers picked fabric from garbage bags piled 12 feet high.
+
+Cotton, wool and spandex are separated, and smaller scraps are sent out to be made into fire blankets, insulation and car-door lining. The good pieces are meticulously organized by color and neatly folded in Fabscrap’s retail space.
+
+Last year Fabscrap collected 68,000 pounds of fabric — enough to fill 13,600 shopping bags or create an equal number of head-to-toe looks.
+
+Ms. Schreiber, 29, a former senior manager at the city sanitation department and self-described “trash nerd,” founded the nonprofit after noticing that New York’s clothing recycling program didn’t accept fabric.
+
+“The city collects reusable clothes and takes it to Goodwill,” she said. “It didn’t really fit their model.”
+
+She started driving a U-Haul van around Midtown picking up 50-pound bags of fabric from designers. “I got to know a lot of the freight elevator operators in the garment district,” she said.
+
+She was often told, “You work like a man.” She took it as a compliment.
+
+Ms. Schreiber’s goal is to one day collect scraps from clothing producers, which generate a lot more waste than designers. “That’s where you have the potential to make a real impact,” she said.
+
+But for now, she’s looking to expand her network of over 600 volunteers, who get free fabric and an important lesson.
+
+“When you walk in and see this pile of waste it’s such an educational moment,” she said. “There’s no better way to change what someone thinks about waste than for them to see it and put their hands on it.”
+
+Here’s what else is happening:
+
+Yesterday’s slush is but a memory.
+
+It will be sunny and dry, but temperatures might not get above freezing.
+
+Wrap a fabric scrap around your neck: The wind could make it feel like 15 on your commute.
+
+• Though liberal, Mayor Bill de Blasio says the city should not go easy on turnstile jumpers. [New York Times]
+
+• Data suggests that the Metropolitan Transportation Authority is managing to stabilize what has been a system riddled by delays and plagued by failing infrastructure. Riders, however, can’t tell. [New York Times]
+
+• The high school graduation rate in New York State increased half a percentage point, according to new data. [New York Times]
+
+• Frederic Lyman taught at four private schools in the 1970s and ’80s. He is now known to have engaged in sexual misconduct with students at all four of them, an investigation revealed. [New York Times]
+
+• Roman Catholic dioceses in Illinois and New York are fighting over where Archbishop Fulton J. Sheen, who died in 1979, should be buried. [New York Times]
+
+• Google is buying Chelsea Market for $2.4 billion, part of the rapid expansion of technology companies in the city. [New York Times]
+
+• The federal corruption trial against Joseph Percoco may hinge on the credibility of the government’s key witness, Todd Howe; under cross-examination, Mr. Howe admitted to being a habitual liar. [New York Times]
+
+• The T.W.A. Flight Center at Kennedy International Airport is being converted into a hotel slated to open in 2019. [New York Times]
+
+• This year, you’ll be able to go camping on Governors Island. A luxury glamping company will bring “overnight lodging” to the island. [Curbed NY]
+
+• A look at the nearly 400 workers whose job is to build trust with people living on the streets and bring them indoors. [WNYC]
+
+• Affordable housing is still out of reach for many in Connecticut, a new report revealed. [Hartford Courant] 
+
+• Today’s Metropolitan Diary: “A Great Commute”
+
+• For a global look at what’s happening, see Your Morning Briefing.
+
+• Sip botanical cocktails and craft something for your Valentine at the Queens Botanical Garden in Flushing. 6 p.m. [$18]
+
+• A discussion about police violence with authors and professors at the Schomburg Center for Research in Black Culture in Harlem. 6:30 p.m. [Free]
+
+• Zadie Smith talks about her new book “Feel Free” at Barnes & Noble on the Upper West Side. 7 p.m. [Free]
+
+• Dan Rather reflects on patriotism at Temple Emanu-El on the Upper East Side. 7 p.m. [$18, includes a copy of Mr. Rather’s book “What Unites Us: Reflections on Patriotism”]
+
+• An immersive staging of “Dutchman,” about race and gender in the 1960s, at the Secret Theater in Long Island City, Queens. 7:30 p.m. [$20]
+
+• Looking ahead: Common talks about his work and career with Marc Lacey, the national editor of The New York Times, at the Kaufman Music Center on the Upper West Side. Tuesday at 7 p.m. [$40]
+
+• Islanders at Sabres, 7 p.m. (MSG+2). Devils host Flames, 7 p.m. (MSG+). Knicks at Raptors, 7:30 p.m. (MSG).
+
+• Alternate-side parking remains in effect until Feb. 12.
+
+• For more events, see The New York Times’s Arts & Entertainment guide.
+
+If discount fashion is not your thing, here’s another way you might save some money: Get help doing your taxes.
+
+Our public libraries are working with organizations like AARP, Ariva, Food Bank, MMCC and the Volunteer Income Tax Assistance program to offer free filing help — and prevent you from overtipping Uncle Sam.
+
+You have two extra days to file this year: The deadline is April 17. But why procrastinate? Those envelopes with Important Tax Documents Enclosed should have all landed by now. Don’t wait till you lose them.
+
+You can get help today at:
+
+• The Parkchester Library in the Bronx from 9 a.m. to 1 p.m. (Sign-ups begin at 8 a.m.)
+
+• The Epiphany Library in Midtown from 10 a.m. to 2 p.m. (First come first served)
+
+•  The Todt Hill-Westerleigh Library in Staten Island beginning at 11 a.m.
+
+•  The Riverside Library near Lincoln Center from 11 a.m. to 3 p.m.
+
+•  The Chatham Square Library in Lower Manhattan from 5 p.m. to 7 p.m.
+
+•  And freelancers will get special attention at the Science, Industry and Business Library in Midtown from 6 to 7:30 p.m.
+
+A full listing of more than 200 library tax-preparation events can be found here.
+
+New York Today is a morning roundup that is published weekdays at 6 a.m. If you don’t get it in your inbox already, you can sign up to receive it by email here.
+
+For updates throughout the day, like us on Facebook.
+
+What would you like to see here to start your day? Post a comment, email us at nytoday@nytimes.com, or reach us via Twitter using #NYToday. 
+
+Follow the New York Today columnists, Alexandra Levine and Jonathan Wolfe, on Twitter.
+
+You can find the latest New York Today at nytoday.com.
+
+You could almost hear the trumpets blaring in the background of Mark Zuckerberg’s announcement last week that Facebook would now promote local news stories in its news feed.
+
+“People who know what’s happening around them are more likely to get involved and help make a difference,” the Facebook chief wrote, espousing an eat-your-vegetables view of local news that jibes with his new effort to turn Facebook into a force for global good.
+
+There’s little reason to doubt Mr. Zuckerberg’s noble-sounding intentions. The internet has decimated the business model for large and small metropolitan newspapers, and Facebook, like other tech giants before it, just wants to help.
+
+Still, when it comes to the news business, hasn’t Facebook already done enough? Just last month, the social network said it would play down national news in its feed. Considering all that has gone wrong with Facebook’s half-decade dalliance with news — the rise of filter bubbles, clickbait, rampant misinformation and propaganda, and in some places the very unmooring of democratic society — the new embrace of local news arouses instant suspicion. Picture Godzilla, having thoroughly savaged Tokyo and New York, now turning a hungry eye toward Peoria and Palo Alto.
+
+There may be another way to save local news. Over the last few weeks, I chatted with Jessica Lessin of The Information and Ben Thompson of Stratechery, two of my favorite sites for understanding what’s going on in the technology business. In different ways, both talked through a new way of thinking about local news, and a novel business model for funding it, one that doesn’t depend on the beneficence of Facebook or Google (which also has a new plan for local coverage).
+
+The plan, for any would-be entrepreneur brave enough to try it, goes like this: Hire some very good journalists; just one or two are O.K. to start. Turn them loose on a large metropolitan area — try San Francisco, Los Angeles, Houston or any other city going through waves of change, and whose local press has been gutted by digital disruption.
+
+Have your reporters cover stuff that no one else is covering, and let them ignore stuff that everyone else is covering. Don’t do movie reviews, stock market analysis, Super Bowl coverage or anything else that isn’t local. Instead, emphasize coverage that’s actionable, that residents deem necessary and valuable for short- and long-term planning — especially an obsessive focus on housing and development, transportation, education and local politics.
+
+Package it all in a form that commands daily attention — probably a morning email newsletter — and sprinkle it with a sense of community, like offline and online networking events for readers.
+
+How will you fund all of this? This is the most important part: Shun advertising. Instead, ask readers to pay for it with real money — $5 or $10 a month, or perhaps even more. It will take time, but if you build it right, you just might create the next great metropolitan news organization.
+
+This plan may sound simplistic, almost like a joke. Wait, Sherlock, your big idea is to create a really good product and charge people money for it? Haven’t people tried this before?
+
+Less than you might think. The short history of digital media is lousy with advertising, which promotes all the wrong incentives for online news — volume over curation, aggregation over original coverage, speed over accuracy.
+
+More recently, there has been a surge in online subscriptions. Netflix is doing it for TV, Spotify for music, and Patreon for podcasters and YouTubers. And many news outlets — big companies like The New York Times and start-ups like The Athletic, which covers sports — are making subscriptions the center of their journalism.
+
+Yet few entrepreneurs have jumped on the subscription bandwagon for local news. The reluctance makes sense; local markets are by definition small, and journalism is expensive.
+
+But after studying Ms. Lessin’s and Mr. Thompson’s methods, I suspect there’s a market for subscription-based local coverage. Someone just has to build it.
+
+How? Consider Ms. Lessin’s plan for The Information, the tech news service she started in 2013 after spending eight years at The Wall Street Journal. Back then, online subscriptions seemed antiquated; many companies had experimented with charging users, but most had failed to win large numbers of subscribers, and the big money in media was in ad-supported sites aiming for rapid expansion through viral traffic.
+
+“People thought no one would pay for news, especially tech news,” Ms. Lessin told me last month. “The problem was the news business hadn’t been focused on a key question: How do I deliver a differentiated product that people would pay for?”
+
+Her idea for differentiation was to charge a lot for The Information — a subscription is $399 a year, close to what The Wall Street Journal charges for print delivery — but she would offer readers quality instead of volume.
+
+The Information publishes just two or three stories a day, often scoops and analysis, including a handy daily roundup of the most important stories in tech that day.
+
+The effect is like that of a filter, and a necessary one. And The Information has broken many big industry stories, including last year’s news of sexual harassment allegations against the venture capitalist Justin Caldbeck and Roy Price, Amazon’s former entertainment chief.
+
+Mr. Thompson, who worked in the tech industry at companies like Microsoft, started Stratechery in 2013. It offers a daily newsletter featuring strategic analysis of developments in the tech industry. (Here’s one example: Mr. Thompson’s argument for why subscriptions are the best answer for local news.) In 2014, he began charging for the analysis. Now he publishes one article a week for free; to read the others, you have to pay $100 a year for the service.
+
+Mr. Thompson’s overhead is low: He is the only writer of Stratechery, which has become required reading among tech executives and many others in the industry. He declined to divulge any subscriber numbers, other than to say he’s doing very well.
+
+A high-priced subscription site may well have a natural audience ceiling. Ms. Lessin declined to divulge her subscriber base but said it was “significantly north of 10,000,” which is lower than the audience for many ad-based digital publications.
+
+Still, two years ago, she said, the site became cash-flow positive — that is, it pays for expansion from its subscriptions — and it plans to hire a half-dozen more journalists this year, adding to a work force of 31 full-time employees. It has also started an “accelerator” program that invests $25,000 in new subscription news businesses; one of them, Detour Detroit, is a planned news service aimed at covering the Motor City.
+
+Sure, there are reasons to be skeptical that this model could work in local news. Many subscribers to The Information and Stratechery think of the publications as a business expense — they work in tech or finance, wealthy industries that will pay just about anything for business intelligence.
+
+Yet there are striking overlaps between what those publications do and what a subscription-based local news start-up would look like. For one thing, a lot of those wealthy people also live in undercovered urban and suburban areas; if they’re paying for news about tech, wouldn’t they also pay for in-depth investigations into their kids’ school district, their city’s mayoral race or the traffic clogging their commute?
+
+There’s also the opportunity to pay for a sense of community. The Information — through the Slack chat service, conference calls and in-person meet-ups — constantly brings subscribers together to talk about the industry. A local news start-up could do the same, selling not just news but a sense of belonging.
+
+“When you’re in the subscription news business, you’re not selling articles,” Mr. Thompson said.
+
+Why do they pay?
+
+“News happens in tech every day, and I do the thinking for them,” he said. A subscription-based local news business would offer the same value: “You’re selling people a feeling of being informed, of being good citizens — that’s what you’re selling.”
+
+Now we just need someone to build it.
+
+(Want to get this briefing by email? Here’s the sign-up.)
+
+Good morning.
+
+Plunging stock markets, right-wing populists in Germany and Italy and our first article using augmented reality. Here’s the news:
+
+• Stock markets around the world tanked further as the sell-off entered its second week.
+
+In a strange way, investors are nervous that the global economy is doing too well.
+
+If the momentary sputter turns worse, it could become awkward for President Trump, who has often claimed credit for rising share prices. (More on this in today’s The Daily podcast.)
+
+Our Upshot columnist argues that the drop, so far, is less scary than it seems.
+
+_____
+
+• Washington is consumed by partisan battles.
+
+A House committee voted to release the Democratic rebuttal to a Republican memo on surveillance abuse. President Trump, who earlier in the day had called some Democrats “treasonous,” has five days to decide to block its release.
+
+(Above, Representative Adam Schiff, the ranking Democrat on the committee, whom Mr. Trump assailed on Twitter.)
+
+Meanwhile, we learned that Mr. Trump’s lawyers want him to refuse any interview request in the Russia investigation, which could set up a prolonged court fight.
+
+And Congress is careening toward another standoff as government funding is set to expire on Thursday.
+
+_____
+
+• In Germany,  talks on forming a new coalition sputter on.
+
+Many fear that another coalition of conservatives and Social Democrats would give the far-right AfD party an opportunity to turn its gains in last year’s election into a sustained following.
+
+To achieve that, the party is  widening its blue-collar base and targeting unions. (Above, Guido Thorsten Reil, a miner who left the Social Democrats to become an AfD politician.)
+
+_____
+
+• The shooting of African immigrants by a far-right extremist in Italy over the weekend has laid bare widespread anti-immigrant anger, and how it has been exploited by the populist Northern League and its leader, Matteo Salvini.
+
+Mr. Salvini has successfully used the country’s growing economic discontent as a vehicle to reach voters in the south, the formerly secessionist party’s onetime enemy territory.
+
+“I like him because he puts Italians first,” a woman told us in Ostia, a Roman seaside suburb. “And I guess he’s a fascist, too. What can you do?”
+
+_____
+
+• Even in famously egalitarian Scandinavia, motherhood exacts a price on careers.
+
+Despite generous social policies, women working full time are still paid 15 percent to 20 percent less than men, new research shows — a gender pay gap similar to that in the United States.
+
+And for the same main reason: Women spend more time on child rearing.
+
+• Saudi Arabia is plotting a shift from oil to renewables. Riyadh plans to build a $300 million solar farm that would generate enough electricity to power 200,000 homes.
+
+• Broadcom raised its bid for the rival chip maker Qualcomm to about $121 billion, piling pressure on Qualcomm’s leadership, which is fiercely opposed to what would be the tech industry’s biggest-ever takeover.
+
+• A group of Silicon Valley technologists is banding together to challenge the ill effects of services provided by Facebook and Google, companies they helped build.
+
+• Virtual currencies have experienced a swift reversal of fortune over the last month as the extent of frauds and flaws in the industry has become increasingly evident.
+
+•  Here’s a snapshot of global markets.
+
+• Salah Abdeslam, the sole surviving suspect in the 2015 attacks in Paris, used his first opportunity to speak at a trial in Belgium to suggest that he had been prejudged because he is a Muslim. [The New York Times]
+
+• In Syria, videos of rebels abusing a female Kurdish fighter’s corpse have cast a shadow on Turkey’s allies in the battle for the Kurdish-controlled city of Afrin. [The New York Times]
+
+• The murder in Kenya of an American activist who exposed the illicit trade in ivory and rhino horns sent shock waves through East Africa’s wildlife circles. [The New York Times]
+
+• A political crisis in the Maldives deepened, as the government declared a state of emergency and arrested Supreme Court justices and a former president. [The New York Times]
+
+• A letter detailing abuse that is said to have been given to Pope Francis has cast doubt on his commitment to “zero tolerance” on such crimes. [The New York Times]
+
+• In Britain, the decision to release John Worboys, convicted of a string of sexual assaults, has drawn fierce criticism of the country’s parole system. [The New York Times]
+
+• A Times Documentary profiles a rising white supremacist leader who depicts himself as an American patriot and Iraq war veteran. His narrative is built on deception. [The New York Times]
+
+• In France, President Emmanuel Macron is expected to meet with Corsican nationalists on a visit to the island meant to strengthen its ties to Paris. [Bloomberg]
+
+• “I would not wish the U.S. medical system on anyone.” That was one reader’s comment, sharing her experiences with Britain’s National Health Service. [The New York Times]
+
+• It snowed so much in Moscow that the Russian capital called a rare snow day. Expect travel disruptions elsewhere too, including in Spain and France. [Los Angeles Times]
+
+Tips, both new and old, for a more fulfilling life.
+
+• Eggs travel smoothly from breakfast to lunch to dinner. And they’re easy to cook.
+
+• This customizable quinoa and white bean soup doesn’t need meat to taste good.
+
+• Are your hangovers getting worse with age? It may be because you’re drinking less.
+
+• Our soccer correspondent writes about how local players in Europe bring a value to their clubs that can’t be bought at any price. Above, Trent Alexander-Arnold of Liverpool.
+
+• We’re introducing augmented reality to our coverage, just in time for the Winter Olympics. Try it out: Catch four Olympians, including an Austrian snowboarder, mid-action.
+
+• A hundred years ago today, British women gained the right to vote. Revisit the suffragist struggle in campaign posters.
+
+• Some chefs are discovering the subtleties of vinegar made from all kinds of things, including mushrooms and flowers.
+
+• Scientists have found that animals across the evolutionary spectrum can count, and some are even better at it than we are.
+
+“Oh, what a flight.”
+
+The Times’s headline about the 1988 N.B.A. All-Star festivities said it all. The weekend belonged to Michael Jordan of the Chicago Bulls, widely considered the greatest basketball player of all time. He cemented his place in slam dunk history 30 years ago today.
+
+In the final round of the slam dunk contest, in which judges award competitors’ creativity, Jordan faced Dominique Wilkins of the Atlanta Hawks.
+
+In one of his final dunks, Jordan dribbled from the far end of the court and leapt from the foul line, 15 feet from the basket. Back arched, legs trailing behind him, Jordan sailed through the air with one hand pushing the ball toward the basket. The judges awarded him a perfect score.
+
+The final score could have easily gone to Wilkins, but Jordan was performing in front of a hometown Chicago crowd, which “surely had some influence on the slam dunk judges, and galvanized his All-Star teammates, to say nothing of their considerable effect on The Flying Machine himself,” The Times reported. Above, another famous Jordan dunk from the competition.
+
+The next day, Jordan would go on to score 40 points in the All-Star Game.
+
+“This was,” Jordan said, “a picture-perfect weekend.”
+
+Remy Tumin contributed reporting.
+
+_____
+
+Your Morning Briefing is published weekday mornings and updated online.
+
+Sign up here to get it by email in the Australian, Asian, European or American morning, or to receive an Evening Briefing on U.S. weeknights.
+
+Browse our full range of Times newsletters here.
+
+What would you like to see here? Contact us at europebriefing@nytimes.com.
+
+Good morning.
+
+(Want to get California Today by email? Here’s the sign-up.)
+
+Today’s introduction comes from Conor Dougherty, who reports on economics from the Bay Area.
+
+Last week Gov. Jerry Brown’s Office of Housing and Community Development released a much-anticipated list of cities that will be subject to a new streamlining law that will essentially force those places to approve new housing, especially low-income housing, by removing the city government’s ability to block certain kinds of building permits.
+
+The report showed that pretty much all California cities — and especially those in the coastal job centers around San Francisco, Los Angeles and San Diego — haven’t built nearly as much low and moderately priced housing as they were supposed to. That wasn’t very surprising, given that California is in a dire housing crisis and has the highest real estate costs in the country.
+
+What was surprising, even shocking, was the city that topped the very short list of places that are meeting their goal of affordable new residences: Beverly Hills. How could that be? Are Beverly Hills’s residents feeling guilty about income inequality and mass building low-income housing as a result?
+
+Perhaps not surprisingly, Beverly Hills’s apparently stellar record at building housing for poor people has more to do with politics and funny math than a sudden building boom.
+
+The progress report released last week is based on a series of housing goals that are decided by a regional body of governments. Over the eight-year period covered by the goals, Beverly Hills was required to build a total of three housing units: One very-low income housing unit, one low-income housing unit, and one moderately priced housing unit. In fairness, the wealthy Los Angeles County city far exceeded its numbers, at least on a percentage basis, by issuing permits for a total of nine low- and moderate-income housing units.
+
+The city was not required to build any high-income housing units, since it already has a lot of them. Nevertheless, it blew its goal of zero out of the water, and issued 75 new permits for high-income housing.
+
+Scott Wiener, the San Francisco senator who wrote the streamlining bill on which the recent report was based, said in an interview that numbers like those reported by Beverly Hills are why he is working on a new bill that would try to neutralize the role of politics in housing production by tying future state housing goals to economic measures like job growth. It would also carry forward past housing deficits so that cities that don’t build will lose further control over local housing decisions as time goes on.
+
+“It’s absurd and we see this around the state where communities that are whiter and more affluent are able to push down their numbers and essentially opt out of new housing,” he said.
+
+(Please note: We regularly highlight articles on news sites that have limited access for nonsubscribers.)
+
+• A group of Silicon Valley technologists who were early employees at Facebook and Google, alarmed over the ill effects of social networks and smartphones, are banding together to challenge the companies they helped build. [The New York Times]
+
+• Yes, both of California’s senators are women. But in an election year rocked by sexual harassment scandals and the emergence of the #MeToo movement, women in California politics are still running at the margins. The phenomenon is especially striking in this heavily Democratic state, where no woman has ever held the governorship and women account for only 26 of the 120 state legislators. [Politico]
+
+• One reason progressive supervisors gave for terminating London Breed as San Francisco’s acting mayor was that she was too close to tech billionaires like Ron Conway — so it’s interesting to note that Ms. Breed’s replacement, Mark Farrell, has counted Mr. Conway as an investor in his venture capital firm since 2011. [San Francisco Chronicle]
+
+• The Republican candidate for governor Travis Allen and three other sitting lawmakers were among those named in an unprecedented release of sexual harassment investigation records disclosed Friday by California legislative leaders. [Sacramento Bee]
+
+• Extended leave at twice the pay: Hundreds of Los Angeles police officers and firefighters have benefited from a program that doled out $1.6 billion in extra pension payments. [Los Angeles Times]
+
+• Santa Rosa city fire investigators have determined that PG&E power lines buffeted by heavy winds the night of Oct. 8 ignited at least two small fires in city neighborhoods. The findings were the first public reports by government authorities into what caused some of the dozens of blazes that erupted that night and became the deadliest and most destructive wildfires in California history. [Press Democrat]
+
+• New witness statements have re-energized the investigation into the drowning of Natalie Wood. The Los Angeles County Sheriff’s Department said, “She got in the water somehow, and I don’t think she got in the water by herself.” [The New York Times]
+
+• Monterey County allows industrial marijuana grows but marijuana farmers in Big Sur, the birthplace of “Big Sur Holy Weed,” are getting shut out of the business. The county’s new marijuana ordinance doesn’t allow rural cannabis growing. [Mercury News]
+
+• The residents of Blythe, a town on the Arizona-California border, were ambivalent about growing cannabis. But now it’s being seen as a way to rejuvenate the desert town’s economy. “It’s here. We might as well make some money on it.” [Desert Sun]
+
+Coming up this week:
+
+• Amid the rash of smash-and-grab car thefts in the Bay Area the Alameda City Council will vote Tuesday on a plan to scan the license plate of every vehicle that enters the city from Oakland. The license plate recognition system would cost $500,000.
+
+• The AT&T Pebble Beach Pro-Am runs this week and has attracted golf’s top names. Weather forecast for the Monterey Peninsula: sunny and 70.
+
+• The L.A. Opera is staging Leonard Bernstein’s adaptation of Candide through Feb. 18.
+
+In 1875, a visitor to Yosemite recorded his predicament in a guest registry. “Can’t get out of Yosemite on account of a sick horse,” he wrote, adding ruefully: “Yosemite Valley is a lovely place in which to be incarcerated.”
+
+That’s a quaint picture of a park that has exploded in popularity in recent years. The park received more than 5 million visitors in 2016.
+
+And although February is usually one of the slowest months, the spectacular sunsets that occur during the last two weeks of the month at Horsetail Fall have become a major draw. The fading sunlight colors the ribbon of water that descend from El Capitan a fiery red and orange.
+
+To help mitigate the traffic jams this year the National Park Service is requiring visitors who want to drive to that section of the park to reserve a spot. “Nature now requires reservations,” grumbled The San Francisco Chronicle.
+
+California Today goes live at 6 a.m. Pacific time weekdays. Tell us what you want to see: CAtoday@nytimes.com.
+
+California Today is edited by Julie Bloom, who grew up in Los Angeles and graduated from U.C. Berkeley.

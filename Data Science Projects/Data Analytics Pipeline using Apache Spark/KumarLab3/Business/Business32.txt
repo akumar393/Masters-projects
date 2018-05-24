@@ -1,0 +1,791 @@
+Good Thursday. Here’s what we’re watching:
+
+• Why Trump might have trouble reining in Amazon.
+
+• Public pension fund wants changes to Facebook’s board.
+
+• Trump tweets Amazon does not pay enough taxes.
+
+• Another FANG stock took a tumble.
+
+• The Trump administration wants to further thwart sensitive Chinese investments.
+
+The DealBook newsletter is taking a break for Good Friday. We’ll be back with you on Monday. Sign up for it here.
+
+Amazon hasn’t responded to President Trump’s latest tweet about the company, and most likely won’t.
+
+Mr. Trump’s criticisms, though, are largely mistaken. For a long time, Amazon did not pay state sales tax, but it does so now when it sells its own goods in states that collect it. It is the case, however, that in most states Amazon does not collect sales taxes on goods sold by third parties through its platform. As for the United States Postal Service, Amazon’s business appears to be giving a welcome lift to its package shipping revenue.
+
+Still, Amazon cannot quietly hope that such criticism just fades away. Amazon’s rapid growth, immense bargaining power, eye-catching initiatives and estimated 44 percent share of U.S. e-commerce sales make the company vulnerable to accusations that it is too powerful.
+
+But if the Trump administration pursues ways to curtail the company, it would meet sizable obstacles.
+
+Amazon accounts for only 4 percent of all retail sales in the United States, a recent survey estimated. Its revenue is a third of Walmart’s and, even after its acquisition of Whole Foods, Amazon’s footing in the grocery business is still small.
+
+All in all, it would be hard to show that Amazon is pushing prices higher for consumers.
+
+Amazon also has a loyal customer base — it has an estimated 90 million Prime members — and the public views it relatively favorably. When the Department of Justice’s antitrust lawyers went after the proposed merger of Time Warner and AT&T, it was not targeting companies that were particularly popular with the public.
+
+Still, some Amazon critics see a possible, though small, opening. In theory, an antitrust case could focus on the firms that supply Amazon with goods, according to Christopher L. Sagers, a law professor at Cleveland State University. If a company consistently uses its power to demand a good from suppliers at too low a price, the public could still get hurt. That’s because the supply of the good could decline, its quality degrade, and there may be less innovation in the sector that produces the good, Mr. Sagers said.
+
+But anyone bringing that against Amazon would have to explain why Walmart would not be a target, too.
+
+— Peter Eavis
+
+The investment adviser to New York City’s pension funds is calling for changes to Facebook’s board to address the fallout from Cambridge Analytica’s improper harvesting of information from 50 million users of the social network.
+
+New York City’s comptroller, Scott M. Stringer, wrote in a letter addressed to Dr. Susan Desmond-Hellmann, an independent director at Facebook and the chief executive of the Bill & Melinda Gates Foundation:
+
+New York City’s pension funds, which have more than $193 billion in assets under management, own $895 million of Facebook’s shares, according to the letter. Even with the recent tumble in its shares, Facebook is valued at more than $450 billion.
+
+In his letter, Mr. Stringer calls on Facebook’s independent directors to take four steps to help restore investor confidence.
+
+Here are the proposed changes:
+
+1) Add at least three new independent directors to improve the board’s ability to oversee the evolving risks Facebook faces.
+
+2) Name an independent director as chairman, allowing Mark Zuckerberg, Facebook’s chief executive and chairman, to focus on running the company.
+
+3) Create a committee of independent directors to oversee the company’s data privacy policies and risks.
+
+4) Institute a clawback policy so that the board can “recoup executive pay in the event of violations of law, regulation or company policy.”
+
+President Trump spoke out against Amazon on Thursday, saying that the online behemoth does not pay enough taxes and uses the United States postal system “as their Delivery Boy.”
+
+The president’s commentary, made in a Twitter post, comes amid reports that Mr. Trump has expressed an interest in reining in the e-commerce business.
+
+Amazon and the company’s founder, Jeff Bezos, are among Mr. Trump’s regular Twitter targets. In December, Mr. Trump questioned whether the United States Post Office charges Amazon enough for package deliveries. And in August, Mr. Trump said Amazon hurts taxpaying businesses.
+
+Amazon, however, does pay taxes — $412 million in 2016, for instance, according to the company’s report to the Securities and Exchange Commission.
+
+Axios reported on Wednesday that Mr. Trump has wondered aloud whether Amazon could be vulnerable to antitrust or competition laws.
+
+Amazon shares fell more than 7 percent following that Axios article but recovered some of those losses after a White House official told Reuters that the company faced no particular policy changes. But the administration is always looking at its options, the official added. The stock closed down 4.4 percent Wednesday.
+
+Shares were down nearly 2 percent in early trading.
+
+Should shareholders worry? The GBH Insights analyst Daniel Ives told Bloomberg that this regulatory threat was unlikely to change Amazon’s business model, but it was still “the last thing nervous tech investors wanted to see today.”
+
+Retailers, at least, already have some reason to be cheerful.
+
+And Amazon has another target market for expansion: housekeeping.
+
+Corporate American will start reporting first-quarter results in less than two weeks, and earnings are expected to be big.
+
+Analysts estimate that profits at companies in the S.&P. 500 grew 17.3 percent this quarter, according to FactSet. If the forecasts prove accurate that would be highest earnings growth rate since the first quarter of 2011.
+
+Perhaps most surprising, is that analysts have grown more optimistic on corporate earnings as the quarter progressed. The earnings forecast for the index rose 5.4 percent from the start of the quarter to the end. Typically, analysts lower their expectations as the quarter progresses. On average, the profit estimates for the index fall 3.7 percent from the start of the quarter to the end.
+
+But there are reasons for investors to temper their enthusiasm. Analysts have not been as optimistic about the abilities of companies to increase sales. Revenue is expected to have grown 7.3 percent in the first quarter, up from a 7 percent rate at the start of the quarter.
+
+That suggests analysts are not raising estimates because of increased sales. So why are they? Taxes. And the impact tax reform will have on bottom lines should moderate in the coming quarters.
+
+That may already be happening. BofA Merrill Lynch’s earnings revision ratio for the S.&P. 500 fell in March for the first time in three months. Of course, the pullback comes after the ratio hits the highest level on record in February, but it does suggest that earnings lift from tax reform has begun to wane.
+
+Investors, always willing to believe in technology companies, spent the last three years piling into their shares with abandon. Now the intellectual underpinnings of that rally are being tested.
+
+Exhibit A: Facebook, down 20 percent from its recent high.
+
+Exhibit B: Nvidia, off 12 percent from its recent high.
+
+Exhibit C: Tesla, not a tech stock but in the FANG+ index.
+
+Concerns about Tesla’s ability to fund itself can also be seen in the trading of its debt.
+
+The WSJ’s Charley Grant explains:
+
+Peter Eavis notes that the latest problems for tech giants have raised deeper doubts:
+
+Barclays said on Thursday that it agreed to pay $2 billion to settle a lawsuit by United States authorities that accused the British bank of fraudulently misleading the public in the sale of tens of billions of dollars in securities backed by home mortgages.
+
+The Justice Department sued the bank in December 2016 after the two sides failed to reach a settlement despite months of talks. The settlement is the latest by a European lender related to residential mortgage-backed securities sold ahead of the financial crisis and follows agreements reached by Credit Suisse and Deutsche Bank in late 2016.
+
+“I am pleased that we have been able to reach a fair and proportionate settlement with the Department of Justice,” James E. Staley, the Barclays chief executive, said in a news release. “It has been a priority for this management team from the start to resolve these historic issues in a timely and appropriate manner wherever possible.”
+
+Two former Barclays executives who were sued along with the bank also have reached settlements, agreeing to pay a combined $2 million, the Justice Department said in a news release.
+
+Their lawyers separately said the government’s claims were baseless and each agreed to settle the case without admitting wrongdoing.
+
+- Chad Bray
+
+Tammy Kiely is leaving Goldman Sachs to join Morgan Stanley as global head of semiconductor and auto technology investment banking, according to an internal memo seen by The New York Times.
+
+Ms. Kiely, who will be based in Menlo Park, Calif., joined Goldman in 1999 and had headed its semiconductor investment banking team since 2006, becoming a partner in 2014. Before Goldman, she worked at KPMG as a certified public accountant in its information, communications and entertainment practice.
+
+She has a bachelor’s degree in business administration from the California Polytechnic State University and an M.B.A. from the Stanford University Graduate School of Business.
+
+Following her arrival, Mark Edelstone will become chairman of global semiconductor investment banking at Morgan Stanley.
+
+The move comes amid a wave of dealmaking among chip makers the past few years.
+
+- Chad Bray
+
+Revolving door
+
+• Equifax has a new C.E.O.: the former G.E. executive Mark Begor. (NYT)
+
+• Lior Ron, who helped found the self-driving truck company Otto, has left Uber, which acquired it. (NYT)
+
+• A.G. Gangadhar has left G.M.’s self-driving car company, Cruise, after six months as chief technology officer. (Recode)
+
+The Advertising Research Foundation gave Cambridge Analytica an award last year. Amid the scandal over Facebook data, it’s thinking again.
+
+But the group’s executive, Scott McDonald, said that advertisers cared more about whether the data tech companies offered was accurate than whether they should have collected it.
+
+Facebook, for its part, promised yesterday to stop advertisers targeting ads using data from third-party brokers, and to put its user privacy settings in one place, rather than about 20. It’s also rethinking privacy safeguards for forthcoming devices, The Information says.
+
+Tim Cook of Apple is calling for privacy regulation: “To me, it’s creepy when I look at something and all of a sudden it’s chasing me all across the web.”
+
+And our Kevin Roose considers how to save social media: Facebook could become more of a collective enterprise, social networks could become more like email or users could put an expiry date on information.
+
+The tech flyaround
+
+• Expect more deals from SoftBank’s Vision Fund. It wants to be the biggest shareholder in 100 tech companies, then consolidate them. It’s nearing a deal for a stake in Swiss Re, too.
+
+• The German automakers BMW and Daimler have teamed up to fight Silicon Valley. (NYT)
+
+• A Google early-stage venture fund is leading a $6 million investment in a company building software to let cars be driven remotely (by humans). (Bloomberg)
+
+• Boeing said it had been hit by WannaCry, the malware that struck in 70 countries last year. (NYT)
+
+• Apple facies several lawsuits from consumers for slowing older iPhones to extend battery life. (WSJ)
+
+• Warner Music bought Sodatone, a start-up that promises to spot hits early using machine learning. (FT)
+
+• How 5G will redraw the map of the wireless industry. (WSJ)
+
+While finalizing its plans for trade restrictions, the Trump administration is moving ahead with a more targeted strike against Chinese investment in sensitive American technology.
+
+But the Treasury Department faces a challenge if, as planned, it uses the 1977 International Emergency Economic Powers Act.
+
+“Just defining what percentage of equity would classify a firm as ‘state-owned’ is difficult, as is the definition of which technologies should be off limits,” the WSJ’s Bob Davis writes. “In some cases, U.S. firms could rely on Chinese ones for innovation, especially in manufacturing.”
+
+The political flyaround
+
+• A lawsuit arguing that President Trump’s continued business interests violate the Constitution has passed its first test. (NYT)
+
+• Republicans’ plan for a second tax cut before the midterm elections has yet to attract much financial support from business. (WaPo)
+
+• Treasury bonds remain attractive to investors, but Moody’s argues that the U.S. may have less flexibility for future borrowing. (WSJ)
+
+• An infrastructure bill passed before the midterms? Trump administration officials are trying to lower expectations. (WSJ)
+
+• Mr. Trump declared the Second Amendment would “never be repealed,” in response to a former Supreme Court justice’s NYT Op-Ed. (NYT)
+
+Four women sought police protection against Douglas E. Greenberg, one of Morgan Stanley’s top financial advisers.
+
+Executives at the bank knew about his behavior, former employees said, but no action was taken until the NYT raised the issue this week.
+
+The bank’s wealth-management division accounts for nearly half Morgan Stanley’s revenue and is seen as its prime source of future profits.
+
+With an aging and declining population in Japan, companies have to look elsewhere to grow. Takeda Pharmaceuticals’ potential bid for Shire could be one of the largest acquisitions ever of a Western company by a Japanese buyer.
+
+Critics’ corner: It’s not really about cost savings, argues Bloomberg Gadfly’s Chris Hughes: “In reality, the attraction is that Shire is cheap and vulnerable — something other bidders will see.” And the FT’s Lex would welcome that: “There are better potential matches.”
+
+ AT&T-Time Warner trial update: The head of Turner broadcasting said that his company’s channels would not be used as a weapon against rivals if the deal went through. The judge overseeing the case told the parties to speed up their presentation. And if the deal isn’t completed by Apr. 22, it may cost AT&T  up to $1.1 billion in special redemptions.
+
+The deals flyaround
+
+• Concho Resources will buy RSP Permian for $9.5 billion, creating a shale-oil colossus and adding to the rush to produce more oil. (NYT)
+
+• Renault and Nissan are in talks to merge, unnamed sources said. (Bloomberg)
+
+• Vivendi and Elliott Management are tussling over Telecom Italia. (FT)
+
+• Stella McCartney has agreed to buy Kering out of her fashion brand, regaining full control. (NYT)
+
+• CME Group has offered to buy NEX Group, which operates bond-trading platforms, for $5.4 billion. (WSJ)
+
+• The defense contractor CACI International has withdraw its bid for CSRA, which offers information technology services to government agencies and now looks likely to be acquired by General Dynamics. (WaPo)
+
+• Silver Lake is taking a $500 million stake in the online personal finance company Credit Karma. (WSJ)
+
+• The technology company DocuSign, not yet profitable, has filed for an I.P.O. (WSJ)
+
+• Anbang, the insurer seized by the Chinese government, is continuing to offer the small-investor products that fueled its growth. (NYT)
+
+• The economics of home buying are getting interesting, with higher mortgage rates, tax changes and a supply-demand imbalance. (NYT)
+
+• Wells Fargo is taking a measured approach to the gun debate, its chief executive, Tim Sloan, said — but does not believe a bank can be an “arbiter of what an American can buy.” (Charlotte Observer)
+
+• Bumble is suing Match Group, which owns Tinder, accusing it of stealing trade secrets and interfering in Bumble’s business. (Recode)
+
+• Deutsche Bank is considering more cuts in its investment bank, unnamed sources say, while its chief executive, John Cryan, has insisted that he’s staying. (Bloomberg)
+
+• The Wing, a members’ club for women, is being investigated by New York authorities for discrimination. (NYT)
+
+• The C.F.T.C. chairman, J. Christopher Giancarlo, has become a Twitter star — complete with a nickname, “Cryptodad” — over his digital currency views. (Bloomberg)
+
+• Investors who lost money on the blood-testing firm Theranos may end up fighting the S.E.C. over its assets. (Bloomberg)
+
+Know someone who would enjoy this newsletter? Tell them to sign up here.
+
+You can find live updates throughout the day at nytimes.com/dealbook.
+
+We’d love your feedback. Please email thoughts and suggestions to bizday@nytimes.com.
+
+Each Saturday, Farhad Manjoo and Mike Isaac, technology reporters at The New York Times, review the week’s news, offering analysis and maybe a joke or two about the most important developments in the tech industry.
+
+Farhad: Hey, Mike! How goes it? I tried a weird sleep experiment this week. I slept from 10 p.m. to 3 a.m., and then again from 9 a.m. to 11 a.m. I love the super-early morning hours before my kids wake up. I find I get more stuff done then. And who doesn’t like a daily nap?
+
+Mike: That sounds like me in college. You haven’t also started beer-bonging cases of Keystone Light, too, have you? Because, um, studies have shown that it is not great for you. And by studies I mean “my freshman year grade point average.”
+
+Farhad: O.K., here’s what happened in tech.
+
+Twitter rolled out an update that was universally panned by people on Twitter. That happens every time Twitter rolls out an update, but this time the update was actually bad. Twitter stopped counting user names against the 140-character limit (if you don’t get what that means, don’t worry), which resulted in people being able to create huge chains of Twitter spam aimed at other people. As Sarah Jeong writes in Motherboard, it’s a really terrible implementation that makes you wonder if anyone at Twitter even uses Twitter.
+
+Mike: I came online after a day of working and literally could not understand what Twitter did or how to use it, on the desktop at least. It seems like I’m talking to myself in a vacuum when I tweet. Which, coincidentally, is pretty much how I use the service anyway. So I guess I don’t mind it?
+
+Farhad: What are these people thinking? I mean, sure, Twitter is under pressure to attract new users, and the old format did clog up text with a bunch of @symbols @that @only @made @sense to the initiated. But the fix they chose creates more problems than it solves.
+
+Mike: Maybe it’s one of those things like when we’re writing a story and stare at a terribly written sentence long enough that it begins to make sense. I bet you strongly relate to that one.
+
+Farhad: Wow, thanks.
+
+O.K., let’s turn to another social network. Facebook intensified its all-out assault on Snapchat this week by implementing Stories in its own app. For those counting at home, that means all of Facebook’s social apps — Instagram, WhatsApp, Messenger and now the blue app — let you create a disappearing video diary of your day.
+
+Mike: I don’t use any of them, and still use Snapchat’s Stories function. Does that make me weird? I guess I’m averse to major change. Which is why I order the same thing every time I go to a restaurant. Does that make me weird, too?
+
+Farhad: Yes. It does.
+
+So, back to Facebook. We’ve talked about the frighteningly effective brazenness with which Facebook copies its competitors before. I don’t really know what to say other than I stand in horrified awe. We’ve just witnessed a pilfering on a historic scale. Snapchat’s Stories is one of the most interesting and original new social features in years, but in the long run it’s Facebook and its subsidiaries that may end up enjoying the most of this innovation.
+
+No one ever said the tech business was fair, I guess.
+
+Mike: On the other hand, the argument I keep hearing is that it’s not about being first, but about “executing best.” And honestly, Instagram Stories is pretty well done. I may not use it, but I certainly appreciate it.
+
+One thing I wonder is how these employees fill their Stories with new fun stuff all the time. They’re pretty much forced to look like they’re living an amazing life at all hours in order to test the product. But if I were constantly filming Stories? It would be me hunched over my laptop, shoveling Indian food into my mouth.
+
+Does that make me weird?
+
+Farhad: Look, we’ve been over this. Yes.
+
+Finally, can you fill me in on what on earth just happened with Google and Uber? Waymo, the self-driving car unit of Google’s parent company, Alphabet, is suing Uber for what it says is theft of its technology. Something amazing happened in that case this week.
+
+Anthony Levandowski, the Uber engineer at the center of the lawsuit, invoked his Fifth Amendment rights against self-incrimination in a response to a request to turn over documents in the case. Uber’s lawyers recommended that he hand over the documents, but Mr. Levandowski disagreed, apparently.
+
+Am I missing something or is this very, very bad for Uber and the future of its self-driving program?
+
+Mike: So here’s the big thing about this. We have to delineate the differing interests here. Uber’s lawyers are trying to protect Uber. While Levandowski, who has hired his own counsel who specialize in defending against white-collar criminal offenses, has Levandowski’s best interests at heart.
+
+Those two interests are not necessarily aligned. And as we saw this week, Levandowski’s opting not to provide some evidence might actually hurt Uber (though Uber’s lawyers say they can prove Uber is innocent even without Levandowski’s help).
+
+Anyway, the whole thing is a complete mess. But it’s fascinating to watch Uber and Levandowski slowly disentangle themselves from each other in public view.
+
+I’m not sure what that means for self-driving initiatives at Uber. But if they are served with an injunction to stop working on driverless cars until the case is seen through, there’s going to be about 1,000 Uber engineers with a whole lot of nothing to do.
+
+O.K., that’s enough out of me. I hope you get some better sleep this weekend!
+
+Farhad: I’m headed off to bed right now, in fact. See you!
+
+In like a lion, out like a lamb, it’s said of March. As we move toward the close of the month, here are some of our top reads of the week to see you through. Cheers to spring days ahead.
+
+___
+
+For Aleksander Doba, pitting himself against the wide-open sea — storms, sunstroke, monotony, hunger and loneliness — is a way to feel alive in old age. He’s one of a handful of people and places featured in The New York Times Magazine’s Voyages Issue. The Magazine
+
+___
+
+In Menlo Park, Calif., Facebook is building a real community and testing the proposition: Do people love tech companies so much they will live inside them? Business
+
+___
+
+When David Bowie committed to a character, like Ziggy Stardust or Aladdin Sane, he gave his entire aesthetic over to it. In these augmented reality presentations of his costumes, you can examine, close up, his eye for detail, how he flouted gender and social norms, and his encompassing vision for his work. Arts
+
+___
+
+Surveillance footage obtained by The Times shows the mundane movements of Stephen Paddock, the Las Vegas gunman, in the chilling prelude to a massacre. Video/National
+
+___
+
+In less than three years, David Reich’s laboratory at Harvard Medical School has published DNA from the genomes of 938 ancient humans — more than all other research teams working in this field combined. The work in his lab has reshaped our understanding of human prehistory. Science
+
+___
+
+A visit by our 52 Places Traveler to the Puerto Rican capital, still recovering from last year’s hurricanes, was one of the most calming and soul-filling experiences of her trip so far. “The beauty I saw was in the rebuilding, in the lives being lived with joy and grace in the most trying of circumstances,” she wrote. Travel
+
+___
+
+Legend has it that Ruth Wakefield was trying a variation on a butterscotch dessert when she decided to let the chocolate chips fall where they may. As part of The Times’s continuing Overlooked project, Ms. Wakefield receives a long-overdue obituary tribute.
+
+___
+
+The disease, which until recently seemed to be under control in Venezuela, is making an aggressive comeback in the nation, overwhelming its broken health care system. Foreign
+
+___
+
+Twenty-five years ago the idea that an openly gay and very butch woman could become a pop idol was seismic. Now K.D. Lang can just make her music. “I think it’s karmic that I have the body and the physical appearance that I have,” Ms. Lang said. “I think it’s challenging for the audience and for myself, and at this point I just live it.” Styles
+
+___
+
+Unless you’ve lived in St. Mary’s County in Maryland or spent a holiday with someone from here, you’ve probably never heard of stuffed ham. It is one of America’s most regionally specific dishes, but has never migrated beyond its home. People here cherish it. Food
+
+___
+
+In his 12th season, J.J. Redick painstakingly plans everything from his naps to his shots. It’s helped him steady a Philadelphia 76ers team that is poised to reach the playoffs again. Sports
+
+As the ranks of tech-industry critics have expanded, it has become harder to tell what common ground they occupy. Across various political divides, there is a sense that Facebook, Twitter and Google exert too much influence on the national discourse; closely connected to this is the widespread concern that we users have developed an unhealthful relationship with our phones, or with the apps on them. But on any more specific claim than that, consensus becomes impossible. The sudden arrival of a new class of tech skeptic, the industry apostate, has only complicated the discussion. Late last year, the co-inventor of the Facebook “like,” Justin Rosenstein, called it a “bright ding of pseudopleasure”; in January, the investment firm Jana Partners, a shareholder in Apple, wrote a letter to the company warning that its products “may be having unintentional negative consequences.”
+
+All but conjuring Oppenheimer at White Sands, these critics offer broadsides, warning about addictive design tricks and profit-driven systems eroding our humanity. But it’s hard to discern a collective message in their garment-rending: Is it design that needs fixing? Tech? Capitalism? This lack of clarity may stem from the fact that these people are not ideologues but reformists. They tend to believe that companies should be more responsible — and users must be, too. But with rare exceptions, the reformists stop short of asking the uncomfortable questions: Is it possible to reform profit-driven systems that turn attention into money? In such a business, can you even separate addiction from success?
+
+Perhaps this is unfair — the reformists are trying. But while we wait for a consensus, or a plan, allow me to suggest a starting point: the dots. Little. Often red. Sometimes with numbers. Commonly seen at the corners of app icons, where they are known in the trade as badges, they are now proliferating across once-peaceful interfaces on a steep epidemic curve. They alert us to things that need to be checked: unread messages; new activities; pending software updates; announcements; unresolved problems. As they’ve spread, they’ve become a rare commonality in the products that we — and the remorseful technologists — are so worried about. If not the culprits, the dots are at least accessories to most of the supposed crimes of addictive app design.
+
+When platforms or services sense their users are disengaged, whether from social activities, work or merely a continued contribution to corporate profitability, dots are deployed: outside, inside, wherever they might be seen. I’ve met dots that existed only to inform me of the existence of other dots, new dots, dots with almost no meaning at all; a dot on my Instagram app led me to another dot within it, which informed me that something had happened on Facebook: Someone I barely know had posted for the first time in a while. These dots are omnipresent, leading everywhere and ending nowhere. So maybe there’s something to be gained by connecting them.
+
+The prototypical modern dot — stop-sign red, with numbers, round, maddening — was popularized with Mac OS X, the first version of which was released nearly 20 years ago. It was used most visibly as part of Apple’s Mail app, perched atop an icon of a blue postage stamp, in a new and now ever-present dock full of apps. It contained a number representing your unread messages. But it wasn’t until the launch of the iPhone, in 2007, that dots transformed from a simple utility into a way of life — from a solution into a cause unto themselves.
+
+That year, we got the very first glimpse of the iPhone’s home screen, in Steve Jobs’s hand, onstage at MacWorld. It showed three dots, ringed in white: 1 unread text; 5 calls or voice mail messages; 1 email. Jobs set about showing off the apps, opening them, eliminating the dots. Eventually, when the iPhone was opened to outside developers, badge use accelerated. As touch-screen phones careered toward ubiquity, and as desktop interfaces and website design and mobile operating systems huddled together around a crude and adapting set of visual metaphors, the badge was ascendant.
+
+On Windows desktop computers, they tended to be blue and lived in the lower right corner. On BlackBerrys, red, with a white asterisk in the middle. On social media, in apps and on websites, badge design was more creative, appearing as little speech bubbles or as rectangles. They make appearances on Facebook and across Google products, perhaps most notoriously on the ill-fated Google Plus social network, where blocky badges were filled with inexplicably, desperately high numbers. (This tactic has since spread, obnoxiously, to news sites and, inexplicably, to comment sections.) Android itself has remained officially unbadged, but the next version of the operating system, called Oreo, will include them by default, completing their invasion.
+
+What’s so powerful about the dots is that until we investigate them, they could signify anything: a career-altering email; a reminder that Winter Sales End Soon; a match, a date, a “we need to talk.” The same badge might lead to word that Grandma’s in the hospital or that, according to a prerecorded voice, the home-security system you don’t own is in urgent need of attention or that, for the 51st time today, someone has posted in the group chat.
+
+New and flourishing modes of socialization amount, in the most abstract terms, to the creation and reduction of dots, and the experience of their attendant joys and anxieties. Dots are deceptively, insidiously simple: They are either there or they’re not; they contain a number, and that number has a value. But they imbue whatever they touch with a spirit of urgency, reminding us that behind each otherwise static icon is unfinished business. They don’t so much inform us or guide us as correct us: You’re looking there, but you should be looking here. They’re a lawn that must be mowed. Boils that must be lanced, or at least scabs that itch to be picked. They’re Bubble Wrap laid over your entire digital existence.
+
+To their credit, the big tech companies seem to be aware of the problem, at least in the narrow terms of user experience. In Google’s guide for application developers, the company makes a gentle attempt to pre-empt future senseless dot deployment. “Don’t badge every notification, as there are cases where badges don’t make sense,” the company suggests. Apple, in its guidelines, seems a bit more fed up. “Minimize badging,” it says. “Don’t overwhelm users by connecting badging with a huge amount of information that changes frequently. Use it to present brief, essential information and atypical content changes that are highly likely to be of interest.”
+
+These companies know better than anyone that dots are a problem, but they also know that dots work. Late last year, a red badge burbled to the surface next to millions of iPhone users’ Settings apps. It looked as though it might be an update, but it turned out to be a demand: Finish adding your credit card to Apple Pay, or the dot stays put. Apple might as well have said: Give us your credit card number, or we will annoy you until you do.
+
+The lack of consensus within the mounting resistance to Big Tech can also be found within the perimeter of the dot. After all, it’s where the most dangerous conflations take place: of what we need, and what we’re told we need; of what purpose our software serves to us, and us to it; of dismissal with fulfillment. The dot is where ill-gotten attention is laundered into legitimate-seeming engagement. On this, our most influential tech companies seem to agree. Maybe our self-appointed saviors can, too.
+
+OMAHA — “The tax system is not crippling our business around the world.”
+
+That was Warren E. Buffett, the chairman and chief executive of Berkshire Hathaway, over the weekend at the company’s annual meeting, known as “Woodstock for capitalists.”
+
+Mr. Buffett, in a remarkably blunt and pointed remark, implicitly rebuked his fellow chief executives, who have been lobbying the Trump administration and Washington lawmakers to lower corporate taxes.
+
+In truth, Mr. Buffett said, a specter much more sinister than corporate taxes is looming over American businesses: health care costs. And chief executives who have been maniacally focused on seeking relief from their tax bills would be smart to shift their attention to these costs, which are swelling and swallowing their profits.
+
+It was clarifying to hear Mr. Buffett frame things this way. The need for corporate tax relief has become the lodestar of the corner office, with C.E.O.s rhapsodizing over President Trump’s plan to try to stimulate growth by cutting tax rates for businesses.
+
+But as Mr. Buffett pointed out, these chief executives are missing the bigger issue — the one that should be their Holy Grail. As a percentage of our gross domestic product, the cost of maintaining our American health care system — hospitals, H.M.O.s, doctor visits, prescription drugs, medical devices, insurance companies, Medicare — is rising at an alarming rate. And Corporate America pays a big (and growing) chunk of the bill.
+
+We’re not talking about the cost of health insurance, which is a fraction of the overall cost.
+
+Today’s corporate tax rates, Mr. Buffett seemed to suggest, are a distraction, not a true impediment to growth.
+
+“If you go back to 1960 or thereabouts, corporate taxes were about 4 percent of G.D.P.,” Mr. Buffett said. “I mean, they bounced around some. And now, they’re about 2 percent of G.D.P.”
+
+By contrast, he said, while tax rates have fallen as a share of gross domestic product, health care costs have ballooned. About 50 years ago, he said, “health care was 5 percent of G.D.P., and now it’s about 17 percent.”
+
+His is one of the most cogent arguments for renewing attention on the underlying costs of our health care system — an issue far beyond the debate around the Affordable Care Act and what it is going to look like if it is repealed and replaced.
+
+Mr. Buffett said our global competitiveness had fallen largely because our businesses were paying far more for health care — a tax by another name — than those in other countries.
+
+At his annual shareholders’ conference, which drew tens of thousands of people to Omaha, he gave a virtual seminar on the economics of health care that chief executives and lawmakers would be helped by hearing. He demonstrated in stark terms that the constant refrain from the business community about taxes should probably be redirected toward trying to bend the cost curve of health care.
+
+“When American business talks about strangling our competitiveness, or that sort of thing, they’re talking about something that as a percentage of G.D.P. has gone down,” Mr. Buffett said. “While medical costs, which are borne to a great extent by business,” have swelled.
+
+He is right: In 1960, corporate taxes in the United States were about 4 percent of G.D.P., which is probably the best way to measure the burden on businesses. Then the percentage fell steadily, reaching its bottom in 1983 before rising slightly over the last several decades. Today, it is 1.9 percent.
+
+In the meantime, health care costs as a percent of G.D.P. have skyrocketed, significantly diverging with those of other industrial countries. Our health care costs stand at 17.1 percent of G.D.P., up from 13.1 percent in 1995.
+
+The figure in Germany is only 11.3 percent, up from 9.4 percent during the same period. Japan’s is 10.2 percent, up from 6.6 percent. Britain’s health care costs are 9.1 percent of G.D.P., up from 6.7 percent in 1995. And China’s is only at 5.5 percent, up from 3.5 percent.
+
+That puts the United States at a material disadvantage far beyond the tax differential. And it harms American companies in particular, since they bear such a big share of those costs. Corporations spend $12,591 on average for coverage of a family of four, up 54 percent since 2005, according to a study by the Kaiser Family Foundation.
+
+“Medical costs are the tapeworm of American economic competitiveness,” Mr. Buffett said, using a metaphor he has employed in the past to describe the insidious and parasitic costs of our health care system.
+
+Mr. Buffett is a Democrat, but his business partner, Charles T. Munger, is a Republican — and a rare one who has advocated a single-payer health care system. Under his plan, which Mr. Buffett agrees with, the United States would enact a sort of universal type of coverage for all citizens — perhaps along the lines of the Medicaid system — with an opt-out provision that would allow the wealthy to still get concierge medicine.
+
+Our bloated health care system, Mr. Buffett asserted, is the true barrier to America’s world competitiveness as well as “the single biggest variable where we keep getting more and more out of whack with the rest of the world.”
+
+But people don’t talk about it enough. “It’s very tough for political parties to attack it, but it’s basically a political subject,” Mr. Buffett said in reply to a question I had posed. (I was one of three journalists and three analysts who, along with shareholders, peppered Mr. Buffett and Mr. Munger with questions during the meeting.)
+
+That’s not to say corporate tax reform won’t help, but it is tiny relative to fixing health care.
+
+Indeed, Mr. Buffett said, even if Washington put in place a tax credit for capital investment, he did not think that BNSF — the railroad company he owns, which spends billions on fixing rail tracks — would do its job faster or better because of the potential tax credit.
+
+“I can’t recall sending anything out to our managers saying, ‘Let’s do this because the tax law is going to change,’” Mr. Buffett said.
+
+Mr. Munger, the vice chairman of Berkshire Hathaway, added: “We’re not going to change anything at the railroad just for some little tax jiggle.”
+
+Neither man, however, is expecting the bigger tax — health care — to be fixed anytime soon.
+
+“On this issue, both parties hate each other so much that neither one can think rationally, and I don’t think that helps, either,” Mr. Munger said.
+
+Good Wednesday. Here’s what we’re watching:
+
+• How Apple plans to capitalize on the new tax plan
+
+• Could antitrust law fell the tech giants?
+
+•Bank of America reported $2.4 billion in fourth-quarter profit, as well as a $2.9 billion charge tied to the new tax law. 
+
+• Goldman Sachs reported a $1.9 billion loss, and a $4.4 billion tax charge. 
+
+Want this in your own email inbox? Here’s the sign-up.
+
+Write the NYT’s Brian X. Chen and Daisuke Wakabayashi:
+
+The iPhone maker said it plans to make a $350 billion contribution to the American economy over the next five years. Some of its new investments will come from bringing back the vast majority of the $252 billion in cash that it has long held abroad.
+
+Under the new tax law, foreign earnings sitting offshore would be considered to be automatically repatriated and taxed at reduced rates.
+
+The tech giant said it will pay $38 billion in taxes to repatriate its overseas cash because of the new law.
+
+Here’s what Apple plans to do:
+
+• Invest about $30 billion in capital expenditures in the United States over the next five years. 
+
+• Create more than 20,000 new jobs in the United States, a 24 percent increase from the roughly 84,000 employees in the country currently.
+
+• Issue stock-based bonuses worth $2,500 to employees, according to Bloomberg.
+
+That’s the provocative question posed by Greg Ip of the WSJ. And it reflects governments’ growing wariness toward the tech industry.
+
+Google, Amazon and Facebook aren’t like the Standard Oil or AT&T of old, gouging consumers on price. (Indeed, many of their services are free.) But if the question is “Are consumers better off?” then could there be an opening for regulatory action?
+
+More from Mr. Ip:
+
+Where tech has support: In its efforts to keep net neutrality regulations, with a lawsuit against the F.C.C. by 22 state attorneys general and a bill by Senate Democrats to undo the repeal using the Congressional Review Act.
+
+Goldman once seemed invincible. Its trading business was a profit machine.
+
+This morning it posted a quarterly loss in part because of the poor performance in its trading unit.
+
+The numbers:
+
+• $1.9 billion. Goldman’s fourth-quarter loss.
+
+• $4.4 billion. The charge Goldman took related to the new tax law, which wiped out nearly half of Goldman's earnings for the year, according to the WSJ.
+
+• $5.68. The Wall Street firm’s profit per share excluding the tax-related charge, beating the consensus estimate of $4.90 from Wall Street analysts.
+
+•$7.8 billion. Goldman’s revenue for the quarter, down 4 percent. Goldman is the only big bank to report a decline in revenue so far.
+
+• $2.37 billion. Goldman’s trading revenue for the fourth quarter, down 34 percent from a year ago. That was the steepest decline of any of banks reporting so far. Citigroup, JPMorgan and Bank of America have reported declines in trading revenue of 19 percent, 17 percent and 9 percent.
+
+• $1 billion. Goldman’s revenue from buying and selling bonds, commodities and currencies, half of what it generated a year ago. To put that in perspective: Goldman’s fixed-income division at its peak churned out nearly a billion dollars every two weeks.
+
+Federal prosecutors in Manhattan unsealed an indictment charging Nicolas De-Meyer, 40, with stealing $1.2 million worth of rare wine from a former employer. The former employer in question was Mr. Solomon, who employed Mr. De-Meyer as a personal assistant, according to two sources familiar with the matter.
+
+According to the indictment, the wine was stolen from around October 2014 to around October 2016, when Mr. De-Meyer had been asked to transport it from his former employer’s Manhattan apartment to his wine cellar in East Hampton, N.Y.
+
+Mr. De-Meyer was arrested in Los Angeles on Tuesday, according to a spokesman for the Los Angeles federal prosecutor’s office. He could not immediately be reached for comment.
+
+“The theft was discovered in the fall of 2016 and reported to law enforcement at that time,” a Goldman spokesman said.
+
+Bank of America reported $2.4 billion in fourth-quarter profit, after taking a $2.9 billion charge tied to the new tax law.
+
+The numbers:
+
+• $5.3 billion, or 47 cents a share. BofA’s profit in the fourth quarter excluding the tax-related charge. Analysts had expected the bank to report earnings of 44 cents per share.
+
+• $21.1 billion. BofA’s earnings for 2017, excluding the tax-related charge. That matches its biggest annual profit since 2006.
+
+•$20.4 billion. The bank’s revenue for the fourth quarter, up from $19.99 billion a year ago.
+
+•$2.66 billion. BofA’s fourth-quarter trading revenue, down about 9 percent from a year ago.
+
+• $11.46 billion. The bank’s net-interest income, up 11 percent.
+
+Let’s recount the hits that U.S. banks took from the tax overhaul:
+
+• Citigroup: $22 billion
+
+• JPMorgan Chase: $2.4 billion
+
+• Goldman Sachs: $4.4 billion
+
+We’ll ignore Wells Fargo for now (it gained). The bigger point is that, thanks to lower corporate rates and preferential treatment for pass-through entities, financial institutions are some of the new code’s biggest winners.
+
+More from Jim Tankersley of the NYT:
+
+The conglomerate itself isn’t planning on going that far just yet.
+
+Here’s John Flannery, its chief, on a conference call yesterday:
+
+The context
+
+Mr. Flannery didn’t say anything out of line with his past remarks. It’s just that he said it as G.E. announced an unrelated $6.2 billion charge connected to its legacy insurance portfolio.
+
+Other conglomerates, from Honeywell to United Technologies to Tyco, have explored restructuring to varying degrees, as Wall Street analysts question the viability of the model.
+
+G.E. and its advisers are still thinking about how to reshape the 125-year-old group, whose complexity may mask yet more problems. The company promises an update in spring, and is unlikely to announce something that only fiddles around the edges. But don’t expect plans for it to become three or four fully separate companies.
+
+Critics demand more boldness
+
+• Lex writes, “Once a paragon of management acumen, it is now a rolling train wreck of unexpected and expensive blunders.” (FT)
+
+• Brook Sutherland writes, “The reasons for keeping G.E. together — shared resources and technology — look increasingly tenuous.” (Gadfly)
+
+• Justin Lahart and Spencer Jakab write, “The problem is that G.E.’s parts might be worth a lot less than even the company’s sharply diminished value today.” (Heard on the Street)
+
+The deadline: 12:01 a.m. Eastern on Saturday
+
+The issues
+
+• Immigration, of course: President Trump still insists on funding for a border wall and Democrats are fuming over his comments on African countries.
+
+• Republicans are weighing whether to use funding for the Children’s Health Insurance Program as a carrot — or stick — for Democrats to join a stopgap funding measure.
+
+The state of play
+
+Red-state Democrats are uneasy about allowing a shutdown in an election year. Some Republicans are irked by a stream of temporary funding resolutions, rather than a full agreement that would permit more military spending.
+
+House Speaker Paul Ryan’s proposal for a continuing resolution — which includes delays to several health care taxes in addition to CHIP funding — has support among many, but not all, Republicans. It has little among House Democrats.
+
+The politics flyaround
+
+• Steve Bannon has been subpoenaed by both Robert Mueller and the House Intelligence Committee. (NYT)
+
+• The C.F.P.B. will reconsider rules on high-interest payday loans, in a potential win for the industry. (WSJ)
+
+• N.Y. Governor Andrew Cuomo unveiled a state budget meant to counter the tax-code changes that hurt high-tax states: “Washington hit a button and launched an economic missile and it says ‘New York’ on it, and it’s headed our way.” (NYT)
+
+• Support for the new tax code has grown, according to a SurveyMonkey poll. (NYT)
+
+• G.M.’s chief, Mary Barra, urged Mr. Trump to be cautious about withdrawing from Nafta. (NYT)
+
+• How Michael Wolff got into the White House. (Bloomberg)
+
+The biggest thing about virtual currencies isn’t how much their prices rise (or fall). It’s the technology that makes them work, argues Steven Johnson in the NYT Magazine.
+
+More from Mr. Johnson:
+
+We’ll count him as a skeptic: Dick Kovacevich, the former Wells Fargo C.E.O., told CNBC that he thinks Bitcoin is “a pyramid scheme” that “makes no sense.”
+
+Beware cryptoheists: North Korea looks to be using the same malware found in the Sony Pictures hack and the Wannacry assault against digital currency investors.
+
+Virtual currency quote of the day, from Bloomberg:
+
+Issue one: Some potential buyers may want to pick up the troubled studio through the bankruptcy process, to cleanse it of legal liabilities.
+
+Issue two: Advocates for women who have brought allegations against Harvey Weinstein worry that could deny them justice.
+
+More from Jonathan Randles and Peg Brickley of the WSJ:
+
+But it’s complicated. A bankruptcy filing could provide legal structures for Mr. Weinstein’s accusers, like a judge’s supervision of sales and settlements.
+
+A suitor from the past: Among the bidders is the previous studio founded by the Weinstein brothers, Miramax, according to Bloomberg.
+
+What about RICO? DealBook’s White Collar Watch takes a look at using the racketeering law against Mr. Weinstein and his company:
+
+• Nestlé finally struck a deal to sell its U.S. confectionary business, with Ferrero paying $2.8 billion. Gadfly asks if Hershey should jump on the deal bandwagon. (NYT, Gadfly)
+
+• Qualcomm had a busy deal day yesterday. It made its case against Broadcom’s $105 billion hostile bid, as its own $38.5 billion offer for NXP Semiconductor was rejected by the money manager Ramius. (Qualcomm, Ramius)
+
+• Silver Lake put up a hefty $1.7 billion equity check as part of its $3.5 billion bid for Blackhawk Network. (NYT)
+
+• Celgene is in talks to buy Juno Therapeutics, maker of a cancer treatment, according to unidentified people. (WSJ)
+
+• Bill Miller, the value investor who beat the S. & P. 500 15 years running (and whose faith in banks was mocked in the movie “The Big Short”), has donated $75 million to the philosophy department of Johns Hopkins University. (NYT)
+
+• YouTube said it had altered the threshold at which videos could accept advertisements and pledged more oversight of top-tier videos. It’s said similar things before. (NYT)
+
+• Amazon has advertised for an expert in health privacy regulations, suggesting it plans to work with outside partners that manage personal health information. (CNBC)
+
+• A federal judge indicated he would approve a $290 million settlement by Pershing Square Capital Management and Valeant Pharmaceuticals with Allergan shareholders who accused them of profiting improperly from a failed takeover bid. (WSJ)
+
+• Informa, which owns the shipping journal Lloyd’s List, is in talks to buy the exhibitions and events company UBM, creating a company worth more than 9 billion pounds, or about $12.4 billion. (FT)
+
+• The National Retail Federation’s annual trade show is starting to look more like CES. (NYT)
+
+• Joseph A. Rice, who fought a hostile takeover of the Irving Bank Corporation as its chairman and chief executive in the 1980s, died on Jan. 8 at 93. (NYT)
+
+• Greenlight Capital’s David Einhorn is betting on Twitter, saying revenue should grow after user-experience improvements. (Bloomberg)
+
+• Melrose Industries, which specializes in turning around manufacturers, has made a hostile public bid worth about $10 billion for GKN, a British maker of aerospace and automotive parts that could face trading issues as Brexit looms. (Bloomberg)
+
+Want this in your own email inbox? Here’s the sign-up.
+
+You can find live updates throughout the day at nytimes.com/dealbook.
+
+We’d love your feedback. Please email thoughts and suggestions to bizday@nytimes.com.
+
+My mother is in hospice and in the final weeks of her life. Yet my husband’s brother and wife have asked if they can stay at our house for a weekend visit soon. I also receive invitations from family and friends who should know that now is not a good time to ask me to parties or other events. What are the rules for giving grieving people space (even before the actual demise) without forcing them to repeatedly explain what they are going through?
+
+ANONYMOUS
+
+We all suffer losses that knock us out — whether they are traditionally expected to or not. (We know what we feel, right?) My mother’s dying was such a loss, and it sounds as if yours is, too. I am sorry for you. But hunting for rules and (perhaps) the small satisfaction of finding tone-deaf friends and relatives in breach of them seems like the wrong tack. Some may be reaching out to support you.
+
+Let’s create a better game plan. Delegate chores and ignore voluntary activities to maximize time with your mom and take care of yourself when you are not with her. Enlist your husband as your partner. He can cancel his brother’s visit. Now is the definition of “an inconvenient time.”
+
+You also enjoy complete dispensation to ignore social calls and party invitations. They are not life-or-death; time with your mother is. Circle back when you have time and feel better. If you are temperamentally unable to leave calls and emails unreturned, ask your husband or a pal to be your amanuensis. You will be shocked at how compassionate people are. We all grieve. And thoughtlessness is often a temporary failing.
+
+I am 27 and have been at my job for 18 months. I love it, and I’m close with my co-workers. But I have decided to move with my boyfriend of several years to the West Coast. He was admitted to a good graduate program there. I am happy about the move; there are plenty of opportunities in my industry. But I am struggling with telling my co-workers. Can I tell them before I speak with my boss? (When should I tell him?) It feels like I’m hiding things from my friends.
+
+ERICA
+
+Speaking (again) of my mother, a secret, she used to say, is just a head start. It will get out, even among friends. And your boss should hear the news of your departure from you. Do not tell your co-workers first. I get that this puts you in an awkward position with them, but life is sometimes awkward.
+
+Speak with your boss between two and four weeks before your intended final day at work. You want to give him enough time to replace you, but not so much that you begin to resemble dead wood. Thank him for your great experience and tell him about your relocation plan. If it sounds as if I am asking you to walk on eggshells, I am. I have seen workers — without legal protection — be terminated on the day they gave notice. We want a happier landing for you and ideally, a reference for your West Coast gig.
+
+I have developed arthritis in my hands to the extent that shaking them is painful — and really painful when the other person has an iron grip. What is the best way to avoid this? Offering my left hand doesn’t work; my arthritis is just as bad. And when I say I have arthritis, it often doesn’t register. The other person looks puzzled or offended.
+
+ROBERTA
+
+In a slightly mortifying third reference to my mother, let me tell you how she handled this problem. (It looked elegant from a distance.) When people extended their hands to shake, she would lightly squeeze both of their upper arms (beneath their shoulders and above their elbows) and say: “Shaking hands bothers my arthritis, but it’s lovely to see you.” For sporty types, there is also the fist bump. But that has never been my thing.
+
+Two years ago, my mother and my aunt (her sister-in-law) fought over a clumsy comment my mother made about a mutual friend. I would have expected things to have blown over by now; they have not. My mother refuses to speak with my aunt and has banned my father and me from speaking with her, too. My aunt is coming to my town — not where my mother lives — and I would like to see her. But I would hate to betray my mother, and she would be heartbroken if she found out. What do I do?
+
+HAYLEY
+
+Your mother is acting like a petulant child. (Perhaps your aunt is, too.) That is their right. But adults may not ban each other from speaking with other adults. Have a nice lunch with your aunt. Make sure to avoid any discussion of her squabble with your mother. That is not your business. If your mother has a problem with this, refer her to me. Loyalty does not extend to silly grudges.
+
+After completing her first year as the head of advertising sales for NBCUniversal, Linda Yaccarino went out to dinner with her husband to celebrate.
+
+She soon found herself crying into a bowl of shrimp scampi.
+
+The problem wasn’t the food. “My last name is Yaccarino — I friggin’ love shrimp scampi,” she said at an industry event last year.
+
+The tears were a rare reaction to what she called the hardest year of her career, when Ms. Yaccarino started dragging an ad sales operation for television programming as varied as “Sunday Night Football,” “Saturday Night Live” and Bravo reality shows into the digital future.
+
+Things haven’t gotten any easier in the television ad world, but five years later, Ms. Yaccarino, 54, is still at it. And far from weeping, she has become an outspoken leader in an industry that is contending with far-reaching changes in how people watch television while competing against a host of technology companies that have begun to vie for those same audiences by investing in original video content.
+
+Ms. Yaccarino, who oversees $10 billion in annual ad revenue, has drawn particular attention for her vocal criticism of Nielsen ratings, which have long been the standard for how TV ads are bought and sold, and for her use of digital properties that NBCU has either invested in or forged partnerships with, like Snapchat, BuzzFeed and Apple News.
+
+“Linda has the ability to stay a step ahead, and I think she’s done that wherever she’s been,” said Julie Rieger, the executive vice president for media at 20th Century Fox, who has known Ms. Yaccarino for more than a decade. “She is in some ways the Wayne Gretzky of media. It’s not about where the puck is — it’s about where the puck is going.”
+
+As broadcast television audiences shrink and people spend more time on digital platforms, Ms. Yaccarino has reoriented herself to think of the competitive landscape as stretching beyond NBC’s rival networks to include online behemoths like Facebook and Google. During this week’s annual ritual known as upfronts, when networks trot out their biggest stars and announce new shows in an attempt to lure advertising dollars, Ms. Yaccarino will surely be promoting the fact that the NBCU universe includes more than 17 cable channels, 50 online destinations and partnerships that reach to all sorts of platforms and devices.
+
+During a recent interview in her sun-filled office, Ms. Yaccarino explained the ways that marketers might use NBCU’s properties and partnerships to reach, say, a young, busy mother.
+
+First, she wakes up and checks Apple News on her phone, Ms. Yaccarino said. Then she might turn on the “Today” show while making breakfast, catch up on E! on Snapchat at the school drop-off and check stock prices on CNBC or sports scores during the day. In the evening, she’ll tune in to a show like “This Is Us,” then end the evening watching Jimmy Fallon. Each presents a distinct marketing opportunity.
+
+“It’s about the media mix,” she said.
+
+Ms. Yaccarino’s desk faces two flat-screen televisions mounted side by side, and her office is peppered with photographs of stars like the Kardashians, whom she adores in part because of E!’s success in marketing their reality show. She’s married with two children, but jokes that Jack Pearson, the character from “This Is Us,” will be her second husband once she figures out what to do with the first. And she professes excitement for the “pinch me” moments in her job, like holding business meetings with Mr. Fallon and talking with Megyn Kelly about her move from Fox to NBC.
+
+She has forged new relationships, inviting the sales chief of a rival network to speak at an NBCU innovation event this year and teaming up with AOL for automated advertising a couple of years ago — when the notion was viewed as “heresy in the TV world,” Ms. Yaccarino said.
+
+Ms. Yaccarino joined NBCU in 2011, shortly after Comcast took control. She had spent more than 15 years at Turner Entertainment, where she earned a reputation for selling creatively designed ad space, like commercials tied to specific TV scenes, and for being, as Ms. Rieger said, both tough and “charming as hell.” (Her negotiating skills earned her the nickname “the Velvet Hammer,” a media buyer once told The Wall Street Journal.)
+
+She first oversaw sales for NBCU’s cable channels and was quickly promoted to overseeing all of the network’s ad sales, a move that combined its broadcast, cable and digital properties for the first time.
+
+Previously, sales teams for divisions like NBC Sports, Bravo and USA functioned independently of one another. With the new structure, the idea was that if buyers wanted to be on “The Voice” or “Sunday Night Football,” they could also be sold on “Modern Family” reruns, Bravo shows and more, providing the network with more scale and efficiency.
+
+Wrangling a 1,000-plus person organization and 15 teams into doing that was the grueling part for Ms. Yaccarino. But it also forced her to grow comfortable with acting quickly in an industry where her competitors were changing by the day.
+
+“Her job is understanding the marketplace and how to combine the assets she has under NBCU, connecting the dots between all the channels and ensuring the parent company gets as much revenue as possible,” said Irwin Gotlieb, the chairman of GroupM, the media investing arm of the ad giant WPP. While that may occasionally make it harder for buyers, he said, “that’s what she does, and she does it well.”
+
+If that was Act 1 of Ms. Yaccarino’s time at NBCU, she’s now ready for Act 2.
+
+“The next frontier is: How do we really bring it all together in terms of linear and digital?” she said.
+
+“Imagine if the advertising-supported ecosystem went away,” she said. “There would be no Hulu, no Netflix, no Amazon, because that’s what fuels all their content. They’d have to go to 100 percent original, and the cost for the consumer would be absolutely unaffordable. So I think everyone agrees that advertising-supported content needs to remain the main driver or the epicenter of the business. We just need to figure out a way to do it respectfully to consumer behavior today.”
+
+Ms. Yaccarino has found her ambitions at odds with Nielsen, which has faced criticism from executives over what they have called outdated measurement tactics. CNBC stopped relying on Nielsen ratings in 2015, saying they weren’t properly accounting for viewing outside the home. In the fall, Ms. Yaccarino said Nielsen’s new product for counting viewers across traditional TV and devices like Roku and smartphones was too flawed for release. Nielsen declined to comment for this article.
+
+In March, she announced that  NBCU would offer up to $1 billion in non-Nielsen ad inventory that relies on its own audience data, including set-top box information from Comcast.
+
+The frustrations have cast old rivalries in a new light. Joe Marchese, who was named the head of ad sales at Fox Networks Group last week, was invited by Ms. Yaccarino to speak at an internal NBCU event this year.
+
+“It was kind of like a Macy’s-Gimbels type of thing for her to invite a senior person from Fox to come up and talk about where the industry is headed,” Mr. Marchese said. But it reflects the challenges networks are facing as some viewers opt out of ads entirely through platforms like Netflix, while at the same time TV ratings numbers are being compared with online ad views on Google and Facebook.
+
+TV executives have seethed in the past two years over a frequently repeated remark from Sheryl Sandberg, Facebook’s chief operating officer, who said the social network has a Super Bowl on mobile every day in terms of the people it can reach. While the size of audiences on Facebook and YouTube are undeniable, there is fierce debate over the value of video views on such platforms, particularly when the ads take up only, say, half of the screen, or appear for a couple of seconds without sound.
+
+“From a consumer experience, we all know what it’s like to experience a Super Bowl as you have people over your home, family, friends, or you go somewhere and you’re watching this communal experience and you’re talking about the show and you’re yelling and screaming and holding your breath and talking about the commercials,” Ms. Yaccarino said. “That’s a Super Bowl.”
+
+She held up her phone and exaggeratedly swiped the screen without breaking eye contact. “Does this look like a Super Bowl?” She kept swiping. “This is not a Super Bowl.”
+
+NBC, it should be noted, will air the game next year.
+
+While much has been said about technology companies coming for TV advertising dollars, Ms. Yaccarino said the companies were “really coming for TV content.” She pointed to Twitter’s and Amazon’s deals with the N.F.L. and YouTube’s new ad-supported shows with stars like Ryan Seacrest and Ellen DeGeneres.
+
+“Really, you just can’t snap your fingers and invent that,” she said of premium content.
+
+And that is why she believes her focus on aligning with tech companies and reaching a large number of people on a variety of platforms will pay dividends.
+
+“It’s about real audiences, real people who buy stuff, because they experienced your content all throughout the day,” she continued. “If we can do that, then we can really compete with the Google, Facebooks, Twitter, etc., etc., or whoever’s next of the world.”
+
+Good morning.
+
+Here’s what you need to know:
+
+• “He’s not a dictator. He’s a democrat.”
+
+That’s a description of Turkey’s president, Recep Tayyip Erdogan, by one of the slim majority of voters who approved the new presidential system of government, which takes effect at the next election, slated for 2019.
+
+The outcome reflected a divided country. Voters in the major cities opposed the changes while those in rural areas, who usually are more religious and conservative, voted in favor of them.
+
+External monitors said the referendum was unfair. In Istanbul, hundreds of “no” supporters demonstrated in the streets.
+
+_____
+
+• For decades, the European Union dangled the possibility of membership before Turkey. That courtship may be over as Mr. Erdogan strengthens his already near-authoritarian powers.
+
+To Mr. Erdogan, the fomenting of nationalist pride could also appear more enticing than the potential benefits of membership in a bloc over which he in any case holds substantial leverage.
+
+The German government called on Mr. Erdogan to include the opposition in coming decisions. President Trump called the Turkish president to congratulate him.
+
+_____
+
+• It’s now France’s turn to worry about Russian meddling in its presidential election with only a few days left before the first round of voting on Sunday.
+
+Squalls of fake news reports and hacking attacks on the computers of the campaign of Emmanuel Macron, a liberal front-runner, have left many with an unnerving sense of familiarity.
+
+Russia’s state-controlled news media has been backing two candidates: François Fillon, a conservative, and Marine Le Pen of the far right.
+
+_____
+
+• More than a thousand Palestinian prisoners in Israel staged a hunger strike to demand better conditions, led by Marwan Barghouti, who is often seen as a future Palestinian leader.
+
+The local news media reported that he was moved into solitary confinement in retaliation for the hunger strike and for smuggling out an Op-Ed essay that he wrote, which was published in The Times on Sunday.
+
+Above, a rally in the West Bank in support of the prisoners.
+
+_____
+
+• When Islamic State militants overran the Iraqi town of Qaraqosh nearly three years ago, they smashed every crucifix they found. The few Christian residents who stayed were forced to spit on images of the Virgin Mary.
+
+Our correspondents visited the city’s first Easter service after the militants’ expulsion and found a largely deserted church still defaced by Islamist graffiti.
+
+_____
+
+•  “Gruyère time!”
+
+That is one of the catchphrases (for when a team’s defense is full of holes) of the broadcaster George Eddy, who is largely responsible for introducing the N.B.A. to France, the American basketball league’s main European market.
+
+Now guess where the oldest basketball court in the world is? Paris. The court has been continuously functional since 1893 and feels like a walk-in time capsule.
+
+_____
+
+• The International Monetary Fund releases its latest forecasts for global growth today as central bankers converge in Washington for the fund’s spring meetings.
+
+• Likely on the agenda: The nascent boomlet in emerging markets, where stocks and bonds have attracted large inflows as worries about President Trump’s anti-trade statements are fading.
+
+• Facebook is in a quandary over what kind of role it plays in policing content after a video of a man being fatally shot was viewed thousands of times before it was removed.
+
+•  Here’s a snapshot of global markets.
+
+• Vice President Mike Pence left South Korea for Japan today amid heightened tensions with North Korea. Our Interpreter columnist looks at why peace might actually be riskier for Pyongyang than the threat of war. [The New York Times]
+
+• Prince Harry said he suffered for years after the death of his mother, Princess Diana, until he sought counseling about three years ago. [The New York Times]
+
+• A small airplane crashed near a supermarket on the outskirts of Lisbon, killing five people. [Reuters]
+
+• The home of Prince, the American pop star, was strewn with narcotic painkillers for which he did not have prescriptions, according to new documents in the investigation into his death last year. [The New York Times]
+
+• The case for exercising: If the effects of exercise could be put in a pill and prescribed, it would be rightly hailed as an almost miraculous cure.
+
+• Confused about quinoa and nutrition? You’re not alone.
+
+• Recipe of the day: If you can make a ragù, you can make this chicken curry.
+
+• The Kenyan runners Geoffrey Kirui and Edna Kiplagat swept the 121st Boston Marathon. Among the other runners was Kathrine Switzer, who in 1967, above, became the first woman to compete in the race. At age 70, she was only 24 minutes slower.
+
+• In Spain,  a former monk has been building an extraordinary church since the 1960s near Madrid, without church backing or a building permit.
+
+• “Math is beautiful on a purely abstract level, quite apart from its ability to explain the world.” So argues an Op-Ed writer, citing neuroscience studies that show that elegant equations activate the same part of the brain that music and art do.
+
+When the U.S. sent a team of warships to the Korean Peninsula, we wondered about the namesake of the aircraft carrier leading the group — the Carl Vinson — and the broader question of how Navy ships are named.
+
+Carl Vinson was a long-serving Georgia congressman whose zeal for military expansion led him to be called the “Father of the Two-Ocean Navy.” Launched in 1980, a year before Mr. Vinson’s death, the carrier was one of the first major Navy ships named after a living person since the 1800s.
+
+In 1862, Congress specified that ships, depending on their class, should be named after the states, rivers, or “principal cities and towns.” But naval expansion soon exhausted geographical names.
+
+There have been controversies over some names. The Clinton administration took heat for naming a destroyer after a British citizen, Winston Churchill, and traditionalists objected to plans to name a ship after Harvey Milk, the slain gay rights activist. Mr. Vinson himself was a staunch segregationist.
+
+And sometimes the name just doesn’t fit. Cesar Chavez, the civil rights activist, had a cargo ship posthumously named after him. A proponent of nonviolence, he once said his time in the Navy was “the two worst years of my life.”
+
+Charles McDermid contributed reporting.
+
+_____
+
+This briefing was prepared for the European morning. We also have briefings timed for the Australian, Asian and American mornings. You can sign up for these and other Times newsletters here.
+
+Your Morning Briefing is published weekday mornings and updated online.
+
+What would you like to see here? Contact us at europebriefing@nytimes.com.

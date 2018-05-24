@@ -1,0 +1,515 @@
+Of all of Facebook’s superpowers, perhaps the most disconcerting is how it can make online publishers disappear with the push of a button.
+
+Think I’m exaggerating? Just look at what happened to websites like Upworthy, Viralnova and Distractify, which amassed enormous Facebook followings and then faded from view after the site’s algorithm started to weed out pages that published hyperbolic headlines and low-value fluff. Other publishers that depend on Facebook for a large portion of their traffic — which is to say, most of them — fear they could be next under the guillotine.
+
+But there is also a remarkable story about longevity in the Facebook publishing world. It comes, improbably, from Vilnius, Lithuania, where a small but mighty digital publisher is successfully navigating the changing tides of Facebook’s algorithms. Its story illustrates the qualities needed to survive in today’s Facebook-dominated digital media world: agility, lean operations, a clearly defined brand and a fair bit of luck.
+
+The company, Bored Panda, might not be familiar to you. But if you have a Facebook account and a pulse, you’ve probably seen its handiwork. Maybe it was “10+ Before-and-After Pics That Prove Men Look Better With Beards,” or “41 Times Uber Drivers Surprised Their Clients.” Or perhaps you watched “Shh, Don’t Wake Them,” a 49-second video montage of dogs, cats and hamsters sleeping peacefully.
+
+Lightweight and inoffensive posts like these have made Bored Panda one of the biggest attractions on Facebook. Its page received more than 30 million likes, shares, comments and reactions last month, far more than companies like BuzzFeed, CNN and The New York Times, according to NewsWhip, which compiles data on social media publishers. Its website had 116 million visitors in October, according to its internal analytics.
+
+The company has done all this without raising outside funding, unlike digital powerhouses such as BuzzFeed and Vice, which have collected hundreds of millions of dollars. It also has only 41 employees, and the low operating costs, along with its enormous popularity, have made for good business. Tomas Banisauskas, Bored Panda’s founder, told me he expects to be profitable this year with $20 million to $30 million in revenue, mostly from the advertisements that appear on its website. Roughly 90 percent of its web traffic comes from Facebook, making the social network by far the biggest factor in Bored Panda’s success.
+
+“They’re a really helpful company for us,” Mr. Banisauskas, 31, said of Facebook.
+
+Bored Panda began as a side project in 2009, while Mr. Banisauskas, then a freelance videographer, was studying business administration at Vilnius University. He was inspired by feats of internet creativity like the Million Dollar Homepage, in which an entrepreneur auctioned off a million pixels on a website for $1 each. And he came up with the idea for a website that would, as he put it, “fight boredom with art and good news stories.”
+
+On the content side, Bored Panda’s strategy followed a familiar playbook. It collected user-generated content from Reddit, Instagram, Twitter and other social platforms and repackaged it with tempting headlines. But by focusing on art, photography and other creative pursuits, and by studiously sticking to the kind of apolitical content that few people object to, Bored Panda has steadily built a feel-good, escapist empire.
+
+Bored Panda has the advantage of getting most of its content free from up-and-coming artists and other creative types who want the kind of exposure a large Facebook page can bring. (And, yes, it does ask for permission. I contacted several artists whose work had been featured on Bored Panda, and all said they’d given their blessing.) It has also adopted a quality-over-quantity strategy that appears to have served it well. It published only 519 articles in October, or roughly 16 posts a day, according to NewsWhip. Compare that with CNN, which published 5,595 articles during the month, and Fox News, which published 51,919 articles.
+
+It hasn’t been a straight line to success. In its early days, Bored Panda relied on StumbleUpon, a link aggregation site that was popular at the time, for much of its traffic. But in 2010, according to Mr. Banisauskas, StumbleUpon sharply reduced Bored Panda’s prominence on the site and pressured him to buy ads instead.
+
+As Mr. Banisauskas would later write in a post on Medium, the experience taught him that “the only way to survive in this industry is to build long-term value through loyal followers.”
+
+The next several years were a struggle, but in 2013, Bored Panda began to see a spike in viewers being sent from a new source: Facebook. Its positive, lighthearted content was a hit with the social network’s users, and the site’s traffic grew tenfold in a single year. Soon, despite Mr. Banisauskas’s intentions, Bored Panda was far from self-sufficient — its prospects hinged almost entirely on Facebook.
+
+More recently, while its competitors have hedged their risks by diversifying away from Facebook, Bored Panda has made a conscious effort to pull the platform even closer. It has started several offshoot Facebook brands, including pages for art and animal-themed stories, and a page called Crafty Panda that focuses on D.I.Y. projects. It has begun creating original content, too, and recently set up a video studio in its office, a hospital from the 19th century that was converted into a tech office complex.
+
+“Everyone wants to be not so dependent on Facebook,” Mr. Banisauskas told me. “At the same time, it’s impossible — Facebook is the place where people share their ideas.”
+
+But dependence comes with real risk. Last month, for example, Facebook began testing a new design for its news feed. In this version, which is being tested in six countries, Facebook posts from pages (including businesses, public figures and publishers like Bored Panda) were removed from the regular news feed. They were placed in a separate section called “Explore Feed,” where they appeared less prominently.
+
+This change caused tremors in the Facebook publishing world. Several publishers from countries included in the test complained that their Facebook traffic had plummeted overnight. A social media manager from a news site in Slovakia, one of the countries included in the test, called it the “biggest drop in Facebook organic reach we have ever seen.”
+
+Facebook told me it planned to continue testing the Explore Feed changes for several more months. In a blog post, Adam Mosseri, Facebook’s head of news feed, wrote that the test was meant to “understand if people prefer to have separate places for personal and public content,” but that the company had “no plans to roll this test out further.”
+
+Rafat Ali, a digital publishing veteran and chief executive of the travel media company Skift, said that while these particular algorithmic changes might not come to pass, sites like Bored Panda could still be easily crushed by a future Facebook experiment.
+
+“You never know when the rug could be pulled from under them,” Mr. Ali said. “They could be done in a year or two.”
+
+Mr. Banisauskas knows that Facebook can be a fickle landlord, and he worries that as a small foreign company that specializes in aggregated entertainment content, Bored Panda is in a more precarious position than most. Roughly half of Bored Panda’s Facebook audience is American, and Mr. Banisauskas worries that the site could be punished inadvertently by efforts to combat fake news and Russian-style influence campaigns.
+
+“We’re not part of the problem,” he said, “but we could get the collateral damage.”
+
+Last summer, Mr. Banisauskas traveled to New York to meet with a group of other Facebook-focused publishers. All these companies produce entertaining material that reaches millions of people every day. In another era, that alone might have been enough to guarantee them a stable future. Today, they exist at Facebook’s mercy and might be wiped away at any moment.
+
+For now, though, Bored Panda is charging ahead, and hoping to remain on Facebook’s good side.
+
+“Everyone should be worried,” Mr. Banisauskas said, before he injected a note of Bored Panda-style positivity: “But I believe everything will work out well.”
+
+SYDNEY, Australia — During her second week waitressing at a barbecue restaurant in Sydney, a customer asked Yating Yang if she was Chinese. “No, I’m Taiwanese,” she said.
+
+Her boss, who was from mainland China, never gave her another shift.
+
+Man-Tzu Tuan said her loyalty test came even sooner: on her first day at a hot pot restaurant in a comfortable Sydney suburb. “Is Taiwan part of China?” her manager asked in Mandarin over a walkie talkie. “No, definitely not,” she said.
+
+A half-hour later, she was fired.
+
+China’s assertiveness has already set off alarms in Australia, with officials warning that Beijing has been meddling in Australian politics more than the public realizes. But the experiences of Ms. Yang and Ms. Tuan — along with many others — reveal how Chinese nationalism is also affecting private enterprise and, in some cases, leading to accusations of discrimination.
+
+Australia’s fair work laws make clear that an employer cannot discriminate against an employee or prospective employee because of the person’s “political opinion, national extraction or social origin.” But experts and Taiwanese workers say that is exactly what many Chinese business owners are doing, with few repercussions.
+
+“It’s getting more noticeable,” said Yao-Tai Li, a Taiwanese sociologist at Hong Kong Baptist University who has studied Chinese migration to Australia and work conditions. “Chinese nationalism is growing, but the Australian government doesn’t really take any big actions; they keep it ambiguous.”
+
+Few countries have benefited as much from China’s rise as Australia, which is in its 27th year without a recession in large part because of Chinese trade and investment.
+
+But along with Chinese money has come Chinese migration. Hundreds of thousands of mainland Chinese have immigrated to Australia in the past decade. Many of them have brought ideas for businesses, but also an ideology that stresses the unity of China, viewing Taiwan as a rebellious territory that broke away in 1949.
+
+And as China’s government has intensified a crackdown on those who fail to recognize its One China policy — from human rights advocates to corporations like the Marriott hotel chain — members of the Chinese diaspora have similarly taken up the cause on a more personal scale.
+
+Their efforts have added to a sense of Chinese ubiquity: For anyone who identifies as Taiwanese, supports Taiwan’s independence — or even inadvertently refers to Taiwan as a country — Chinese nationalism has become a threatening and unrelenting presence, like a smog that never lifts.
+
+In Australia, service workers, professionals and students from Taiwan have all described gatherings with mainland colleagues and acquaintances where the default setting is that Taiwan and China are one country.
+
+Disagreement is not encouraged.
+
+“Even people who are very pro-Taiwan often don’t want it to be known publicly,” said Roger Huang, 35, a Taiwanese academic who helped organize last year’s Sydney Taiwan Festival. “Self-censorship is very real.”
+
+Some people from Taiwan explain that the most nationalistic Chinese often have a “glass heart,” meaning they are easily offended by disagreement.
+
+Others note that many people in Taiwan consider the island part of China and that, given the economic benefits, good relations are necessary.
+
+“Discussing politics is bad for business,” said Antonio Guo, 65, the Taiwanese owner of a restaurant in a north Sydney suburb. “People get agitated.”
+
+But for many, silence is the spawn of fear. There are widening concerns in the Australian government and in immigrant communities that the Chinese government is watching and listening, ready to apply pressure on those who do not toe the Communist Party line.
+
+Paul Lin, president of the Australian Taiwanese Friendship Association, said several people believed to be Chinese agents were snapping photos of people at the Sydney Taiwan Festival in 2016.
+
+Chinese students at Australian universities have also reported close monitoring by their peers, and say the pressure to conform on the issue of Taiwan has been intense in classrooms, at work and on social media.
+
+“The problem is they think Sydney is Beijing,” said Mr. Lin, a businessman who moved to Australia in 1990, referring to the Chinese government and its loyalists. “They’re doing more and more watching and interfering. And they’re getting better at it.”
+
+Australia’s mainland-born population has grown rapidly — doubling since 2006 to about 510,000 people — and with the Taiwanese population hovering at less than a tenth of that, an imbalance has emerged. Chinese business owners can easily make Taiwanese workers feel marginalized and vulnerable.
+
+Mr. Lin said that for Chinese immigrants who still have family and business interests in China, discriminating could be “an entry point,” a way to show loyalty to Beijing.
+
+Ms. Tuan’s experience provides a glimpse of how that power dynamic works.
+
+Her story became public when Ms. Tuan, who goes by Winnie in Australia, published a Facebook post about her experience on Jan. 9, the day she was fired. That post, in which she named the restaurant, HuTong Hot Pot, and a supervisor she called Mr. Ha, quickly went viral on Chinese social media.
+
+China’s Global Times — a state news media outlet — published an article the following day, asking readers: “What do you think about this incident, mainland netizens?”
+
+The editors, leaving little to chance, added that The Global Times “would like to go to Sydney, and give ‘Mr. Ha’ a thumbs up!”
+
+More than a dozen Chinese news outlets republished the article.
+
+Later that week, a post from the restaurant appeared on Weibo, China’s version of Twitter: “It is fate and a privilege,” the message said, “to have people who respect us coming to dine at our restaurant.”
+
+The comments section was filled with praise and promises to visit.
+
+During the lunch rush one day last week, the restaurant was packed.
+
+Asked about Ms. Tuan’s departure, a young manager said, “The company told us we’re not commenting.”
+
+Ms. Tuan, 29, said in an interview that other comments on social media were supportive of her cause.
+
+“People could relate,” she said.
+
+They included Daniel Chang, 28. A hairdresser working in Melbourne, Mr. Chang said he never received a callback from a salon that had seemed eager to hire him until he mentioned he was Taiwanese.
+
+Jade Liao, 26, ran afoul of a customer. She said that in 2016, at a shoe store where she worked, a Chinese student berated her after she answered a question about whether Taiwan was part of China.
+
+“She started yelling, and pointed a finger at me,” Ms. Liao said. “I couldn’t hold back my tears after she left.”
+
+Many other Taiwanese workers described similar experiences — mostly young women on working holiday visas.
+
+More than 12,000 of these visa holders come to Australia each year from Taiwan, and they are known to be part of a vulnerable cohort that is regularly paid below the minimum wage — an issue that Australia’s Fair Work Ombudsman has made a priority, assessing penalties against employers of various backgrounds.
+
+A spokesman for the agency, however, said it had not undertaken any enforcement actions for discrimination against Taiwanese workers, or any other group, based on their political opinions.
+
+Mr. Lin, of the Australian Taiwanese Friendship Association, and many others in the Taiwanese community said Australia must do more to address the issue.
+
+Without more effort, Mr. Lin said, China will continue to erode Australia’s “fair go” culture of democracy and equality.
+
+“They are helping China erase the values that Taiwan and Australia share: democracy, human rights and the rule of law,” Mr. Lin said in a Sydney shopping mall flush with signs in Mandarin. “This is invisible. But this is fundamental.”
+
+In the fall of 2010, the Russian billionaire investor Yuri Milner took the stage for a Q. and A. at a technology conference in San Francisco. Mr. Milner, whose holdings have included major stakes in Facebook and Twitter, is known for expounding on everything from the future of social media to the frontiers of space travel. But when someone asked a question that had swirled around his Silicon Valley ascent — Who were his investors? — he did not answer, turning repeatedly to the moderator with a look of incomprehension.
+
+Now, leaked documents examined by The New York Times offer a partial answer: Behind Mr. Milner’s investments in Facebook and Twitter were hundreds of millions of dollars from the Kremlin.
+
+Obscured by a maze of offshore shell companies, the Twitter investment was backed by VTB, a Russian state-controlled bank often used for politically strategic deals.
+
+And a big investor in Mr. Milner’s Facebook deal received financing from Gazprom Investholding, another government-controlled financial institution, according to the documents. They include a cache of records from the Bermuda law firm Appleby that were obtained by the German newspaper Süddeutsche Zeitung and reviewed by The Times in collaboration with the International Consortium of Investigative Journalists.
+
+Ultimately, Mr. Milner’s companies came to own more than 8 percent of Facebook and 5 percent of Twitter, helping earn him a place on various lists of the world’s most powerful business people. His companies sold those holdings several years ago, but he retains investments in several other large technology companies and continues to make new deals. Among Mr. Milner’s current investments is a real estate venture founded and partly owned by Jared Kushner, President Trump’s son-in-law and White House adviser.
+
+Facebook, Twitter and other social media sites have become a major focus of federal investigations into Kremlin interference in the 2016 election. Federal prosecutors and congressional investigators are examining how Russians linked to the Kremlin turned the sites into garden hoses of bogus news stories and divisive political ads, and whether they coordinated with the Trump campaign.
+
+No one has suggested that Mr. Milner or his companies had any connection to the propaganda operation. For his part, Mr. Milner said in a pair of recent interviews that the Russian government money was no different from the financing he had received from his many other investors around the world.
+
+Even so, his use of the state-directed apparatus employed by so many Russian oligarchs to enrich themselves shows how the Kremlin has extended its long financial arm not only to his company but to some of America’s technology giants.
+
+“Kremlin-connected institutions make investments with strategic interests in mind — not just commercial interests but state interests as well,” said Michael Carpenter, the Russia director at the National Security Council during the Obama administration, who is now senior director of the Penn Biden Center for Diplomacy and Global Engagement. “They go hand in hand.”
+
+Mr. Carpenter added, “Oligarchs who receive significant amounts of financial support from Russian banks like VTB or Sberbank or Gazprombank have to pass above a political threshold, meaning such support requires the explicit or tacit approval of those at the top of Russia’s crony capitalist system.”
+
+There is nothing illegal about foreign state-owned institutions investing in American companies. VTB and Gazprom said the transactions were both sound investments, not motivated by political considerations.
+
+As Mr. Milner sees it, the story is similarly simple — “nothing more than business,” he said, adding: “We are getting money, and we are putting them in Facebook and Twitter. We are making money for our limited partners, and we are giving money back to them. For me, it’s a commercial arrangement.”
+
+(A statement from DST Global, Mr. Milner’s venture capital firm, appears here.)
+
+Mr. Milner, 55, studied theoretical physics at Moscow State University before moving to the United States, where he attended the Wharton School at the University of Pennsylvania in the early 1990s and then worked for the World Bank in Washington.
+
+He returned to Russia and in the late 1990s and worked as an executive at Bank Menatep, which was founded by Mikhail B. Khodorkovsky, the oil tycoon who was stripped of his company, prosecuted and imprisoned after a televised confrontation with President Vladimir V. Putin.
+
+Mr. Milner eventually teamed with Alisher Usmanov — an Uzbek-Russian oligarch close to the Russian prime minister, Dmitri A. Medvedev — and a former Goldman Sachs executive to build a large stake in Mail.ru, a Russian internet company that now trades on the London Stock Exchange.
+
+Mr. Milner’s initial American investments came as he served on an innovation commission set up in 2009 by Mr. Medvedev, who was Russia’s president at the time and is something of a tech enthusiast, famously touring Apple’s headquarters in Cupertino, Calif., with Steve Jobs.
+
+In May 2009, Facebook announced an investment of roughly $200 million by Mr. Milner’s company, Digital Sky Technologies, and said the company planned to spend at least $100 million buying additional stock. Eventually, Mr. Milner’s new venture capital firm, DST Global, also amassed a significant stake in Facebook.
+
+“A number of firms approached us, but DST stood out because of the global perspective they bring,” Mark Zuckerberg, Facebook’s chief executive, said at the time.
+
+The documents reviewed by The Times reveal that DST brought something else as well: a connection — through a succession of shell companies — to the Kremlin.
+
+In those years, as part of its diplomatic “reset” with Moscow, the Obama administration was encouraging Russia to learn from the American technology industry. Importing tech knowledge, the theory went, would ease Russia’s dependence on exporting oil and gas.
+
+For the Facebook deal, it was Gazprom, the state-controlled natural-gas giant, that became the bridge. The company, a vital component of the Putin government, has employed its financial subsidiary, Gazprom Investholding, to reclaim assets privatized during the 1990s.
+
+Gazprom Investholding is “used for politically important and strategically important deals for the Kremlin,” said Ilya Zaslavskiy, a contributor to the Kleptocracy Initiative, a project of the Hudson Institute, a conservative think tank in Washington. Both VTB and Gazprom Investholding’s parent, Gazprom, are under United States sanctions stemming from Russia’s support of separatists in eastern Ukraine in 2014.
+
+Over several years, Gazprom Investholding and a subsidiary made hundreds of millions of dollars in loans to a company called Kanton Services, according to records from the Panama Papers, the trove of leaked documents from the law firm Mossack Fonseca. Kanton, in turn, owned one of the DST investment vehicles used to buy shares of Facebook. While it is unclear precisely when Kanton first received its stake in the DST entity, Kanton received $197 million of the Gazprom Investholding loans three months before Facebook announced its first deal with Mr. Milner, the records show.
+
+Kanton, based in the British Virgin Islands, had numerous ties to Mr. Milner’s backer, Mr. Usmanov.
+
+Kanton was owned by a longtime Usmanov business associate, and was controlled by Matthias Bolliger, a director of numerous subsidiaries of Mr. Usmanov’s main holding company, USM Holdings, according to an Appleby memo and the Panama Papers. And an email sent by a trust company on the Isle of Man used by Mr. Usmanov referred to Kanton as a “private investment company, (facebook and twitter).”
+
+In the interviews, Mr. Milner said his investors’ identities were not generally public information. And he sought to distance his company from Mr. Usmanov. “I had no knowledge of him using state funds to invest with us,” he said. What’s more, he said, Mr. Usmanov had many potential sources of financing, making it impossible to know whether money from Gazprom Investholding was even used to finance his stake in Facebook.
+
+To demonstrate this, Mr. Milner set out a series of clear plastic cups with labels like “Alleged Russian government funds,” “Mr. Usmanov” and “Facebook.” He pulled out a large bag of green M&M’s, filled several cups and proceeded to shift the M&M’s from one cup to another. “Money is fungible,” he explained, adding, “You can’t just say that this specific dollar went all the way to Facebook.”
+
+A spokesman for Mr. Usmanov, Rollo Head, did not address specific questions. But in a statement, he insisted that there are clear streams of money that do not mingle. Mr. Usmanov, he said, “did not borrow from or use state or quasi-state funds to make investments in Facebook.”
+
+The Facebook deal was a case study in the way Russia’s oligarchs have mixed public and private roles for their own, and their government’s, benefit: Even as he was investing in Facebook, Mr. Usmanov was general director of Gazprom Investholding.
+
+In fact, Mr. Usmanov had often intertwined his government position with his personal deals, according to a report by the global investigations and security firm Kroll. Kroll described those arrangements as “synergies.”
+
+The Kroll report — a “reputation audit” — had been commissioned by Mr. Usmanov as he set out to burnish his image a year before his deal with Mr. Milner to invest in Facebook. Kroll investigators, relying on public records and interviews, detailed a long and colorful history: time in prison in Uzbekistan (he was later exonerated) and past associations with alleged Russian organized crime figures, according to a draft copy of the report reviewed by The Times.
+
+The investigators also recounted a dizzying number of deals — involving mining, media and technology companies, often with the assistance of the Kremlin and Mr. Medvedev. “Usmanov looks set to end the Putin era as the ‘most improved’ oligarch over the past eight years,” one source told Kroll.
+
+Kroll investigators found that, for some investments, Mr. Usmanov turned to Kanton, the company that would be a part of Mr. Milner’s Facebook investment.
+
+A Facebook spokeswoman, Vanessa Chan, declined to answer specific questions about the deal with DST, calling it a “passive investor” and noting that the company had invested and cashed out several years ago.
+
+Gazprom Investholding called the loans “prudent,” saying they were “provided for general corporate purposes” at above-market rates. The company did not answer a question about what role, if any, Mr. Usmanov played in the loans, except to say that as its general director, he “operated in accordance” with the company’s charter.
+
+To complete the Facebook deal, DST used a pair of lawyers based in Cyprus and Britain who have also set up offshore entities for Russian oligarchs close to Mr. Putin, according to the Panama Papers, United States securities filings and records from Appleby. DST did not answer questions about how it came to use the two lawyers.
+
+After the Facebook deal, Mr. Milner became a fixture in Silicon Valley, spending about $100 million on a 25,000-square-foot house in Los Altos Hills and investing $7 billion in more than 30 companies, including Spotify, Airbnb and Groupon.
+
+In interviews, he has referred to his close relationship to management at the companies in which he invests. Mr. Milner and Mr. Zuckerberg became friends and met monthly. Still, despite his company’s sizable stake, Mr. Milner did not take a board seat or voting rights.
+
+At the 2010 technology conference in San Francisco, Mr. Milner was asked if he provided management with advice along with his cash. “I think it’s actually the opposite,” he replied. “I sometimes get informal advice from them.”
+
+Mr. Milner’s roughly $380 million investment in Twitter was directly backed by another instrument of Kremlin power: Russia’s second-largest bank, VTB.
+
+Sixty-one percent of the bank is owned by the Russian government. VTB’s president, Andrey L. Kostin, is a former Soviet diplomat; Matthias Warnig, on the bank’s supervisory council, is a former East German spy who served in Dresden while Mr. Putin was stationed there with the K.G.B.
+
+VTB has operations across the world, including in the United States. In recent years, it has been involved in a number of politically sensitive deals, including a loan that financed the Russian government’s murky privatization of 19.5 percent of the oil giant Rosneft.
+
+Last year, the Panama Papers revealed that a Cyprus bank owned by VTB was used to transfer hundreds of millions of dollars to accounts connected to Sergei Roldugin, a cellist and close friend of Mr. Putin. It was unknown what the money was for, but some speculated that he was working as a frontman for Kremlin insiders.
+
+Mr. Roldugin did not respond to messages for this article, but said at the time that his wealth came through donations from rich businessmen for the purchase of musical instruments. VTB called the account in the Panama Papers “unsubstantiated.”
+
+“VTB is really a slush fund for Putin,” said Anders Aslund, a resident senior fellow at the Atlantic Council in Washington, and an early economic adviser to the post-Soviet Russian government. The bank, he added, is “the black cashier of the Putin crowd.”
+
+Mr. Milner’s Twitter deal is a complex web of share transfers and offshore financial entities. But its details may offer clues that there was a strategic motive behind VTB’s involvement.
+
+In July 2011, VTB invested at least $191 million in exchange for shares of an Isle of Man company called DST Investments 3, corporate records show. That offshore vehicle was used to buy roughly half of DST Global’s stake in Twitter that month. DST Investments 3 also issued shares to Kanton, the company linked to Mr. Usmanov that was at the center of the Facebook deal.
+
+The Twitter deal had a notable feature: VTB put virtually all of the cash into DST Investments 3, filings show. Kanton contributed almost none. It is highly unusual for investors in DST funds to get stakes without contributing cash, according to a person familiar with the matter.
+
+On May 7, 2014 — six months after Twitter’s initial public offering, when insiders were first permitted to sell their shares — VTB transferred the bulk of its stake in DST Investments 3 to Kanton. DST also cashed out its Twitter investment.
+
+DST had one other investment from VTB, which Mr. Milner compared to a sovereign wealth fund. VTB was an investor in the Chinese internet company JD.com as recently as February 2015, when it transferred its stake to Kanton, Isle of Man records show.
+
+In a statement, VTB said its involvement with Twitter was “solely a financial investment,” sold for a profit, one of several successful deals in the high-tech industry in that period. The bank added, “VTB is a solely commercial bank, we have never had any politically motivated deals.”
+
+Twitter declined to answer a series of questions about VTB, but said that as a matter of policy it had done reviews of all pre-I.P.O. investors.
+
+Mr. Milner would not discuss how VTB came to be an investor, other than to say that the bank helped take Mail.ru public in 2010. According to the Kroll report, the Kremlin had previously ordered VTB to finance other ventures of Mr. Usmanov. The report also details the close relationship between Mr. Usmanov and Mr. Medvedev, finding that Mr. Medvedev helped him win a bid for a lucrative copper ore deposit in Siberia.
+
+Mr. Milner has also been active beyond Silicon Valley. He is a founder of the Breakthrough Prize, a series of lucrative scientific awards. And in July 2015, he was one of several high-profile investors in Cadre, a New York-based real estate technology company founded by Mr. Kushner and his brother, Joshua. (Other investors and partners include Goldman Sachs, George Soros and Peter Thiel’s Founders Fund.)
+
+Mr. Milner said he invested $850,000 in Cadre through a trust, which in turn controls DST Global Advisers, DST Global’s investment management firm. He said he was introduced to the company through an early investor whose name he did not remember. He said he met Jared Kushner only once, at a conference in Aspen, Colo.
+
+Mr. Kushner and Cadre declined to comment.
+
+In his interviews with The Times, Mr. Milner shied away from the controversy now enveloping Facebook and Twitter, his former major investments.
+
+Growing up in the Soviet Union, he said, “if you’re a father and you have a conversation with your son, it’s easy to say, ‘Please don’t get involved in politics.’”
+
+That “was my principle back then and still now,” he said, adding: “I prefer just to focus on business and philanthropy. And this is plenty for me.”
+
+In today’s social media industry, you essentially have two options: Die young, or live long enough to turn into Facebook.
+
+Snap, the parent company of Snapchat, appears to be headed down the latter path. After a disappointing earnings report last week, which sent the company’s stock tumbling by nearly 20 percent, Snap announced a sweeping strategy shift that contained more than a few hints of Facebook envy.
+
+In an attempt to spur user growth, Snap’s chief executive, Evan Spiegel, announced that Snapchat would be redesigned to make it easier to use. The app, which featured a minimalist design that appealed to teenagers while often perplexing their parents, will soon have a personalized feed that uses algorithms to show relevant stories to users, rather than making them sift through a reverse-chronological feed. Twitter made a similar change last year, also under pressure from Facebook.
+
+Snap has also revamped its ad-buying process to be more like Facebook’s, with ads that can be purchased through an automated system. And it signaled last week that it wanted to expand its presence in the developing world, where Facebook is dominant. Only about 25 percent of Snapchat’s daily active users live outside North America and Europe, compared with more than 65 percent of Facebook’s users.
+
+It’s hard to blame Snap, which declined to comment for this column, for going the Facebook route. Facebook and Instagram, which is owned by Facebook, have been trying to copy Snapchat out of existence for years, and they might be succeeding.
+
+Instagram Stories, a near-clone of Snapchat’s most distinctive feature, has reached 300 million daily active users, nearly twice as many as Snapchat. Facebook’s enormous profits have given lofty expectations to investors in other social media companies, and its more than two billion users have made everything else seem small by comparison.
+
+But Snap’s pivot is more than a necessary business move. It’s an indictment of our current tech landscape, and a warning sign for other start-ups hoping to take on the largest internet companies on their own terms. If a wildly creative company with an app used by 178 million people every day can still be crushed by Facebook, how is anyone supposed to succeed?
+
+Snap still has lots of things going for it. It remains popular among American teenagers, perhaps the most highly coveted marketing demographic in the world. Snapchat has more users in the United States who are 12 to 24 years old than either Facebook or Instagram, according to eMarketer. It has also been able to buck Silicon Valley trends and introduced some truly innovative ideas, like the concept that not all digital communication should be permanently archived. And while Snap is losing money, many of its losses stem from changes it has made in order to compete with Facebook.
+
+Still, the fact that Snap’s future is uncertain should worry you, even if you’ve never used its products. A world in which every successful internet platform is expected to behave like Facebook is a more boring, less innovative world, with no companies to challenge Facebook’s vision of the future. It’s not a good sign that in order to survive as a competitor, Snap may have to abandon the qualities that made it different in the first place.
+
+Part of Snapchat’s appeal when it first appeared six years ago was how different it was from other messaging apps and social networks. Its disappearing photos encouraged honest sharing with close friends, rather than showing off to a large audience of acquaintances. Snapchat’s Discover program was one of the first examples of a social network paying publishers to create original, high-quality content. And unlike Mark Zuckerberg, who once said privacy was an outdated concept, Mr. Spiegel believed in safeguarding users’ data, saying in a 2015 interview that “we care about not being creepy.”
+
+Snapchat’s distinctive qualities also helped steer it clear of some problems that are now plaguing its rivals.
+
+It appears that Snapchat, unlike Facebook, was never exploited by Russian propagandists to influence an election, and it has taken a responsible approach to preventing false information from appearing on its platform. (Snap’s vice president for content, Nick Bell, recently told Bloomberg Businessweek, “We only work with authoritative and credible media companies, and we unashamedly have a significant team of producers, creators and journalists.”) Snapchat has not been overrun by bots and neo-Nazis, as Twitter has. And unlike Google, Snap has not harvested its users’ data in order to chase them around the internet with spammy ads for diet pills and miracle teas.
+
+Snapchat isn’t perfect by any means, and some of the company’s wounds have been self-inflicted. Snap has misled users about its data collection practices in the past, which led to a settlement with the Federal Trade Commission. It spent millions of dollars developing Spectacles, a pair of sunglasses with a built-in Snapchat camera, that everyone talked about but few bought. (Last week, the company wrote off $40 million in losses on the project.) And nobody forced Mr. Spiegel to raise billions of dollars from investors who would demand Facebook-style growth.
+
+Billy Gallagher, a former TechCrunch writer whose book on Snap’s corporate history, “How to Turn Down a Billion Dollars,” will come out next year, characterized the company’s recent changes as “death by a thousand paper cuts.” He told me that while investors might appreciate touches like an automated ad-buying system and a more intuitive app, Snapchat’s core users could feel betrayed.
+
+“A social network acts against users’ interests when it needs to make money,” he said.
+
+Snapchat, Mr. Gallagher writes, was never supposed to be just a photo-sharing app. It was the embodiment of Mr. Spiegel’s worldview about how the internet should work — temporary instead of permanent, private instead of public, candid instead of rehearsed. I asked Mr. Gallagher why Snap needed to compromise its values in pursuit of Facebook-style growth. Couldn’t it reject Wall Street’s demands, concentrate on making its existing users happy and be satisfied as a smaller and more focused company?
+
+Mr. Gallagher said Snap’s employees, many of whom joined because they believed that the company would grow to enormous size, might bristle at any strategy that would hurt the value of their stock options. And he pointed out that Mr. Spiegel, a grandiose 27-year-old who reportedly keeps a portrait of Steve Jobs on a wall of his office, might not be satisfied with merely modest success.
+
+“He has grand, sweeping visions of the future,” Mr. Gallagher said. “It would be very hard for him to eat a slice of humble pie and say: ‘We’re not going to be Facebook. We’re going to be a 150-million-user social network that plays in a well carved-out niche.’”
+
+Last week, Mr. Spiegel pledged to keep Snap’s core values intact while expanding its business. But growth often comes at the expense of experimentation, and Snap’s decision to become more like Facebook is a worrisome sign for people who care about preserving the internet’s quirky heterogeneity. Snapchat’s users were once offered something genuinely different, but it may be time for them to expect more of the same.
+
+Uber’s relationships with cities tend to begin or end in war. Smaller markets experience the company as a powerful invading force — often a welcome one. The company’s model easily outclasses and undercuts provincial competitors, conscripting local cabbies and enlisting new drivers. Flimsy taxi regulations backed by weak municipal governments are quickly overwhelmed by the multibillion-dollar company and its armies of lawyers and lobbyists and their briefcases full of case studies and legislative suggestions.
+
+But in larger markets with bigger taxi companies, municipal governments bristle at the company’s deep, evident disdain for their authority — and they’re capable of striking back. Last month, in a sudden show of force, London told Uber that its license to operate in the city wouldn’t be renewed. The city’s transit authority cited a number of reasons for its actions: Uber’s approach to reporting crimes; its background-check policies; its aggressive attempts to thwart regulators; general appeals to “public safety” and “corporate responsibility.”
+
+“While Uber has revolutionized the way people move in cities around the world, it’s equally true that we’ve got things wrong along the way,” Uber’s chief executive, Dara Khosrowshahi, wrote in a public letter. But this performance of contrition came on the heels of the company’s first effort at retaliation. It had already mobilized its drivers and users, starting a petition accusing the city of having “given in to a small number of people who want to restrict consumer choice,” of threatening the livelihoods of tens of thousands of its workers and of depriving millions of customers. The effort quickly garnered more than 800,000 signatures.
+
+London’s threat to Uber is clearly existential: Being shut out of one of its largest markets is terrible for business and sets a dangerous precedent for the company as it tries to expand around the globe. But governments similarly perceive, in Uber, a broader challenge to their legitimacy. Uber doesn’t so much do business in cities as unilaterally install itself as infrastructure. Its incompatibilities with local regulations or national employment law are presented as neither features nor bugs but as evidence of evolution and progress. It identifies, vets and credentials drivers. It fields complaints and arbitrates disputes, exercising authority over those it deems bad actors. It lets riders rate drivers and vice versa, creating a sort of customer-service-centric accountability. Because Uber purports to be self-regulating, its users and drivers share in the company’s feeling that outside interference is unwelcome and even unnatural. It now has a constituency, hundreds of thousands strong, angry with their government on behalf of a corporation.
+
+The same week Uber was given notice in London, Mark Zuckerberg sat down in front of a camera in Menlo Park, Calif. His desaturated earth-tone palette was matched color for color by his office in the background, as if to provide camouflage. Indeed, it was easy to miss the sheer range and strangeness of what he was there to say. “I care deeply about the democratic process and protecting its integrity,” he said. “The integrity of our elections is fundamental to democracy around the world.”
+
+Facebook had recently disclosed that it believed Russian state actors purchased political ads during the 2016 election; more broadly, it had been accused of allowing disinformation and misinformation to thrive on its platform. Among the measures that Zuckerberg said his company would take included expanding “partnerships” with election commissions around the world and “working proactively to strengthen the democratic process.” Most striking, coming from the C.E.O. of a publicly traded American social-media company, was this line: “We have been working to ensure the integrity of the German elections this weekend.”
+
+Social-media companies aren’t new to defending themselves in ideological terms — they’re just not used to doing it on their home turf. While to authoritarian regimes, the threat of social media is obvious, in the United States, Facebook, Twitter and Google have for years talked about themselves freely in the language of democracy, participation and connectivity. The emerging tension between internet platforms and democratic governments, however, seems to stem less from their obvious rhetorical differences than from their similarities.
+
+Facebook’s transition from a confident stride to a guarded crouch was conspicuous and sudden, arriving roughly at the same time as President Trump. Shortly after the 2016 election, Zuckerberg dismissed heated claims that misinformation on his platform had gotten Trump elected as a “pretty crazy idea.” In September, he admitted that his comment was dismissive, but did so after months of near-constant scrutiny, including, according to The Washington Post, a postelection lecture from President Obama. In an interview with Bloomberg published in September, he sounded more wistful than irritated: “For most of the existence of the company, this idea of connecting the world has not been a controversial thing,” he said. “Something changed.” It certainly had: Facebook was being implicated as potentially harmful to the systems within which it had thrived, and with which it had sought to identify itself.
+
+The problem was that Facebook had outgrown every context except its own. Though it neither thinks like nor resembles a government, it has effectively sewn itself into the fabric of users’ public and personal lives. Facebook accounts have now become something like IDs, enabling an ever-growing range of activities: commerce, job-seeking, leisure. Networks stand in for community; encryption, in owned and operated services like WhatsApp, stands in for guarantees of liberty; newsfeeds become sources of diverse information, including ads, yes, but also calls to register to vote — to apply elsewhere what you’ve increasingly experienced online.
+
+All this is to say that a sufficiently successful social platform is experienced, much like Uber, as a piece of infrastructure. Except, instead of wrapping its marketplace around a city’s roads, Facebook makes a new market around communication, media and civil society. This, from a founder’s perspective, is an electrifying outcome. But this cultural metastasis has led to a swift and less-than-discriminate backlash. Already, calls for regulating the largest internet platforms are growing louder while remaining tellingly vague. After all, what can a government realistically do about a problem like Facebook?
+
+It’s very likely that any approach to regulating Facebook will look more like diplomacy than anything else — a cautious search for détente with an institution that ultimately gets to set its own laws, whether a government likes it or not. Indeed, the company has been presenting itself as a willing, generous participant in American investigations, but more generally as a supranational, self-regulating force for good, and, boldly, as indispensable for the continuation of democracy around the world. “We will do our part not only to ensure the integrity of free and fair elections around the world,” Zuckerberg said, “but also to give everyone a voice and to be a force for good in democracy everywhere.” For citizen users, it’s a gesture of good faith. To skeptical countries, it’s a gentle declaration of independence, or maybe a dare. For Facebook, it’s something distinct, new and unmistakably statelike: a claim of sovereignty.
+
+WASHINGTON — Under growing pressure from Congress and the public to reveal more about the spread of covert Russian propaganda on Facebook, the company said on Thursday that it was turning over more than 3,000 Russia-linked ads to congressional committees investigating the Kremlin’s influence operation during the 2016 presidential campaign.
+
+“I care deeply about the democratic process and protecting its integrity,” Facebook’s chief executive, Mark Zuckerberg, said during an appearance on Facebook Live, the company’s video service. He added that he did not want anyone “to use our tools to undermine democracy.”
+
+“That’s not what we stand for,” he said.
+
+The  announcement that Facebook would share the ads with the Senate and House intelligence committees came after the social network spent two weeks on the defensive. The company faced calls for greater transparency about 470 Russia-linked accounts — in which fictional people posed as American activists — which were taken down after they had promoted inflammatory messages on divisive issues. Facebook had previously angered congressional staff by showing only a sample of the ads, some of which attacked Hillary Clinton or praised Donald J. Trump.
+
+Facebook’s admission on Sept. 6 that Russian agents covertly bought ads on the site during last year’s campaign has brought intense scrutiny on the social network and on Twitter, entangling both companies in the investigation by Robert S. Mueller III, the special counsel. Both companies have turned over detailed data to Mr. Mueller.
+
+The disclosure of the ads also raised the possibility of future regulation of political advertising on social media platforms. This week, congressional Democrats asked the Federal Election Commission to advise on ways to prevent illicit foreign influence on American elections via social media, including possible new laws or regulations.
+
+Dmitri S. Peskov, a spokesman for President Vladimir V. Putin of Russia, denied on Friday that Russia had been involved in any way. The Kremlin, he said, does not even know how to put advertisements on Facebook, adding, “We have never done it, and the Russian side has never been involved in this.”
+
+For Facebook, the move to work with the congressional committees underscored how far the social network has strayed from being a mere technology company and how it has increasingly had to deal with the unintended consequences of the tools it provides to reach the more than two billion people who use the site regularly. The company became more proactive in deflecting criticism this week, with its chief operating officer, Sheryl Sandberg, describing on Wednesday the steps Facebook would take to strengthen its ad system so that it could not be misused to target racists.
+
+On Thursday, in a move clearly intended to pre-empt government intervention, Mr. Zuckerberg outlined the list of actions Facebook planned to take in the coming weeks to make political advertising more transparent. He said each ad will show which Facebook Page — a kind of account required for businesses to create an ad — had paid for the ad, although that would not necessarily identify the people behind the Facebook Page. In addition, Facebook plans to invest more heavily in its security teams, expand its coordination with global election commissions, and work closely with other tech companies to share threat information as it arises.
+
+In his seven-minute talk from Facebook’s headquarters in Menlo Park, Calif., Mr. Zuckerberg suggested there may be additional fake accounts linked to Russia or other foreign countries. “We are looking into foreign actors, including additional Russian groups and other former Soviet states,” he said.
+
+Mr. Zuckerberg, 33, noted that Thursday was his first day back from parental leave after the birth of a daughter. But despite that folksy touch, he had the look of an improbably young leader addressing his people at a moment of crisis.
+
+With his talk of “the democratic process,” “foreign actors,” and “election integrity” — mentioning Germany’s elections this weekend in particular — Mr. Zuckerberg reinforced Facebook’s status as a transnational global behemoth whose power reaches into every corner of contemporary life.
+
+“We are in a new world,” he said. “It is a new challenge for internet communities to deal with nation-states attempting to subvert elections. But if that’s what we must do, we are committed to rising to the occasion.”
+
+Despite Russia’s stealth attack, Mr. Zuckerberg argued that Facebook remained a force for good in democracy, promoting billions of online discussions, linking voters to candidates and helping two million Americans register to vote. He said that positive role was “100 or 1,000 times bigger” than the illicit activity.
+
+Twitter, which has kept a low profile since Facebook’s disclosure of the Russian intrusion, has announced that it will brief the Senate Intelligence Committee next Wednesday behind closed doors.
+
+In a statement, Twitter did not address illicit Russian activity on its platform but said it “deeply respects the integrity of the election process, a cornerstone of all democracies” and vowed to “continue to strengthen our platform against bots and other forms of manipulation.”
+
+Senator Mark Warner of Virginia, the top Democrat on the intelligence committee, praised Facebook’s announcement but said he still believed regulation was needed to ensure that voters know more about who is behind ads on social media.
+
+“This is a good first step,” he said. “I’m disappointed it’s taken 10 months of raising this issue before they’ve become much more transparent.” He said he believed there were additional “troll farms” in both Russia and Eastern Europe, “and it’s really important that Facebook work with us to investigate other sources of advertising and fake accounts.”
+
+Mr. Warner said he believed the 3,000 ads, which the committees had not yet received, should be made public with protections for the privacy of any innocent people whose names may be in the material.
+
+Mr. Warner and Senator Amy Klobuchar, Democrat of Minnesota, circulated a letter inviting colleagues to co-sponsor a bill that would require greater transparency for online political ads, according to a copy of the letter seen by The New York Times.
+
+A spokeswoman for Senator Richard Burr, Republican of North Carolina, who is chairman of the intelligence panel, said he had no comment Thursday night.
+
+The Times reported this month that Russian intelligence appeared to have been behind an infestation of Twitter with automated accounts, called bots, that spread messages against Mrs. Clinton last year. The cybersecurity company FireEye identified what it called “warlists” of hundreds of fake accounts that fired off identical political messages.
+
+The Times also found Facebook accounts that appeared to have been created by ordinary Americans but were actually concocted by Russian agents. Facebook, which had said as recently as July that it had found no evidence of fraudulent Russian ad purchases, reversed itself this month and said it had removed 470 profiles and pages that it said were linked to the Internet Research Agency, a Russian company with ties to the Kremlin.
+
+Facebook found $100,000 of ad purchases that were linked to the fake pages — designed to look like the pages of Americans animated by particular issues — that spread inflammatory messages about immigration, guns and other topics; derided Mrs. Clinton and supported Mr. Trump. Facebook shut the accounts down in recent weeks but declined to name or describe them publicly, saying federal law prohibited it from making customer communications public.
+
+Although Facebook had declined to identify the fake Russian pages, The Daily Beast and other news organizations ferreted out a few of them, including one called “Secured Borders” on immigration and another called “Being Patriotic” that promoted pro-Trump rallies in Florida last year.
+
+The illicit Russian exploitation of social media fits squarely into Mr. Mueller’s wide-ranging investigation, and the companies said they have fully cooperated with his requests for detailed data. Though most public attention has been focused on whether the Trump campaign helped with the Russian hacking, leaking and other intrusions, the special counsel’s assignment is “a full and thorough investigation of the Russian government’s efforts to interfere in the 2016 presidential election.”
+
+One question for Mr. Mueller is certain to be whether the Russian Facebook advertising — and any other promotions using Twitter or other services — showed evidence of the kind of sophisticated targeting that might indicate that Americans had provided assistance. Facebook has said some of the ads were targeted to particular geographic areas but has not given details.
+
+For the social media companies, the furor over Russia’s interference raises a possibility that they deeply fear: government regulation, at least for the part of their business that involves political advertising. Political ads on social media have thus far escaped the rules that require, for instance, the familiar “I approve this message” tagline on candidates’ television spots.
+
+Tech executives worry that new rules could hinder the world’s largest digital advertising businesses. Because of the self-service advertising system these tech giants have created, anyone who has an account and a credit card can buy an ad. That has made for a long tail of small-ticket advertisers who add up to millions of dollars in spending.
+
+“Facebook’s number one priority is ad revenue,” said Ian Schafer, chief experience officer of Engine USA, a digital advertising holding company. “The last thing Facebook wants to do is give the government an inch, because then they’ll probably take a mile.”
+
+Last year, Facebook made nearly $28 billion in annual revenue, up 57 percent from a year earlier, and the trajectory remains bright. Roughly 97 percent of that revenue came from the company’s ad business.
+
+On a muggy, late spring evening, Tuan Pham awoke to the police storming his house in Hanoi, Vietnam.
+
+They marched him to a police station and made their demand: Hand over your Facebook password. Mr. Tuan, a computer engineer, had recently written a poem on the social network called “Mother’s Lullaby,” which criticized how the communist country was run.
+
+One line read, “One century has passed, we are still poor and hungry, do you ask why?”
+
+Mr. Tuan’s arrest came just weeks after Facebook offered a major olive branch to Vietnam’s government. Facebook’s head of global policy management, Monika Bickert, met with a top Vietnamese official in April and pledged to remove information from the social network that violated the country’s laws.
+
+While Facebook said its policies in Vietnam have not changed, and it has a consistent process for governments to report illegal content, the Vietnamese government was specific. The social network, they have said, had agreed to help create a new communications channel with the government to prioritize Hanoi’s requests and remove what the regime considered inaccurate posts about senior leaders.
+
+Populous, developing countries like Vietnam are where the company is looking to add its next billion customers — and to bolster its ad business. Facebook’s promise to Vietnam helped the social media giant placate a government that had called on local companies not to advertise on foreign sites like Facebook, and it remains a major marketing channel for businesses there.
+
+The diplomatic game that unfolded in Vietnam has become increasingly common for Facebook. The internet is Balkanizing, and the world’s largest tech companies have had to dispatch envoys to, in effect, contain the damage such divisions pose to their ambitions.
+
+The internet has long had a reputation of being an anything-goes place that only a few nations have tried to tame — China in particular. But in recent years, events as varied as the Arab Spring, elections in France and confusion in Indonesia over the religion of the country’s president have awakened governments to how they have lost some control over online speech, commerce and politics on their home turf.
+
+Even in the United States, tech giants are facing heightened scrutiny from the government. Facebook recently cooperated with investigators for Robert S. Mueller III, the special counsel investigating Russian interference in the American presidential election. In recent weeks, politicians on the left and the right have also spoken out about the excess power of America’s largest tech companies.
+
+As nations try to grab back power online, a clash is brewing between governments and companies. Some of the biggest companies in the world — Google, Apple, Facebook, Amazon and Alibaba among them — are finding they need to play by an entirely new set of rules on the once-anarchic internet.
+
+And it’s not just one new set of rules. According to a review by The New York Times, more than 50 countries have passed laws over the last five years to gain greater control over how their people use the web.
+
+“Ultimately, it’s a grand power struggle,” said David Reed, an early pioneer of the internet and a former professor at the M.I.T. Media Lab. “Governments started waking up as soon as a significant part of their powers of communication of any sort started being invaded by companies.”
+
+Facebook encapsulates the reasons for the internet’s fragmentation — and increasingly, its consequences.
+
+The company has become so far-reaching that more than two billion people — about a quarter of the world’s population — now use Facebook each month. Internet users (excluding China) spend one in five minutes online within the Facebook universe, according to comScore, a research firm. And Mark Zuckerberg, Facebook’s chief executive, wants that dominance to grow.
+
+But politicians have struck back. China, which blocked Facebook in 2009, has resisted Mr. Zuckerberg’s efforts to get the social network back into the country. In Europe, officials have repudiated Facebook’s attempts to gather data from its messaging apps and third-party websites.
+
+The Silicon Valley giant’s tussle with the fracturing internet is poised to escalate. Facebook has now reached almost everyone who already has some form of internet access, excluding China. Capturing those last users — including in Asian nations like Vietnam and African countries like Kenya — may involve more government roadblocks.
+
+“We understand that and accept that our ideals are not everyone’s,” said Elliot Schrage, Facebook’s vice president of communications and public policy. “But when you look at the data and truly listen to the people around the world who rely on our service, it’s clear that we do a much better job of bringing people together than polarizing them.”
+
+By mid-2016, a yearslong campaign by Facebook to get into China — the world’s biggest internet market — appeared to be sputtering.
+
+Mr. Zuckerberg had wined and dined Chinese politicians, publicly showed off his newly acquired Chinese-language skills — a moment that set the internet abuzz — and talked with a potential Chinese partner about pushing the social network into the market, according to a person familiar with the talks who declined to be named because the discussions were confidential.
+
+At a White House dinner in 2015, Mr. Zuckerberg had even asked the Chinese president, Xi Jinping, whether Mr. Xi might offer a Chinese name for his soon-to-be-born first child — usually a privilege reserved for older relatives, or sometimes a fortune teller. Mr. Xi declined, according to a person briefed on the matter.
+
+But all those efforts flopped, foiling Facebook’s attempts to crack one of the most isolated pockets of the internet.
+
+China has blocked Facebook and Twitter since mid-2009, after an outbreak of ethnic rioting in the western part of the country. In recent years, similar barriers have gone up for Google services and other apps, like Line and Instagram.
+
+Even if Facebook found a way to enter China now, it would not guarantee financial success. Today, the overwhelming majority of Chinese citizens use local online services like Qihoo 360 and Sina Weibo. No American-made apps rank among China’s 50 most popular services, according to SAMPi, a market research firm.
+
+Chinese tech officials said that although many in the government are open to the idea of Facebook releasing products in China, there is resistance among leaders in the standing committee of the country’s Politburo, its top decision-making body.
+
+In 2016, Facebook took tentative steps toward embracing China’s censorship policies. That summer, Facebook developed a tool that could suppress posts in certain geographic areas, The Times reported last year. The idea was that it would help the company get into China by enabling Facebook or a local partner to censor content according to Beijing’s demands. The tool was not deployed.
+
+In another push last year, Mr. Zuckerberg spent time at a conference in Beijing that is a standard on the China government relations tour. Using his characteristic brand of diplomacy — the Facebook status update — he posted a photo of himself running in Tiananmen Square on a dangerously smoggy day. The photo drew derision on Twitter, and concerns from Chinese about Mr. Zuckerberg’s health.
+
+For all the courtship, things never quite worked out.
+
+“There’s an interest on both sides of the dance, so some kind of product can be introduced,” said Kai-Fu Lee, the former head of Google in China who now runs a venture-capital firm in Beijing. “But what Facebook wants is impossible, and what they can have may not be very meaningful.”
+
+This spring, Facebook tried a different tactic: testing the waters in China without telling anyone. The company authorized the release of a photo-sharing app there that does not bear its name, and experimented by linking it to a Chinese social network called WeChat.
+
+One factor driving Mr. Zuckerberg may be the brisk ad business that Facebook does from its Hong Kong offices, where the company helps Chinese companies — and the government’s own propaganda organs — spread their messages. In fact, the scale of the Chinese government’s use of Facebook to communicate abroad offers a notable sign of Beijing’s understanding of Facebook’s power to mold public opinion.
+
+Chinese state media outlets have used ad buys to spread propaganda around key diplomatic events. Its stodgy state-run television station and the party mouthpiece newspaper each have far more Facebook “likes” than popular Western news brands like CNN and Fox News, a likely indication of big ad buys.
+
+To attract more ad spending, Facebook set up one page to show China’s state broadcaster, CCTV, how to promote on the platform, according to a person familiar with the matter. Dedicated to Mr. Xi’s international trips, the page is still regularly updated by CCTV, and has 2.7 million likes. During the 2015 trip when Mr. Xi met Mr. Zuckerberg, CCTV used the channel to spread positive stories. One post was titled “Xi’s UN address wins warm applause.”
+
+Fittingly, Mr. Zuckerberg’s eagerness and China’s reluctance can be tracked on Facebook.
+
+During Mr. Xi’s 2015 trip to America, Mr. Zuckerberg posted about how the visit offered him his first chance to speak a foreign language with a world leader. The post got more than a half million likes, including from Chinese state media (despite the national ban). But on Mr. Xi’s propaganda page, Mr. Zuckerberg got only one mention — in a list of the many tech executives who met the Chinese president.
+
+Last summer, emails winged back and forth between members of Facebook’s global policy team. They were finalizing plans, more than two years in the making, for WhatsApp, the messaging app Facebook had bought in 2014, to start sharing data on its one billion users with its new parent company. The company planned to use the data to tailor ads on Facebook’s other services and to stop spam on WhatsApp.
+
+A big issue: how to win over wary regulators around the world.
+
+Despite all that planning, Facebook was hit by a major backlash. A month after the new data-sharing deal started in August 2016, German privacy officials ordered WhatsApp to stop passing data on its 36 million local users to Facebook, claiming people did not have enough say over how it would be used. The British privacy watchdog soon followed.
+
+By late October, all 28 of Europe’s national data-protection authorities jointly called on Facebook to stop the practice. Facebook quietly mothballed its plans in Europe. It has continued to collect people’s information elsewhere, including the United States.
+
+“There’s a growing awareness that people’s data is controlled by large American actors,” said Isabelle Falque-Pierrotin, France’s privacy regulator. “These actors now know that times have changed.”
+
+Facebook’s retreat shows how Europe is effectively employing regulations — including tough privacy rules — to control how parts of the internet are run.
+
+The goal of European regulators, officials said, is to give users greater control over the data from social media posts, online searches and purchases that Facebook and other tech giants rely on to monitor our online habits.
+
+As a tech company whose ad business requires harvesting digital information, Facebook has often underestimated the deep emotions that European officials and citizens have tied into the collection of such details. That dates back to the time of the Cold War, when many Europeans were routinely monitored by secret police.
+
+Now, regulators from Colombia to Japan are often mimicking Europe’s stance on digital privacy. “It’s only natural European regulators would be at the forefront,” said Brad Smith, Microsoft’s president and chief legal officer. “It reflects the importance they’ve attached to the privacy agenda.”
+
+In interviews, Facebook denied it has played fast and loose with users’ online information and said it complies with national rules wherever it operates. It questioned whether Europe’s position has been effective in protecting individuals’ privacy at a time when the region continues to fall behind the United States and China in all things digital.
+
+Still, the company said it respected Europe’s stance on data protection, particularly in Germany, where many citizens have long memories of government surveillance.
+
+“There’s no doubt the German government is a strong voice inside the European community,” said Richard Allan, Facebook’s head of public policy in Europe. “We find their directness pretty helpful.”
+
+Europe has the law on its side when dictating global privacy. Facebook’s non-North American users, roughly 1.8 billion people, are primarily overseen by Ireland’s privacy regulator because the company’s international headquarters is in Dublin, mostly for tax reasons. In 2012, Facebook was forced to alter its global privacy settings — including those in the United States — after Ireland’s data protection watchdog found problems while auditing the company’s operations there.
+
+Three years later, Europe’s highest court also threw out a 15-year-old data-sharing agreement between the region and the United States following a complaint that Facebook had not sufficiently protected Europeans’ data when it was transferred across the Atlantic. The company denies any wrongdoing.
+
+And on Sept. 12, Spain’s privacy agency fined the company 1.2 million euros for not giving people sufficient control over their data when Facebook collected it from third-party websites. Watchdogs in Germany, the Netherlands and elsewhere are conducting similar investigations. Facebook is appealing the Spanish ruling.
+
+“Facebook simply can’t stick to a one-size-fits-all product around the world,” said Max Schrems, an Austrian lawyer who has been a Facebook critic after filing the case that eventually overturned the 15-year-old data deal.
+
+Potentially more worrying for Facebook is how Europe’s view of privacy is being exported. Countries from Brazil to Malaysia, which are crucial to Facebook’s growth, have incorporated many of Europe’s tough privacy rules into their legislation.
+
+“We regard the European directives as best practice,” said Pansy Tlakula, chairwoman of South Africa’s Information Regulator, the country’s data protection agency. South Africa has gone so far as to copy whole sections, almost word-for-word, from Europe’s rule book.
+
+Blocked in China and troubled by regulators in Europe, Facebook is trying to become “the internet” in Africa. Helping get people online, subsidizing access, and trying to launch satellites to beam the internet down to the markets it covets, Facebook has become a dominant force on a continent rapidly getting online.
+
+But that has given it a power that has made some in Africa uncomfortable.
+
+Some countries have blocked access, and outsiders have complained Facebook could squelch rival online business initiatives. Its competition with other internet companies from the United States and China has drawn comparisons to a bygone era of colonialism.
+
+For Kenyans like Phyl Cherop, 33, an entrepreneur in Nairobi, online life is already dominated by the social network. She abandoned her bricks-and-mortar store in a middle-class part of the city in 2015 to sell on Facebook and WhatsApp.
+
+“I gave it up because people just didn’t come anymore,” said Ms. Cherop, who sells items like designer dresses and school textbooks. She added that a stand-alone website would not have the same reach. “I prefer using Facebook because that’s where my customers are. The first thing people want to do when they buy a smartphone is to open a Facebook account.”
+
+As Facebook hunts for more users, the company’s aspirations have shifted to emerging economies where people like Ms. Cherop live. Less than 50 percent of Africa’s population has internet connectivity, and regulation is often rudimentary.
+
+Since Facebook entered Africa about a decade ago, it has become the region’s dominant tech platform. Some 170 million people — more than two thirds of all internet users from South Africa to Senegal — use it, according Facebook’s statistics. That is up 40 percent since 2015.
+
+The company has struck partnerships with local carriers to offer basic internet services — centered on those offered by Facebook — for free. It has built a pared-down version of its social network to run on the cheaper, less powerful phones that are prevalent there.
+
+Facebook is also investing tens of millions of dollars alongside telecom operators to build a 500-mile fiber-optic internet connection in rural Uganda. In total, it is working with about 30 regional governments on digital projects.
+
+“We want to bring connectivity to the world,” said Jay Parikh, a Facebook vice president for engineering who oversees the company’s plans to use drones, satellites and other technology to connect the developing world.
+
+Facebook is racing to gain the advantage in Africa over rivals like Google and Chinese players including Tencent, in a 21st century version of the “Scramble for Africa.” Google has built fiber internet networks in Uganda and Ghana. Tencent has released WeChat, its popular messaging and e-commerce app, in South Africa.
+
+Facebook has already hit some bumps in its African push. Chad blocked access to Facebook and other sites during elections or political protests. Uganda also took legal action in Irish courts to force the social network to name an anonymous blogger who had been critical of the government. Those efforts failed.
+
+In Kenya, one of Africa’s most connected countries, there has been less pushback.
+
+Facebook expanded its efforts in the country of 48 million in 2014. It teamed up with Airtel Africa, a mobile operator, to roll out Facebook’s Free Basics — a no-fee version of the social network, with access to certain news, health, job and other services there and in more than 20 other countries worldwide. In Kenya, the average person has a budget of just 30 cents a day to spend on internet access.
+
+Free Basics now lets Kenyans use Facebook and its Messenger service at no cost, as well as read news from a Kenyan newspaper and view information about public health programs. Joe Mucheru, Kenya’s tech minister, said it at least gives his countrymen a degree of internet access.
+
+Still, Facebook’s plans have not always worked out. Many Kenyans with access to Free Basics rely on it only as a backup when their existing smartphone credit runs out.
+
+“Free Basics? I don’t really use it that often,” said Victor Odinga, 27, an accountant in downtown Nairobi. “No one wants to be seen as someone who can’t afford to get online.”

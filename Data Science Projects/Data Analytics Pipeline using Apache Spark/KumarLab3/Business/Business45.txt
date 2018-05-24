@@ -1,0 +1,383 @@
+The European Commission has hit Google with a third antitrust charge. This time it says the tech company abused its search dominance on third-party websites. It also reinforced a claim, first made in 2010, that Google favored its own shopping service.
+
+A speedier, more focused campaign would better serve justice.
+
+The newest charge hits closest to the heart of Google’s empire. The company makes about 90 percent of its revenue from advertising. The commission claims Google acted anti-competitively by forcing onerous contracts on companies that used its search service on their sites. For example, a newspaper would use the service to let readers search its archive, or a retailer would allow shoppers to look for merchandise. These partners were obliged to prominently place a minimum number of ads served by Google and were forbidden to use rival search companies to place ads.
+
+Google’s 80 percent share of this market gives it plenty of power to act abusively. These contracts, as well as provisions requiring third parties to receive Google’s approval before making any change to the display of competing search ads, skirted the line and may have overstepped it.
+
+The commission is confronting Google on other fronts. It accuses the company of forcing handset manufacturers using its Android operating system to install Google apps and bundle services and apps together. That’s a potentially strong case, as similar behavior landed Microsoft in trouble.
+
+Then there’s the charge that Google favors its own comparison shopping services. The commission has now added more evidence to its underwhelming claims. There is little evidence consumers were harmed, and it is a minor service for the search giant. Yet regulators have pursued this charge since 2010. The newest charges add yet more time to the clock, giving Google another eight weeks to reply.
+
+That is a long time, considering the speed with which the tech market shifts. Facebook has tripled its active users and multiplied its revenue ninefold during the commission’s inquiry into Google’s shopping service. Regulators need to be thorough, but they also must hit companies fast and hard with strong charges aimed at the heart of abusive business practices. The commission’s slow and scattered approach is an ineffective way to curb tech monopolies.
+
+SAN FRANCISCO — In 2014, Russians working for a shadowy firm called the Internet Research Agency started gathering American followers in online groups focused on issues like religion and immigration. Around mid-2015, the Russians began buying digital ads to spread their messages. A year later, they tapped their followers to help organize political rallies across the United States.
+
+Their digital instrument of choice for all of these actions? Facebook and its photo-sharing site Instagram.
+
+The social network, more than any other technology tool, was singled out on Friday by the Justice Department when prosecutors charged 13 Russians and three companies for executing a scheme to subvert the 2016 election and support Donald J. Trump’s presidential campaign. In a 37-page indictment, officials detailed how the Russians repeatedly turned to Facebook and Instagram, often using stolen identities to pose as Americans, to sow discord among the electorate by creating Facebook groups, distributing divisive ads and posting inflammatory images.
+
+While the indictment does not accuse Facebook of any wrongdoing, it provided the first comprehensive account from the authorities of how critical the company’s platforms had been to the Russian campaign to disrupt the 2016 election. Facebook and Instagram were mentioned 41 times, while other technology that the Russians used was featured far less. Twitter was referred to nine times, YouTube once and the electronic payments company PayPal 11 times.
+
+It is unprecedented for an American technology company to be so central to what the authorities say was a foreign scheme to commit election fraud in the United States. The indictment further batters Facebook’s image after it has spent months grappling with questions about how it was misused and why it did not act earlier to prevent that activity.
+
+Jonathan Albright, research director at Columbia University’s Tow Center for Digital Journalism, said the indictment laid bare how effectively Facebook could be turned against the country.
+
+“Facebook built incredibly effective tools which let Russia profile citizens here in the U.S. and figure out how to manipulate us,” Mr. Albright said. “Facebook, essentially, gave them everything they needed.” He added that many of the tools that the Russians used, including those that allow ads to be targeted and that show how widespread an ad becomes, still pervade Facebook.
+
+Facebook, with more than two billion members on the social network alone, has long struggled with what its sites show and the kind of illicit activity it may enable, from selling unlicensed guns to broadcasting live killings. The company’s business depends on people being highly engaged with what is posted on its sites, which in turn helps make it a marquee destination for advertisers.
+
+When suggestions first arose after the 2016 election that Facebook may have influenced the outcome, Mark Zuckerberg, the company’s chief executive, dismissed the concerns. But by last September, Facebook had disclosed  that the Internet Research Agency had bought divisive ads on hot-button issues through the company. It later said 150 million Americans had seen the Russian propaganda on the social network and Instagram.
+
+The resulting firestorm has damaged Facebook’s reputation. Company officials, along with executives from Google and YouTube, were grilled by lawmakers last fall. Facebook has since hired thousands of people to help monitor content and has worked with Robert S. Mueller III, the special counsel leading the investigation into Russian election interference. It has also changed its advertising policy so that any ad that mentions a candidate’s name goes through a more stringent vetting process. Mr. Zuckerberg has vowed to not let Facebook be abused by bad actors.
+
+Yet Facebook’s multiple mentions in Friday’s indictment renew questions of why the world’s biggest social media company didn’t catch the Russian activity earlier or do more to stop it. How effective the company’s new efforts to reduce foreign manipulation have been is also unclear.
+
+Rob Goldman, Facebook’s vice president of advertising, waded into the discussion on Friday with a series of tweets that argued that Russia’s goal was to sow chaos among the electorate rather than to force a certain outcome in the election. On Saturday, President Trump cited those tweets as evidence that Russia’s disinformation campaign was not aimed at handing him a victory.
+
+In Silicon Valley, where Facebook has its headquarters, some critics pilloried the company after the indictment became public.
+
+“Mueller’s indictment underscores the central role of Facebook and other platforms in the Russian interference in 2016,” said Roger McNamee, a Silicon Valley venture capitalist who had invested early in Facebook. “In its heyday, television brought the country together, giving viewers a shared set of facts and experiences. Facebook does just the opposite, enabling every user to have a unique set of facts, driving the country apart for profit.”
+
+Joel Kaplan, Facebook’s vice president of global policy, said in a statement that the company was grateful the government was taking action “against those who abused our service and exploited the openness of our democratic process.”
+
+He added that Facebook was working with the Federal Bureau of Investigation ahead of this year’s midterm elections to ensure that a similar manipulation campaign would not take place. “We know we have more to do to prevent against future attacks,” he said.
+
+Facebook has previously questioned whether law enforcement should be more involved in helping to stop the threat from nation state actors. Facebook said it worked closely with the special counsel’s investigation.
+
+YouTube did not respond to a request for comment, while Twitter declined to comment. PayPal said in a statement that it has worked closely with law enforcement and “is intensely focused on combating and preventing the illicit use of our services.”
+
+According to the indictment, the Internet Research Agency, created in 2014 in St. Petersburg and employing about 80 people, was given the job of interfering with elections and political processes.
+
+The group began using American social media to achieve those aims in 2014, when it started making Facebook pages dedicated to social issues like race and religion. Over the next two years, the indictment said, the Russians stole the identities of real Americans to create fake personas and fake accounts on social media. The group then used those to populate and promote Facebook pages like United Muslims of America, Blacktivist and Secured Borders.
+
+By 2016, the indictment said, the size of some of these Russian-controlled Facebook groups had ballooned to hundreds of thousands of followers.
+
+The Russians then used these groups to push various messages, including telling Americans not to vote in the 2016 election for either Mr. Trump or his opponent, Hillary Clinton. In October 2016, according to the indictment, one Russian-controlled Instagram account called Woke Blacks posted a message saying: “Hatred for Trump is misleading the people and forcing Blacks to vote Killary. We cannot resort to the lesser of two devils. Then we’d surely be better off without voting AT ALL.”
+
+Around 2015, according to the indictment, the Russians also started purchasing ads on Facebook and other social media sites like Twitter, targeting specific communities within the United States. The group used stolen PayPal accounts to pay for the ads and to promote posts, spending hundreds of thousands of dollars on the outreach.
+
+In one ad, published to promote a Facebook event called “Down with Hillary,” an image of Mrs. Clinton was shown with a black “X” painted across her face. The text read, “Hillary Clinton is the co-author of Obama’s anti-police and anti-Constitutional propaganda.”
+
+By mid-2016, according to the indictment, the Russians were using their fake Facebook personas to organize political rallies in the United States. That June, for example, posing as the United Muslims of America on Facebook, they promoted a rally called “Support Hillary. Save American Muslims.” For an August 2016 event organized through Facebook, the Russians also paid for a cage to be built that was large enough to hold an actress depicting Mrs. Clinton in a prison uniform.
+
+At every step, the Russians used Facebook’s own tools to make sure their propaganda was as effective as possible. Those tools allowed them to get real-time results on which types of ad campaigns were reaching their target audience or which posts were getting the most engagement with viewers.
+
+Researchers said that those tools are still widely available and that while the company has worked to remove fake accounts and stem the flow of disinformation, it has refused to let outside researchers examine the data on how Russian actors used the platform so effectively.
+
+“They’re taking steps to fix this, but there’s no easy solution,” Anton Vuljaj, a Republican media strategist who has advised campaigns and media groups, said of Facebook and other social media companies. “This also shows that the public needs to be more vigilant about what is real and what is not online.”
+
+ (Want to get this briefing by email? Here’s the sign-up.)
+
+Good morning.
+
+Here’s what you need to know:
+
+• The U.S. is expected to surpass Saudi Arabia and to rival Russia as the world’s leading oil producer this year, offering advantages beyond lower prices at the pump.
+
+The supply cushion allows the U.S. to better weather global disruptions, and relieves pressure to act militarily when conflicts arise overseas.
+
+While President Trump offered reassurances in Davos, Switzerland, last week that “America first does not mean America alone,” China may have been the real star there.
+
+• Mr. Trump will deliver his first State of the Union address on Tuesday. Here’s what to expect.
+
+• Our most popular story this weekend was about an obscure company that sells Twitter followers and retweets to celebrities, businesses and anyone who wants to appear popular or influential.
+
+The company, Devumi, has provided customers with more than 200 million followers, our investigation found. At least 55,000 of the accounts used the personal details of real Twitter users, including minors.
+
+Twitter forbids selling or buying followers or retweets, yet it has not imposed simple safeguards that could throttle those practices.
+
+• After our article was published, the New York attorney general opened an investigation into Devumi, the latest in a series of federal and state inquiries into fake accounts on social media.
+
+• Museums around the world are wrestling with the implications of a decision by the National Gallery of Art in Washington to postpone an exhibition because of sexual harassment accusations against the artist, Chuck Close.
+
+“Pablo Picasso was one of the worst offenders of the 20th century in terms of his history with women,” one gallery director said. “Are we going to take his work out of the galleries?”
+
+• Separately, the #MeToo moment could be catching up with Woody Allen. Stars are distancing themselves from him, and his distributor, Amazon, is discussing ending their relationship.
+
+• New York City subways have the worst on-time performance of any major rapid transit system in the world. A video tells the story of how it ended up in such a state.
+
+Despite the troubles, the subway does benefit some: In parts of Manhattan, being near a station adds $3.85 per square foot to the value of commercial property, according to one study.
+
+• With the transit system in decline, there is a growing consensus that property owners who benefit from proximity to the subway should shoulder more of its cost.
+
+• For the first time since the global economic crisis a decade ago, every major economy is expanding.
+
+• Amazon’s search for a second headquarters has yielded free research that the company can mine when picking spots for future warehouses and satellite offices.
+
+• Janet Yellen’s final meeting as chairwoman of the Federal Reserve is among the headlines to watch this week.
+
+• U.S. stocks were up on Friday. Here’s a snapshot of global markets today.
+
+Tips, both new and old, for a more fulfilling life.
+
+• Make sure your medicine gets through customs.
+
+• This year, travel with wellness in mind.
+
+• Start the week with a red lentil stew spiced with turmeric, chile and ginger.
+
+• The Taliban used an ambulance packed with explosives to set off a blast that killed more than 100 people in Kabul, Afghanistan.
+
+Militants staged another attack early today near the city’s main military academy, killing at least 11 soldiers.
+
+• Stephen Wynn, the billionaire casino mogul, stepped down from the Republican National Committee after being accused of sexual misconduct.
+
+Separately, Senator Marco Rubio of Florida fired his chief of staff over allegations of improper conduct.
+
+• President Milos Zeman of the Czech Republic was re-elected. The populist leader has stoked resentment toward Muslim immigrants.
+
+• At the Australian Open, Caroline Wozniacki won her first major singles title, and Roger Federer his 20th.
+
+• “Maze Runner: The Death Cure”  earned $23.5 million to dethrone “Jumanji” from the top spot at the North American box office.
+
+• Partisan writing you shouldn’t miss
+
+Writers from across the political spectrum discuss President Trump’s aborted effort to fire Robert Mueller, the special counsel.
+
+• Russia is banned from Paralympics
+
+The country has not sufficiently responded to its doping scandal, international officials announced today, refusing to lift a ban for the Games in Pyeongchang, South Korea, in March.
+
+• A sweep at the Grammys
+
+Bruno Mars won all six of the awards he was nominated for, including the top prizes of album, record and song of the year.
+
+The awards show also addressed topics including immigration, race and the #MeToo movement. Here’s a full list of the winners and photographs from the red carpet.
+
+Want more music news? Sign up for our email newsletter Louder.
+
+• In memoriam
+
+Ingvar Kamprad, a Swedish entrepreneur, became one of the world’s richest men by turning simply-designed, low-cost furniture into the Ikea empire. He was 91.
+
+• Quotation of the day
+
+“He said, ‘Here Mary, here are scissors’ — playing with scissors was as exciting for her as Xeroxing was for me — and he said, ‘Cut off these words.’ ”
+
+— Robert Ellsberg, recounting how he and his sister, Mary, helped their father, Daniel Ellsberg, photocopy the Pentagon Papers. The words that Mary cut off were “top secret.”
+
+• The Times, in other words
+
+Here’s an image of today’s front page, and links to our Opinion content and crossword puzzles.
+
+He was born in San Francisco and named after a Confederate general. He died as a celebrated poet of the U.S. and its people, especially the flinty farmers of New England.
+
+Robert Lee Frost, whose life was full of paradoxes, died on this day in 1963. A gifted observer of nature and the human spirit, he won four Pulitzer Prizes and spoke at John F. Kennedy’s inauguration in 1961.
+
+Frost lived for years in Vermont and New Hampshire, initially working as a farmer, reporter and shoemaker. His poetry, including works like “The Road Not Taken” and “Stopping by Woods on a Snowy Evening,” used colloquial language and spoke to an urbanized generation that longed for the simplicities of rural life.
+
+“I don’t like to write anything I don’t see,” he said before his 88th birthday.
+
+But he “had no illusions about the life of the soil,” The Times noted the day after his death, in part because he knew it could be “spiritually crippling and physically exhausting.”
+
+Mike Ives contributed reporting.
+
+_____
+
+Your Morning Briefing is published weekdays at 6 a.m. Eastern and updated all morning. Browse past briefings here. 
+
+If photographs appear out of order, please download the updated New York Times app from iTunes or Google Play.
+
+What would you like to see here? Contact us at briefing@nytimes.com.
+
+You can get the briefing delivered to your inbox Sunday through Friday. We have four global editions, timed for the Americas, Europe, Asia and Australia, and an Evening Briefing on weeknights. Check out our full range of free newsletters here.
+
+SAN FRANCISCO — This is the year artificial intelligence came into its own for mainstream businesses, at least as a marketing feature.
+
+On Sunday, Salesforce.com, which sells online software for sales and marketing, announced it would be adding A.I. to its products. Its system, called Einstein, promises to provide insights into what sales leads to follow and what products to make next.
+
+Salesforce chose this date to pre-empt Oracle, the world’s largest business software company, which on Sunday evening began its annual customer event in San Francisco. High on Oracle’s list of new features: real-time analysis of enormous amounts of data. Oracle calls its product Oracle A.I.
+
+Elsewhere, General Electric is pushing its A.I. business, called Predix. IBM has ads featuring its Watson technology talking with Bob Dylan. These moves, along with similar projects at most major tech companies and consulting firms, represent years of work and billions in investment.
+
+There are big pushes in A.I. in agriculture, manufacturing, aviation and pretty much every other sector of the economy.
+
+It’s all very exciting, the way great possibilities are, and clearly full of great buzzwords and slogans. But will other companies see any value in all this or understand if A.I. has value for them?
+
+“No one really knows where the value is,” said Marc Benioff, co-founder and chief executive of Salesforce. “I think I know — it’s in helping people do the things that people are good at, and turning more things over to machines.”
+
+Mr. Benioff wasn’t selling Einstein’s capabilities short. He was talking about the long-term value of artificial intelligence, which is passing through a familiar phase — a technology that is strange and new, that sometimes overpromises what it can do and is headed for uses not easily seen at the start.
+
+Cloaked inside terms like deep learning and machine intelligence, A.I. is essentially a series of advanced statistics-based exercises that review the past to indicate the likely future, or look at current customer choices to figure out where to put more or less energy.
+
+Perhaps a better question than “What is the value?” of this explosion of advanced statistics is “Why now?” That shows both the opportunity and why many companies are scared about missing out.
+
+Much of today’s A.I. boom goes back to 2006, when Amazon started selling cheap computing over the internet. Those measures built the public clouds of Amazon, Google, IBM and Microsoft, among others. That same year, Google and Yahoo released statistical methods for dealing with the unruly data of human behavior. In 2007, Apple released the first iPhone, a device that began a boom in unruly-data collection everywhere.
+
+Suddenly, old A.I. experiments were relevant, and money and cheap data resources were available for building new algorithms. Ten years later, computing is cheaper than ever, companies live online and in their phone apps, and sensors are bringing even more unruly data from more places.
+
+Amazon, Google and the rest have exceptional A.I. resources for sale, but many older companies are wary of turning their data over to these upstarts. That, along with fear of a competitor getting on top of A.I. first, is a big motivation for some to try things out.
+
+Salesforce is selling Einstein as a system that can work predictive magic without having to look at your data, in what Mr. Benioff calls a “democratizing” move that will create millions of A.I. users who are not engineers.
+
+He said this on his way to attend a series of customer focus groups around the country, however — strong evidence that customers don’t get it yet, even if they’re willing to try it.
+
+“There’s fear of Google and Microsoft controlling everything, and there’s a desire to apply A.I. to anything that’s digital,” said Michael Biltz, managing director of Accenture’s technology vision practice. “People are going to have to experiment, most likely first on pain points like security and product marketing.”
+
+How will we know when the A.I. revolution has taken hold? A technology truly matures when it disappears. We don’t marvel at houses with electricity now, or the idea of driving to work at 60 miles an hour. We can say “phone” and mean a hand-held computer with NASA-level processing power and a professional-quality camera for taking selfies with our drones.
+
+A.I. is probably heading for the same places, invisibly sorting through lots of data everywhere to continuously update and automate most of our lives. Goodness knows what the weird new tech thing will be about at that point.
+
+BERLIN —  Europe has spent years investigating Google’s alleged antitrust activities. Now the search giant wants a little more time to respond to the charges.
+
+The European Commission on Thursday gave Google until the end of the month to answer claims that it favored its own comparison shopping search over those of rivals. The move came just days before an Aug. 17 deadline that Europe’s competition authorities had set for Google to respond to the accusations.
+
+Google’s move on Monday to reorganize its business units under a new name, Alphabet, will not affect the antitrust case, according to European officials and antitrust lawyers. Under the new structure, Alphabet will act as a parent entity, with the biggest company under that umbrella being the traditional Google business, which includes the search engine, maps and the YouTube video service.
+
+The Silicon Valley tech giant had already asked for an extension to the initial 10-week period that the European Commission had given for a response time.
+
+In a brief statement, a spokesman for the European Commission said that it “has granted an extension allowing Google to fully exercise its rights of defense.”
+
+Europe’s charges have centered on how Google presents its online search services to users compared with rival offerings from the likes of Yelp, Microsoft and smaller European tech companies.
+
+The lengthy investigation has led to complaints from some industry executives that Europe is unfairly focusing on American tech companies. Europe is also carrying out separate competition, tax and privacy investigations into Amazon, Apple and Facebook.
+
+European policy makers say that they have not specifically targeted American tech companies and that their aim is to enforce the region’s tough rules and create a level playing field for all companies to operate in the 28-member bloc.
+
+As part of this effort, Margrethe Vestager, Europe’s antitrust chief, announced formal charges against the search giant  in April, saying Google favored its own shopping services over those of rivals.
+
+European officials also continue to investigate whether Google promoted its other so-called vertical searches, like online travel and restaurant listings, unfairly over others. And the region’s antitrust authorities opened a separate inquiry into Google’s dominant Android mobile operating system, which is used by almost three-quarters of Europe’s smartphone users, according to the data provider IDC.
+
+This so-called statement of objections, or formal charges against Google, could have a serious financial impact on the company, the world’s second largest by market capitalization, after Apple. If Google is found to have breached Europe’s antitrust rules, Ms. Vestager could levy a fine exceeding $6.6 billion, or about 10 percent of Google’s annual revenue.
+
+These financial penalties may be based on revenue generated from European users on the company’s AdWords online advertising service, according to two people with knowledge of the statement of objections. Europe also may extend fines linked to revenue from Google’s comparison-shopping service in Europe and revenue from product queries on Google’s search engine in the region, the two people added.
+
+Unlike in the United States, official antitrust charges in the European Union are typically not made public.
+
+Europe’s 120-page statement of objections, which has been sent to Google and several complainants in the case, also threatened to force the company to use the same methods and processes to rank rival services as it does for its own search products.
+
+That is a significant change to previous efforts to end Europe’s competition case. Last year, Joaquín Almunia, the former European antitrust commissioner, initially agreed to settle the investigation after Google said it would allow rivals to place their vertical search results next to its own, as long as they paid to do so.
+
+Competitors and many European lawmakers, however, balked at that deal, which eventually fell apart and laid the groundwork for the European Commission’s formal antitrust charges against Google.
+
+Waiting for Uber to finally go public? You’ll have to wait a bit longer.
+
+The company’s new chief executive, Dara Khosrowshahi, told employees on Wednesday at his first staff meeting that Uber should go public in the next 18 to 36 months. Such a timetable would mean an initial public offering in 2019 at the earliest.
+
+That may annoy those who had hoped the ride-hailing giant would hit the stock market next year. But the company has been in talks to allow existing shareholders to sell to new investors, like SoftBank of Japan.
+
+Among the new C.E.O.’s first pronouncements: Change is coming. “What got us here is not what’s going to get us to the next level,” he said.
+
+He was introduced by his predecessor, Travis Kalanick, who was ousted in part because of a revolt by existing shareholders like the venture capital firm Benchmark.
+
+But Mr. Kalanick had something to celebrate as well.
+
+Judge Samuel Glasscock III of Delaware’s Court of Chancery ruled that a legal dispute between Mr. Kalanick and Benchmark be moved to arbitration for now. Benchmark’s lawyers had argued for trying the case in open court, but said the company was willing to arbitrate parts of its complaint.
+
+President Trump, speaking in Missouri on Wednesday, made his long-awaited pitch for a sweeping tax overhaul. But it was still missing details.
+
+The corporate tax rate would come down to 15 percent, from 35 percent, he promised. He also said he would eliminate “loopholes and complexity that primarily benefit the wealthiest Americans and special interests.”
+
+“Lower taxes on American business means higher wages for American workers,” he said.
+
+But economists don’t think it is quite that simple. They argue that corporate tax cuts would do relatively little to increase wages or create jobs. After all, big companies are already sitting on nearly $2 trillion in cash.
+
+“Corporate profits are at record highs,” said Michael Linden, a fellow at the Roosevelt Institute. “Corporations are sitting on a vast amount of capital. Reducing their tax burden would have absolutely no effect on workers.”
+
+Still, Mr. Trump used the opportunity to exult over the economy, which was growing at a pace of 3 percent. “I happen to be one who thinks it can go much higher,” he said. “There is no reason why we should not.”
+
+Google’s power and influence is already under scrutiny. The departure of Barry Lynn from a liberal Washington think tank that has received money from the technology giant doesn’t help.
+
+Here’s the timeline, according to The New York Times:
+
+• Barry Lynn, a scholar at the New America Foundation, posted a statement praising the European Union shortly after it fined Google $2.7 billion in June.
+
+• Eric E. Schmidt, the executive chairman of Google’s parent company, complained to the think tank’s president, Anne-Marie Slaughter. Google and Mr. Schmidt have given more than $21 million to the New America Foundation since its inception in 1999.
+
+• Mr. Lynn’s statement disappeared for a few hours, and then was reposted.
+
+• Days later, Ms. Slaughter told Mr. Lynn that he and his team should part ways with the think tank. She wrote in an email to the scholar that he was “imperiling the institution as a whole.”
+
+Google denied playing a role in the split and said it supported a wide range of groups with which it doesn’t always agree.
+
+Worth noting: Google spent $9.5 million on lobbying, more than almost any other American company, in the first half of this year.
+
+A consortium led by Bain Capital has brought in Apple Inc. to help bolster its bid for Toshiba’s chip unit, Reuters and The Financial Times reported.
+
+Toshiba had missed its self-imposed deadline to sell the prized chip unit. Proceeds from a sale would be used to bolster a balance sheet weighed down by losses from Westinghouse, Toshiba’s bankrupt nuclear business in the United States.
+
+Without a deal soon, the beleaguered Toshiba would have to report negative net worth for a second year and could be delisted, according to Reuters. Time is also in short supply because the industry leader, Samsung, has been pouring money into its chip business to stay ahead.
+
+Here’s how the Bain-led bid — valued at 2 trillion yen, or about $18.2 billion — breaks down:
+
+• 1.1 trillion yen from Bain and the South Korean chip maker SK Hynix
+
+• 400 billion yen from Apple, which wants to lessen its dependence on chips made by Samsung
+
+• 600 billion yen from Japanese banks
+
+• 200 billion yen from Toshiba
+
+• The offer also invites state-backed investors to get involved after arbitration with Western Digital is settled.
+
+But other competitors are still out there:
+
+• A consortium led by Western Digital and including Kohlberg Kravis Roberts, which has bid about 1.9 trillion yen
+
+• Foxconn of Taiwan is also said to be putting together a viable deal, according to The Financial Times
+
+Each Saturday, Farhad Manjoo and Mike Isaac, technology reporters at The New York Times, review the week’s news, offering analysis and maybe a joke or two about the most important developments in the tech industry.
+
+Mike: Aloha, Farhad! I’m back from a week of vacation in paradise, and everything compared to Hawaii is terrible. Usually for a week or two after returning from vacation I bemoan the advent of capitalism until I finally get used to working for a living again.
+
+How have things been while I was away?
+
+Farhad: Capitalism is great! While you were away I created a multibillion-dollar business conglomerate, which some of my deputies are now running while I take some much-needed “Farhad time” thinking big ideas on the couch. Look, Mike, if you work as hard as I do, you’re sure to see a big payoff someday.
+
+Mike: Hmm ... right. Well, I did get a taste of work from vacay. I was pushing for the dateline on this Twitter story to be from “on da beach sipping mai tais, Hawaii.” The brass didn’t go for it.
+
+Farhad: I think it’s pretty obvious from the story that you were sipping something.
+
+Mike: O.K., news time. This week, it came out that Disney is kinda, sorta mulling  a possible bid for Twitter, adding yet another suitor to the shortlist of companies that are kinda, sorta thinking about making offers. I had heard an inkling of this, too, but I kinda, sorta didn’t feel it was worth writing. Perhaps I was wrong?
+
+Farhad: I’m with you. Recode’s Peter Kafka pointed out the many reasons it would be silly for Disney to consider Twitter. Twitter would be very expensive for Disney, and it’s not at all clear that Disney would have any capacity to fix Twitter’s user growth problem. There’s also the brand conflict between the two companies (Disney is the happiest place on earth; Twitter is for the worst people on the planet).
+
+But the big one is about media: Twitter wants to sign up lots of content companies to provide programming on Twitter. As Peter points out, if Disney owns it, why would competing companies want to play along? They wouldn’t.
+
+Mike: Yeah. It was a leak made to help Twitter, methinks, but ended up dinging Disney’s stock price. Ouch!
+
+Farhad: But wait, there was one more bit of Twitter news: Marc Andreessen, the famous venture capitalist and somewhat controversial tweeter, announced that he was taking a break from the platform. At an industry event this week, he explained the move served as a kind of liberation. “I feel 50 pounds lighter,” he said.
+
+I think this is terrible news for Twitter. Whether or not you’re a fan of Andreessen’s tweets, it’s a pretty bad sign if one of your more prolific producers of content decides he needs a break — and then says he feels much better after quitting.
+
+But I’m doubtful this will last long. Andreessen seems to really love the daily scrum of Twitter. As someone who shares that affection, I suspect it must be hard to stay away too long. I predict he’ll be back in six months.
+
+Mike: I mean, if you’re a person with outlandish and often controversial opinions willing to defend them vehemently in public on the internet, I guess I could see how getting off Twitter would be a refreshing change. Or you could just, you know, not tweet.
+
+In other news, Google has rebranded its set of work and productivity apps. It is now called “G Suite,” continuing the company’s streak of vaguely risqué product names.
+
+Facebook, meanwhile, is supposedly readying for release its enterprise collaboration product, which essentially makes it easier to talk to co-workers and extended family members throughout the workday. Somehow I don’t think this will take off.
+
+Farhad: More ways to talk to co-workers like you? Sign me up!
+
+Mike: Uber is promoting its self-driving trucking division, Otto, which expects to start putting actual trucks on the road next year after expanding its fleet of trucks and creating new partnerships this year.
+
+Oh, also YouTube hired a music bigwig, Lyor Cohen, who created the legendary Def Jam label and currently runs the label home to Fetty Wap, an artist I am told is beloved by “the kids.” It’s in the same vein as Apple picking up Jimmy Iovine or Spotify poaching Troy Carter, I gather. If you’re a tech company that has generally bad relationships with the music industry, you hire a veteran to be the face of negotiations for your company and hopefully do a bunch of repair work over the long haul.
+
+Funny thing is, after asking about Cohen on Twitter yesterday, everyone told me the guy is sort of notorious for being, um, brusque, so we’ll see how well that charm offensive goes.
+
+Farhad: Look, anyone who signs Fetty Wap is good in my book. “Trap Queen,” amirite?
+
+Mike: Indeed. The big thing this week, however, had little to do with traditional technology stuff and was more about space: The final frontier, as it were.
+
+In a nutshell, Elon Musk, everyone’s favorite playboy billionaire and “Iron Man” inspiration, showed off his plans to take us to Mars within the next eight years. A few hitches: It’ll cost $10 billion if everything goes to plan, and we’ll probably have to be O.K. with the first people to go up possibly dying.
+
+Sounds good to me. Thoughts?
+
+Farhad: I’m split. On the one hand, this is so great! After the Cold War-inspired space race, the United States government has long forgotten about big bets on space exploration. Whether you care about space for high-minded reasons — you think that exploring the universe is the highest purpose of humanity — or for more practical ones (you believe, like Musk does, that we need a backup plan in case the Earth goes to pot), the news that someone is finally pouring resources and ingenuity into a big extraplanetary goal should warm your heart.
+
+Mike: It does! Also it seems like people who go to Burning Man really love it, too.
+
+Farhad: On the other hand: Man, isn’t this guy stretched too thin? It does kind of seem like he keeps raising the stakes in order to distract everyone from his problems, right?
+
+Just look at his schedule: In the past few months Musk showed off Tesla’s first mass-market electric car, the Model 3; presided over a controversial merger of Tesla and SolarCity; outlined a new “master plan” for Tesla that suggests it will one day compete with Uber as a ride-hailing company; set out huge and potentially unfeasible production goals for the car company while dealing with fallout from accidents involving Tesla’s self-driving tech; tried to rally his workers in the face of a cash crunch at Tesla; and, on top of all that, Musk’s rocket that happened to be carrying another billionaire’s satellite exploded on the launchpad.
+
+That’s so much stuff! If he ever wants to finish anything, shouldn’t he, like, focus?
+
+Mike: This is why you will never be a billionaire playboy, Farhad. Focusing on stuff is for losers. Blasting out ideas in a shotgun spray of creativity is how history is made and old industries are disrupted. Just ask me, Mike “Playboy” Isaac, a wellspring of creativity.
+
+Anyway, the people have voted and you’re on the first rocket ship to Mars, not me. Any last words before possibly making the ultimate sacrifice?
+
+Farhad: On the one hand, I will dearly miss my wife and kids. On the other hand, I will no longer have to do this insufferable weekly chat with you. Tough decision, but I think I’m going with Elon. Mars or bust!
