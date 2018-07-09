@@ -1,0 +1,1 @@
+A Group Messenger application which ensures message ordering guarantees and  implements a total ordering across messenger instances that preserves FIFO Ordering. Messages are stored on a content provider (key and value pair repository
