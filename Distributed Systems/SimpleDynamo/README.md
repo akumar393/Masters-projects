@@ -2,7 +2,7 @@ Simplified Version of Amazon’s Dynamo that implements partitioning, replicatio
 The application implements a distributed key-value storage system that provides both availability and linearizability. The implementation performs successful read and write operations even in the presence of failures. Similar to DHT ,the application contains a content provider
 providing simpliﬁed Dynamo functionality to store and retrieve data across multiple devices even under failures.
 
-ImplementingtheContentProvider :
+Implementing the ContentProvider :
 
 In implementing the content provider, we may make the following assumptions:
 1. There will always be 5 nodes in the system (except for failures). There is no need to implement joining or departure of nodes. The nodes hard-code the ring structure, as long as they handle failure.
