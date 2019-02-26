@@ -10,6 +10,6 @@ In implementing the content provider, we may make the following assumptions:
 3. All failures are temporary. You can assume that a failed node will recover soon. It will not be permanently unavailable during a run.
 4. Correctness is more important than performance!
 5. We do not  implement virtual nodes. (These are part of the Dynamo protocol) All partitions are static and ﬁxed.
-6. Hinted handoff is not implemented. This means that,during a failure,it is OK to replicate on only two nodes (if the third replica would be on a failed node). (Again, see the Dynamo paper.)
+6. Hinted handoff is not implemented. This means that,during a failure,it is OK to replicate on only two nodes (if the third replica would be on a failed node). 
 7. Linearizability will be checked only on a per-key basis. Formally, we implement per-key linearizability.
 
